@@ -1,0 +1,4942 @@
+[
+  {
+    "id": "c2f8fd32-5229-4dea-84f2-2ab31906c1c5",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "complete-words",
+    "title": "Measuring a moving glacier",
+    "text": "A glacier can move so slowly that its motion is difficult to notice. Scientists {{1}} markers {{2}} frozen {{3}} and {{4}} their {{5}} each {{6}} while {{7}} images {{8}} broader {{9}} over {{10}} periods. Measurements from several years help distinguish a brief seasonal change from a lasting trend. A single photograph cannot show how quickly the ice is moving. Researchers also record snowfall because fresh snow may hide the markers. Combining ground observations with images from above gives a more useful account of the glacier than either method alone.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Complete the missing letters.",
+        "prefix": "pl",
+        "missingLetters": 3,
+        "options": [],
+        "answer": "ace",
+        "explanation": "The complete word is \"place\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      },
+      {
+        "id": 2,
+        "prompt": "Complete the missing letters.",
+        "prefix": "acr",
+        "missingLetters": 3,
+        "options": [],
+        "answer": "oss",
+        "explanation": "The complete word is \"across\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      },
+      {
+        "id": 3,
+        "prompt": "Complete the missing letters.",
+        "prefix": "surf",
+        "missingLetters": 4,
+        "options": [],
+        "answer": "aces",
+        "explanation": "The complete word is \"surfaces\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      },
+      {
+        "id": 4,
+        "prompt": "Complete the missing letters.",
+        "prefix": "mea",
+        "missingLetters": 4,
+        "options": [],
+        "answer": "sure",
+        "explanation": "The complete word is \"measure\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      },
+      {
+        "id": 5,
+        "prompt": "Complete the missing letters.",
+        "prefix": "posi",
+        "missingLetters": 5,
+        "options": [],
+        "answer": "tions",
+        "explanation": "The complete word is \"positions\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      },
+      {
+        "id": 6,
+        "prompt": "Complete the missing letters.",
+        "prefix": "sum",
+        "missingLetters": 3,
+        "options": [],
+        "answer": "mer",
+        "explanation": "The complete word is \"summer\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      },
+      {
+        "id": 7,
+        "prompt": "Complete the missing letters.",
+        "prefix": "sate",
+        "missingLetters": 5,
+        "options": [],
+        "answer": "llite",
+        "explanation": "The complete word is \"satellite\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      },
+      {
+        "id": 8,
+        "prompt": "Complete the missing letters.",
+        "prefix": "rev",
+        "missingLetters": 3,
+        "options": [],
+        "answer": "eal",
+        "explanation": "The complete word is \"reveal\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      },
+      {
+        "id": 9,
+        "prompt": "Complete the missing letters.",
+        "prefix": "patt",
+        "missingLetters": 4,
+        "options": [],
+        "answer": "erns",
+        "explanation": "The complete word is \"patterns\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      },
+      {
+        "id": 10,
+        "prompt": "Complete the missing letters.",
+        "prefix": "lon",
+        "missingLetters": 3,
+        "options": [],
+        "answer": "ger",
+        "explanation": "The complete word is \"longer\" in this sentence: Scientists place markers across frozen surfaces and measure their positions each summer while satellite images reveal broader patterns over longer periods."
+      }
+    ]
+  },
+  {
+    "id": "b05b1357-9dac-4240-8a4c-5bb8f2546077",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "complete-words",
+    "title": "An archive of ordinary voices",
+    "text": "An oral history archive preserves accounts that may never appear in official records. Local {{1}} interview {{2}} residents {{3}} changing {{4}} and {{5}} their {{6}} while {{7}} historians {{8}} these {{9}} with {{10}} documents. A remembered date may be inaccurate even when a description of everyday routines is valuable. Interviewers therefore ask open questions and avoid suggesting the answer they expect. The recordings retain the speakers' own words. Together with maps and letters, these accounts help future listeners understand how different people experienced the same changes.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Complete the missing letters.",
+        "prefix": "volun",
+        "missingLetters": 5,
+        "options": [],
+        "answer": "teers",
+        "explanation": "The complete word is \"volunteers\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      },
+      {
+        "id": 2,
+        "prompt": "Complete the missing letters.",
+        "prefix": "ol",
+        "missingLetters": 3,
+        "options": [],
+        "answer": "der",
+        "explanation": "The complete word is \"older\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      },
+      {
+        "id": 3,
+        "prompt": "Complete the missing letters.",
+        "prefix": "ab",
+        "missingLetters": 3,
+        "options": [],
+        "answer": "out",
+        "explanation": "The complete word is \"about\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      },
+      {
+        "id": 4,
+        "prompt": "Complete the missing letters.",
+        "prefix": "neighb",
+        "missingLetters": 7,
+        "options": [],
+        "answer": "orhoods",
+        "explanation": "The complete word is \"neighborhoods\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      },
+      {
+        "id": 5,
+        "prompt": "Complete the missing letters.",
+        "prefix": "rec",
+        "missingLetters": 3,
+        "options": [],
+        "answer": "ord",
+        "explanation": "The complete word is \"record\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      },
+      {
+        "id": 6,
+        "prompt": "Complete the missing letters.",
+        "prefix": "memo",
+        "missingLetters": 4,
+        "options": [],
+        "answer": "ries",
+        "explanation": "The complete word is \"memories\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      },
+      {
+        "id": 7,
+        "prompt": "Complete the missing letters.",
+        "prefix": "tra",
+        "missingLetters": 4,
+        "options": [],
+        "answer": "ined",
+        "explanation": "The complete word is \"trained\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      },
+      {
+        "id": 8,
+        "prompt": "Complete the missing letters.",
+        "prefix": "com",
+        "missingLetters": 4,
+        "options": [],
+        "answer": "pare",
+        "explanation": "The complete word is \"compare\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      },
+      {
+        "id": 9,
+        "prompt": "Complete the missing letters.",
+        "prefix": "sto",
+        "missingLetters": 4,
+        "options": [],
+        "answer": "ries",
+        "explanation": "The complete word is \"stories\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      },
+      {
+        "id": 10,
+        "prompt": "Complete the missing letters.",
+        "prefix": "wri",
+        "missingLetters": 4,
+        "options": [],
+        "answer": "tten",
+        "explanation": "The complete word is \"written\" in this sentence: Local volunteers interview older residents about changing neighborhoods and record their memories while trained historians compare these stories with written documents."
+      }
+    ]
+  },
+  {
+    "id": "3adb0545-ea1c-4e2b-8af5-778f5a0b9dec",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "daily-life",
+    "title": "Repair station reservation",
+    "text": "BICYCLE REPAIR STATION\nStudents may reserve a workbench for 45 minutes through the campus app. Tools are provided, but please bring any replacement parts you need. A volunteer is available on Wednesdays to demonstrate simple repairs; the volunteer does not repair bicycles on behalf of their owners. Cancel at least two hours before your booking so another rider can use the space.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What must a student bring?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Replacement parts"
+          },
+          {
+            "id": "B",
+            "text": "A workbench"
+          },
+          {
+            "id": "C",
+            "text": "All necessary tools"
+          },
+          {
+            "id": "D",
+            "text": "A printed campus map"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The notice provides tools but asks riders to supply parts."
+      },
+      {
+        "id": 2,
+        "prompt": "What does the Wednesday volunteer offer?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Longer booking periods"
+          },
+          {
+            "id": "B",
+            "text": "Guidance while riders perform repairs"
+          },
+          {
+            "id": "C",
+            "text": "A complete repair service"
+          },
+          {
+            "id": "D",
+            "text": "Free replacement bicycles"
+          }
+        ],
+        "answer": "B",
+        "explanation": "The volunteer demonstrates repairs rather than doing them for owners."
+      }
+    ]
+  },
+  {
+    "id": "20d702fd-6198-43ef-8beb-bbc7288fa9f5",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "daily-life",
+    "title": "Field trip update",
+    "text": "To: Geology seminar\nSubject: Thursday field visit\nThe coastal path is closed for maintenance, so we will visit the inland quarry instead. The bus still leaves at 8:30 from the science building. You will not need the tide chart listed on the original checklist. Bring a packed lunch and sturdy shoes. Please tell me by Tuesday if you require an accessible route; the quarry staff can arrange one with advance notice.\nDr. Ellis",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Which item is no longer needed?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Sturdy shoes"
+          },
+          {
+            "id": "B",
+            "text": "Advance notice of access needs"
+          },
+          {
+            "id": "C",
+            "text": "A tide chart"
+          },
+          {
+            "id": "D",
+            "text": "A packed lunch"
+          }
+        ],
+        "answer": "C",
+        "explanation": "The destination changed from the coast, and the message explicitly removes the tide chart."
+      },
+      {
+        "id": 2,
+        "prompt": "Why should some students contact Dr. Ellis by Tuesday?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To change the bus departure time"
+          },
+          {
+            "id": "B",
+            "text": "To order lunch for everyone"
+          },
+          {
+            "id": "C",
+            "text": "To register for a different seminar"
+          },
+          {
+            "id": "D",
+            "text": "To arrange a suitable route"
+          }
+        ],
+        "answer": "D",
+        "explanation": "Advance notice lets quarry staff organize an accessible route."
+      }
+    ]
+  },
+  {
+    "id": "b0dee4db-210a-4f4b-8049-be939c4e8083",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "daily-life",
+    "title": "A shared presentation",
+    "text": "Ravi 14:10: The graphs are ready, but they look blurry on the classroom projector.\nLeah 14:12: Can you export them as a PDF? That solved the same problem for my last talk.\nRavi 14:15: I will try that tonight. Are you still bringing the speaker notes?\nLeah 14:17: Yes. I have printed a copy for each of us. Let us test the new file tomorrow at nine before the audience arrives.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What problem are the students trying to solve?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Poor image clarity"
+          },
+          {
+            "id": "B",
+            "text": "Missing survey data"
+          },
+          {
+            "id": "C",
+            "text": "Insufficient seats"
+          },
+          {
+            "id": "D",
+            "text": "An unavailable classroom"
+          }
+        ],
+        "answer": "A",
+        "explanation": "Ravi says the projected graphs are blurry, not that the data are missing."
+      },
+      {
+        "id": 2,
+        "prompt": "What has Leah already completed?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Inviting the audience"
+          },
+          {
+            "id": "B",
+            "text": "Printing the notes"
+          },
+          {
+            "id": "C",
+            "text": "Testing the new PDF"
+          },
+          {
+            "id": "D",
+            "text": "Exporting the graphs"
+          }
+        ],
+        "answer": "B",
+        "explanation": "Leah says she has printed copies, while the file test is planned for tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "0f46ccb9-e8ce-4fc9-8182-a58549fe329d",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "daily-life",
+    "title": "Museum late opening",
+    "text": "FRIDAY EVENINGS AT THE RIVER MUSEUM\nFrom 4 April, the permanent collection will stay open until 20:00 on Fridays. Admission after 17:00 is half the usual price. The special textile exhibition closes at 17:00 and requires a separate ticket at all times. The café serves drinks until 19:30; hot meals finish at 18:00. Members enter the permanent collection free as usual.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What can a visitor do at 18:30 on Friday?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Buy a hot meal"
+          },
+          {
+            "id": "B",
+            "text": "Visit every exhibition with one ticket"
+          },
+          {
+            "id": "C",
+            "text": "Visit the permanent collection at a reduced price"
+          },
+          {
+            "id": "D",
+            "text": "Enter the textile exhibition"
+          }
+        ],
+        "answer": "C",
+        "explanation": "The permanent collection remains open and discounted; textiles and hot meals have closed."
+      },
+      {
+        "id": 2,
+        "prompt": "Which benefit for members remains unchanged?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Free meals on Fridays"
+          },
+          {
+            "id": "B",
+            "text": "Extended access to the textile exhibition"
+          },
+          {
+            "id": "C",
+            "text": "A discount on all separate tickets"
+          },
+          {
+            "id": "D",
+            "text": "Free entry to the permanent collection"
+          }
+        ],
+        "answer": "D",
+        "explanation": "The final sentence explicitly preserves members' free permanent-collection admission."
+      }
+    ]
+  },
+  {
+    "id": "ba5d904d-518c-455d-8012-fd012e29eb71",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "daily-life",
+    "title": "Seed exchange guidelines",
+    "text": "NEIGHBORHOOD SEED EXCHANGE\nSaturday, 10:00–12:00, East Garden\nLabel each packet with the plant name and the year the seeds were collected. Bring only seeds from plants you have grown yourself. You may take up to three packets even if you have none to contribute. Volunteers will accept empty paper envelopes for future exchanges. The event will move to the adjacent hall if rain is forecast.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Who may take seeds home?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Visitors who have brought no seeds"
+          },
+          {
+            "id": "B",
+            "text": "Only experienced gardeners"
+          },
+          {
+            "id": "C",
+            "text": "Only people donating three packets"
+          },
+          {
+            "id": "D",
+            "text": "Only residents with a private garden"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The notice explicitly permits taking three packets without contributing any."
+      },
+      {
+        "id": 2,
+        "prompt": "What determines the event location?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The variety of plants"
+          },
+          {
+            "id": "B",
+            "text": "The weather forecast"
+          },
+          {
+            "id": "C",
+            "text": "The number of seed packets"
+          },
+          {
+            "id": "D",
+            "text": "The age of volunteers"
+          }
+        ],
+        "answer": "B",
+        "explanation": "Rain in the forecast triggers a move to the hall."
+      }
+    ]
+  },
+  {
+    "id": "cccfb12e-890f-4eca-87df-c324dc0312af",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "academic-passage",
+    "title": "Why stored seeds need more than cold",
+    "text": "Seed banks preserve plant varieties by keeping seeds under controlled conditions. Cooling can slow the chemical reactions associated with aging, but temperature is only one part of the process. Many seeds must also be dried carefully before storage. Too much moisture can damage them, while some species cannot tolerate substantial drying at all.\n\nFor seeds that respond well to dry, cold storage, a collection is still not a permanent solution. Staff periodically remove small samples and test whether they germinate. If too few seedlings emerge, the remaining seeds may need to be grown into plants that produce a fresh supply. This renewal has to be planned carefully: growing only a handful of plants could fail to preserve the genetic variety present in the original collection.\n\nRecords are another essential component. A packet without reliable information about its origin may have limited research value. Knowing where and under what conditions the parent plants grew helps researchers select material for later studies. Thus, a successful seed bank is more than a cold room filled with containers. It is an active system of storage, testing, renewal, and documentation. Different species require different strategies, and even apparently stable collections need continuing attention.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What is the passage mainly about?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Why seed banks no longer need field research"
+          },
+          {
+            "id": "B",
+            "text": "How to grow plants without water"
+          },
+          {
+            "id": "C",
+            "text": "Why seed preservation requires ongoing management"
+          },
+          {
+            "id": "D",
+            "text": "Why all seeds should be frozen immediately"
+          }
+        ],
+        "answer": "C",
+        "explanation": "Each paragraph explains a component of managing a collection beyond simply keeping it cold."
+      },
+      {
+        "id": 2,
+        "prompt": "Why do staff test small samples?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To identify the coldest room"
+          },
+          {
+            "id": "B",
+            "text": "To remove all genetic variation"
+          },
+          {
+            "id": "C",
+            "text": "To calculate the weight of each packet"
+          },
+          {
+            "id": "D",
+            "text": "To check whether stored seeds can still grow"
+          }
+        ],
+        "answer": "D",
+        "explanation": "Germination tests indicate whether the seeds can produce seedlings."
+      },
+      {
+        "id": 3,
+        "prompt": "What does \"renewal\" refer to?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Producing a fresh supply of seeds"
+          },
+          {
+            "id": "B",
+            "text": "Replacing written records"
+          },
+          {
+            "id": "C",
+            "text": "Cooling an empty container"
+          },
+          {
+            "id": "D",
+            "text": "Moving packets between rooms"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The preceding sentence describes growing stored seeds into plants that produce new ones."
+      },
+      {
+        "id": 4,
+        "prompt": "What can be inferred about using very few parent plants?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The collection will last indefinitely"
+          },
+          {
+            "id": "B",
+            "text": "Some original genetic variety may be lost"
+          },
+          {
+            "id": "C",
+            "text": "All seeds will become resistant to drying"
+          },
+          {
+            "id": "D",
+            "text": "Documentation becomes unnecessary"
+          }
+        ],
+        "answer": "B",
+        "explanation": "A handful of plants may not represent the variety in the original population."
+      },
+      {
+        "id": 5,
+        "prompt": "Why does the author discuss a packet with no origin information?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To show that germination tests are unreliable"
+          },
+          {
+            "id": "B",
+            "text": "To explain how cooling changes plant names"
+          },
+          {
+            "id": "C",
+            "text": "To illustrate the importance of documentation"
+          },
+          {
+            "id": "D",
+            "text": "To recommend discarding every old packet"
+          }
+        ],
+        "answer": "C",
+        "explanation": "The example links useful research material to reliable records."
+      }
+    ]
+  },
+  {
+    "id": "4774fda7-53c8-4543-8077-e819d1b464a0",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "academic-passage",
+    "title": "The hidden work of a musical pause",
+    "text": "A pause in music may seem to be an absence of activity. Yet listeners often experience silence as an important part of a musical phrase. After a repeated pattern establishes an expectation, a brief pause can delay its completion. When the expected sound finally arrives, the delay can make it feel especially significant.\n\nThis effect depends partly on what has already been heard. A silence at the beginning of an unfamiliar recording offers few clues about what will follow. The same length of silence after a familiar sequence may create strong anticipation. Duration alone therefore does not explain the experience; the surrounding pattern matters. Musicians can also use pauses to separate phrases, giving listeners time to recognize one unit before another begins.\n\nResearchers who study these effects must distinguish musical expectation from practical interruptions. If a recording suddenly stops because of a technical fault, listeners may attend to the equipment rather than the composition. In experiments, researchers can present several carefully matched versions of a passage, altering where a pause occurs while keeping other features similar. Differences in listeners' responses then help reveal how timing contributes to musical structure. Silence, in this view, is not merely empty space between notes but a feature whose meaning emerges from its context.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What central claim does the author make?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Pauses always indicate recording faults"
+          },
+          {
+            "id": "B",
+            "text": "Longer silence is always more effective"
+          },
+          {
+            "id": "C",
+            "text": "Musical patterns have no effect on listeners"
+          },
+          {
+            "id": "D",
+            "text": "Silence can contribute to musical meaning"
+          }
+        ],
+        "answer": "D",
+        "explanation": "The passage explains anticipation and phrase separation as functions of silence."
+      },
+      {
+        "id": 2,
+        "prompt": "Why compare silence at the beginning and after a familiar sequence?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To show that prior context changes its effect"
+          },
+          {
+            "id": "B",
+            "text": "To prove all recordings should begin silently"
+          },
+          {
+            "id": "C",
+            "text": "To rank instruments by loudness"
+          },
+          {
+            "id": "D",
+            "text": "To show listeners ignore familiar patterns"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The examples hold silence length constant but change what the listener has heard."
+      },
+      {
+        "id": 3,
+        "prompt": "The word \"anticipation\" is closest in meaning to",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "exhaustion"
+          },
+          {
+            "id": "B",
+            "text": "expectation"
+          },
+          {
+            "id": "C",
+            "text": "confusion"
+          },
+          {
+            "id": "D",
+            "text": "measurement"
+          }
+        ],
+        "answer": "B",
+        "explanation": "A familiar pattern creates an expectation about the next sound."
+      },
+      {
+        "id": 4,
+        "prompt": "Why keep other features similar in an experiment?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To eliminate pauses from the recording"
+          },
+          {
+            "id": "B",
+            "text": "To test which equipment is most expensive"
+          },
+          {
+            "id": "C",
+            "text": "To isolate the effect of pause placement"
+          },
+          {
+            "id": "D",
+            "text": "To make every listener choose the same answer"
+          }
+        ],
+        "answer": "C",
+        "explanation": "Matched passages reduce alternative explanations for different responses."
+      },
+      {
+        "id": 5,
+        "prompt": "What can be inferred about a technical interruption?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "It necessarily improves anticipation"
+          },
+          {
+            "id": "B",
+            "text": "It has the same effect as every planned pause"
+          },
+          {
+            "id": "C",
+            "text": "It makes contextual information irrelevant"
+          },
+          {
+            "id": "D",
+            "text": "It may draw attention away from musical structure"
+          }
+        ],
+        "answer": "D",
+        "explanation": "Listeners may focus on faulty equipment instead of the composition."
+      }
+    ]
+  },
+  {
+    "id": "abf3dfbd-c502-4fc3-8d30-d2dd9ced8a75",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "academic-passage",
+    "title": "When a brighter sign attracts less attention",
+    "text": "Designers often make a sign larger or brighter when they want it to be noticed. This strategy can work when the surrounding environment is visually simple. In a crowded setting, however, many signs compete for attention using the same technique. Adding another bright display may contribute to the competition without making useful information easier to find.\n\nOne alternative is to organize information into a clear hierarchy. A visitor entering a transport station may first need to identify the ticket area, then select a particular machine, and finally read payment instructions. Displaying every instruction at the entrance gives equal visual weight to information needed at different moments. Placing relevant details at the point where a decision is made can reduce this burden.\n\nConsistency also supports navigation. If signs for the same kind of destination share a recognizable design, visitors can learn the pattern and search for it elsewhere. This does not mean every sign should look identical: important differences still need to be visible. Instead, a consistent system helps people predict where to find particular information. Evaluating such a system requires observing actual visitors. A sign that appears obvious to its designer may confuse a newcomer who does not yet understand the building or its conventions.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Which approach does the passage favor?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Organizing signs around users' decisions"
+          },
+          {
+            "id": "B",
+            "text": "Making every sign brighter than its neighbors"
+          },
+          {
+            "id": "C",
+            "text": "Displaying all instructions at the entrance"
+          },
+          {
+            "id": "D",
+            "text": "Removing differences between all destinations"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The text emphasizes hierarchy, relevant locations, consistency and visitor observation."
+      },
+      {
+        "id": 2,
+        "prompt": "Why is a transport station used as an example?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To explain how stations are constructed"
+          },
+          {
+            "id": "B",
+            "text": "To show that information is needed in stages"
+          },
+          {
+            "id": "C",
+            "text": "To compare train and bus prices"
+          },
+          {
+            "id": "D",
+            "text": "To argue against payment machines"
+          }
+        ],
+        "answer": "B",
+        "explanation": "Visitors first find an area, then a machine, then instructions."
+      },
+      {
+        "id": 3,
+        "prompt": "What does \"burden\" refer to?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The cost of bright displays"
+          },
+          {
+            "id": "B",
+            "text": "The distance between buildings"
+          },
+          {
+            "id": "C",
+            "text": "The difficulty of processing too much information"
+          },
+          {
+            "id": "D",
+            "text": "The weight of a ticket machine"
+          }
+        ],
+        "answer": "C",
+        "explanation": "The preceding sentences describe too many instructions competing at the entrance."
+      },
+      {
+        "id": 4,
+        "prompt": "What is one benefit of consistent sign design?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "It removes every need to read"
+          },
+          {
+            "id": "B",
+            "text": "It guarantees identical destinations"
+          },
+          {
+            "id": "C",
+            "text": "It makes visitor testing unnecessary"
+          },
+          {
+            "id": "D",
+            "text": "People can recognize a learned visual pattern"
+          }
+        ],
+        "answer": "D",
+        "explanation": "Visitors can learn the pattern and locate similar information elsewhere."
+      },
+      {
+        "id": 5,
+        "prompt": "What is implied about designers?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Their familiarity may hide problems newcomers experience"
+          },
+          {
+            "id": "B",
+            "text": "They always prefer dim signs"
+          },
+          {
+            "id": "C",
+            "text": "They cannot learn from observation"
+          },
+          {
+            "id": "D",
+            "text": "They should avoid all visual differences"
+          }
+        ],
+        "answer": "A",
+        "explanation": "A designer knows the building and conventions that a newcomer has not learned."
+      }
+    ]
+  },
+  {
+    "id": "b1e13889-5cf7-45d9-889f-1a863896cf8f",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "reading",
+    "kind": "academic-passage",
+    "title": "A useful mistake in a laboratory model",
+    "text": "Scientific models simplify complex systems so that particular relationships can be studied. A model of a river, for example, may represent flowing water and movable sediment while leaving out vegetation and changes in weather. Such omissions do not automatically make the model useless. Its value depends on the question being investigated and on whether the omitted features matter for that question.\n\nUnexpected results can help researchers identify these limits. Suppose a laboratory channel predicts that sediment will gather at a bend, but observations from a real river show less accumulation. Rather than immediately rejecting every part of the model, researchers can examine the difference. Plants along the real riverbank might change the flow in a way the simplified channel does not represent.\n\nA revised model could then include an approximation of those plants. If its predictions improve, this provides evidence that vegetation was important in that setting. It does not establish that every other omitted feature is irrelevant. Models are therefore often developed through repeated comparison with observations. A mismatch can be productive because it suggests what needs further investigation. The aim is not to reproduce every detail of reality, but to build a representation that is informative for a clearly stated purpose.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What is the main idea?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "An unexpected result invalidates all scientific research"
+          },
+          {
+            "id": "B",
+            "text": "Differences between models and observations can guide improvements"
+          },
+          {
+            "id": "C",
+            "text": "Useful models must contain every real-world detail"
+          },
+          {
+            "id": "D",
+            "text": "Laboratory rivers always predict sediment accurately"
+          }
+        ],
+        "answer": "B",
+        "explanation": "The example shows how a mismatch identifies a missing influence and leads to revision."
+      },
+      {
+        "id": 2,
+        "prompt": "What feature might explain the unexpected sediment pattern?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The color of the measuring tools"
+          },
+          {
+            "id": "B",
+            "text": "A complete absence of flowing water"
+          },
+          {
+            "id": "C",
+            "text": "Plants along the riverbank"
+          },
+          {
+            "id": "D",
+            "text": "A change in the laboratory building"
+          }
+        ],
+        "answer": "C",
+        "explanation": "Vegetation can alter flow but was omitted from the channel model."
+      },
+      {
+        "id": 3,
+        "prompt": "The word \"approximation\" is closest in meaning to",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "exact historical record"
+          },
+          {
+            "id": "B",
+            "text": "complete rejection"
+          },
+          {
+            "id": "C",
+            "text": "unrelated measurement"
+          },
+          {
+            "id": "D",
+            "text": "simplified representation"
+          }
+        ],
+        "answer": "D",
+        "explanation": "The revised model includes a representation of plants without reproducing every detail."
+      },
+      {
+        "id": 4,
+        "prompt": "What can researchers conclude if the revised prediction improves?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Vegetation mattered in the situation studied"
+          },
+          {
+            "id": "B",
+            "text": "All other omitted features are unimportant"
+          },
+          {
+            "id": "C",
+            "text": "The model is correct for every river"
+          },
+          {
+            "id": "D",
+            "text": "Weather can never influence sediment"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The text explicitly limits the finding to the setting and does not dismiss other omissions."
+      },
+      {
+        "id": 5,
+        "prompt": "How is the second paragraph related to the first?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "It lists all features every model must include"
+          },
+          {
+            "id": "B",
+            "text": "It illustrates how an omission can become significant"
+          },
+          {
+            "id": "C",
+            "text": "It argues that simplification is always impossible"
+          },
+          {
+            "id": "D",
+            "text": "It changes the topic to river tourism"
+          }
+        ],
+        "answer": "B",
+        "explanation": "The first paragraph discusses relevance of omissions; the second supplies a concrete case."
+      }
+    ]
+  },
+  {
+    "id": "98e6fa0f-c1b5-48d4-85c9-adcbea033574",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 1",
+    "prompt": "Ask about the seminar room.",
+    "prefix": "Do you know ",
+    "suffix": "?",
+    "tiles": [
+      {
+        "id": 59051,
+        "text": "the seminar"
+      },
+      {
+        "id": 40402,
+        "text": "will the seminar"
+      },
+      {
+        "id": 21529,
+        "text": "will be held in"
+      },
+      {
+        "id": 63587,
+        "text": "which room"
+      }
+    ],
+    "order": [
+      63587,
+      59051,
+      21529
+    ],
+    "explanation": "An embedded question uses statement order: the seminar will be held."
+  },
+  {
+    "id": "6b5d3395-aff6-4aa9-891d-c1dd0d0540a7",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 2",
+    "prompt": "Explain why the bus was late.",
+    "prefix": "The bus ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 38291,
+        "text": "a fallen tree blocked the road"
+      },
+      {
+        "id": 20345,
+        "text": "although"
+      },
+      {
+        "id": 4031,
+        "text": "because"
+      },
+      {
+        "id": 45389,
+        "text": "was delayed"
+      }
+    ],
+    "order": [
+      45389,
+      4031,
+      38291
+    ],
+    "explanation": "Because introduces the reason for the delay."
+  },
+  {
+    "id": "d85956de-3a28-44e1-8c6f-c77e8f622fd7",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 3",
+    "prompt": "Describe a habit that has changed.",
+    "prefix": "I used ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 44525,
+        "text": "before it became noisy"
+      },
+      {
+        "id": 61369,
+        "text": "studying"
+      },
+      {
+        "id": 17910,
+        "text": "to study"
+      },
+      {
+        "id": 35379,
+        "text": "in the café"
+      }
+    ],
+    "order": [
+      17910,
+      35379,
+      44525
+    ],
+    "explanation": "Used to is followed by a base verb to describe a past habit."
+  },
+  {
+    "id": "25c76026-5d98-45fa-8640-c35f0f6cac3c",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 4",
+    "prompt": "Describe the photographs on display.",
+    "prefix": "The photographs ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 22001,
+        "text": "are on display upstairs"
+      },
+      {
+        "id": 33094,
+        "text": "taken during"
+      },
+      {
+        "id": 55920,
+        "text": "the expedition"
+      },
+      {
+        "id": 40483,
+        "text": "was on display"
+      }
+    ],
+    "order": [
+      33094,
+      55920,
+      22001
+    ],
+    "explanation": "Taken during the expedition modifies the plural noun photographs."
+  },
+  {
+    "id": "5786138e-9131-49f5-8b5b-7d5a1361c4d6",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 5",
+    "prompt": "Offer a suggestion about registration.",
+    "prefix": "You should ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 44407,
+        "text": "does the course"
+      },
+      {
+        "id": 64560,
+        "text": "whether the course"
+      },
+      {
+        "id": 59825,
+        "text": "still has places available"
+      },
+      {
+        "id": 60134,
+        "text": "check"
+      }
+    ],
+    "order": [
+      60134,
+      64560,
+      59825
+    ],
+    "explanation": "Whether introduces an embedded clause with statement word order."
+  },
+  {
+    "id": "698075b6-67e4-493b-8864-b89cafa5ee1d",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 6",
+    "prompt": "Describe an unfinished task.",
+    "prefix": "We have not ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 15110,
+        "text": "yet"
+      },
+      {
+        "id": 23291,
+        "text": "already"
+      },
+      {
+        "id": 54477,
+        "text": "completed"
+      },
+      {
+        "id": 1250,
+        "text": "the survey"
+      }
+    ],
+    "order": [
+      54477,
+      1250,
+      15110
+    ],
+    "explanation": "Yet is natural in a negative present-perfect statement."
+  },
+  {
+    "id": "21623192-acb6-414d-8177-ea3c25b88484",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 7",
+    "prompt": "Make a comparison between two routes.",
+    "prefix": "The riverside route ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 41951,
+        "text": "the route through town"
+      },
+      {
+        "id": 50668,
+        "text": "fewer time than"
+      },
+      {
+        "id": 38070,
+        "text": "takes"
+      },
+      {
+        "id": 45735,
+        "text": "less time than"
+      }
+    ],
+    "order": [
+      38070,
+      45735,
+      41951
+    ],
+    "explanation": "Time is uncountable, so use less rather than fewer."
+  },
+  {
+    "id": "aa239b04-7877-484b-8e5a-e3c518d7140e",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 8",
+    "prompt": "Explain the condition for borrowing equipment.",
+    "prefix": "You can borrow the camera ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 1803,
+        "text": "as long as"
+      },
+      {
+        "id": 32020,
+        "text": "will return it"
+      },
+      {
+        "id": 31517,
+        "text": "you return it"
+      },
+      {
+        "id": 38807,
+        "text": "before Friday"
+      }
+    ],
+    "order": [
+      1803,
+      31517,
+      38807
+    ],
+    "explanation": "The time/condition clause uses present simple for a future event."
+  },
+  {
+    "id": "0955fc7e-10b7-4cad-81f2-151b4b7fc5d4",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 9",
+    "prompt": "Describe what a researcher discovered.",
+    "prefix": "She found ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 59406,
+        "text": "had been stored"
+      },
+      {
+        "id": 39362,
+        "text": "that the samples"
+      },
+      {
+        "id": 42370,
+        "text": "at the wrong temperature"
+      },
+      {
+        "id": 40048,
+        "text": "have being stored"
+      }
+    ],
+    "order": [
+      39362,
+      59406,
+      42370
+    ],
+    "explanation": "Had been stored is the past-perfect passive."
+  },
+  {
+    "id": "a96d87a5-06a7-45ab-8d2a-b30e904d18b3",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 10",
+    "prompt": "Ask about a lost notebook.",
+    "prefix": "Has anyone ",
+    "suffix": "?",
+    "tiles": [
+      {
+        "id": 43240,
+        "text": "seen"
+      },
+      {
+        "id": 33956,
+        "text": "the notebook"
+      },
+      {
+        "id": 13366,
+        "text": "saw"
+      },
+      {
+        "id": 510,
+        "text": "I left by the window"
+      }
+    ],
+    "order": [
+      43240,
+      33956,
+      510
+    ],
+    "explanation": "Has requires the past participle seen."
+  },
+  {
+    "id": "70bfd645-9069-4e91-82c5-ee2ea42703cf",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 11",
+    "prompt": "Explain why a room is unavailable.",
+    "prefix": "The laboratory ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 56811,
+        "text": "is being cleaned"
+      },
+      {
+        "id": 63602,
+        "text": "so"
+      },
+      {
+        "id": 20162,
+        "text": "we must use another room"
+      },
+      {
+        "id": 37297,
+        "text": "being clean"
+      }
+    ],
+    "order": [
+      56811,
+      63602,
+      20162
+    ],
+    "explanation": "The present-progressive passive describes cleaning in progress."
+  },
+  {
+    "id": "190d3680-5d1c-4e17-882d-8e4b3ff6f9d5",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 12",
+    "prompt": "Express a preference about a meeting.",
+    "prefix": "I would rather ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 64849,
+        "text": "to meet in person"
+      },
+      {
+        "id": 38663,
+        "text": "the proposal by email"
+      },
+      {
+        "id": 3296,
+        "text": "meet in person"
+      },
+      {
+        "id": 32011,
+        "text": "than discuss"
+      }
+    ],
+    "order": [
+      3296,
+      32011,
+      38663
+    ],
+    "explanation": "Would rather takes a base verb and than introduces the comparison."
+  },
+  {
+    "id": "886d9558-dc54-4e2f-8053-e9f74e532c3c",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 13",
+    "prompt": "Describe a consequence of early booking.",
+    "prefix": "If we had booked earlier, ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 49692,
+        "text": "the tickets"
+      },
+      {
+        "id": 56234,
+        "text": "will have"
+      },
+      {
+        "id": 16342,
+        "text": "paid less for"
+      },
+      {
+        "id": 54568,
+        "text": "we would have"
+      }
+    ],
+    "order": [
+      54568,
+      16342,
+      49692
+    ],
+    "explanation": "An unreal past condition takes would have plus past participle."
+  },
+  {
+    "id": "209006ea-b583-4bce-835b-bf055ad96363",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 14",
+    "prompt": "Explain the purpose of a new schedule.",
+    "prefix": "The schedule was changed ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 49152,
+        "text": "to attend the workshop"
+      },
+      {
+        "id": 28911,
+        "text": "to allow"
+      },
+      {
+        "id": 60542,
+        "text": "for allow"
+      },
+      {
+        "id": 5082,
+        "text": "more students"
+      }
+    ],
+    "order": [
+      28911,
+      5082,
+      49152
+    ],
+    "explanation": "To allow introduces purpose; allow someone to do something is the verb pattern."
+  },
+  {
+    "id": "626932d4-6cf7-4978-8133-ab7da9beb1cb",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 15",
+    "prompt": "Describe a student who helped you.",
+    "prefix": "The student ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 23203,
+        "text": "explained the calculation"
+      },
+      {
+        "id": 53593,
+        "text": "I borrowed"
+      },
+      {
+        "id": 34623,
+        "text": "whose notes"
+      },
+      {
+        "id": 19338,
+        "text": "who notes"
+      }
+    ],
+    "order": [
+      34623,
+      53593,
+      23203
+    ],
+    "explanation": "Whose expresses possession before notes."
+  },
+  {
+    "id": "6ea4e03f-622b-4749-8ea7-13cbaa2ac7a4",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 16",
+    "prompt": "State a requirement before a trip.",
+    "prefix": "Every participant ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 46657,
+        "text": "must submit"
+      },
+      {
+        "id": 17272,
+        "text": "before departure"
+      },
+      {
+        "id": 27955,
+        "text": "a signed form"
+      },
+      {
+        "id": 24540,
+        "text": "must submits"
+      }
+    ],
+    "order": [
+      46657,
+      27955,
+      17272
+    ],
+    "explanation": "A modal verb is followed by the base form submit."
+  },
+  {
+    "id": "3911add6-276e-44df-89f9-ef55f60372d2",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 17",
+    "prompt": "Describe two completed tasks.",
+    "prefix": "Not only did she ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 22637,
+        "text": "but she also"
+      },
+      {
+        "id": 21368,
+        "text": "checked every entry"
+      },
+      {
+        "id": 32497,
+        "text": "collected the data,"
+      },
+      {
+        "id": 29271,
+        "text": "collect the data,"
+      }
+    ],
+    "order": [
+      29271,
+      22637,
+      21368
+    ],
+    "explanation": "Did takes the base form collect; the second clause has normal statement order."
+  },
+  {
+    "id": "04f6cdda-1345-4989-8fb1-8e79947623c2",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 18",
+    "prompt": "Mention a benefit despite a difficulty.",
+    "prefix": "Although the instructions were complex, ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 31014,
+        "text": "made they"
+      },
+      {
+        "id": 4643,
+        "text": "the examples"
+      },
+      {
+        "id": 60342,
+        "text": "easier to understand"
+      },
+      {
+        "id": 1781,
+        "text": "made them"
+      }
+    ],
+    "order": [
+      4643,
+      1781,
+      60342
+    ],
+    "explanation": "Them is the object pronoun referring to instructions."
+  },
+  {
+    "id": "33bc2d38-684f-4ffa-8c01-0ee51a9db461",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 19",
+    "prompt": "Explain a future deadline.",
+    "prefix": "By next Monday, ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 12875,
+        "text": "the team will have"
+      },
+      {
+        "id": 45957,
+        "text": "the team will has"
+      },
+      {
+        "id": 24908,
+        "text": "the first stage"
+      },
+      {
+        "id": 24914,
+        "text": "finished"
+      }
+    ],
+    "order": [
+      12875,
+      24914,
+      24908
+    ],
+    "explanation": "Future perfect describes completion before a future point."
+  },
+  {
+    "id": "d43827f6-1327-431c-8043-4689b2630744",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "build-sentence",
+    "title": "Sentence workshop 20",
+    "prompt": "Describe a rule about food.",
+    "prefix": "Students are asked ",
+    "suffix": ".",
+    "tiles": [
+      {
+        "id": 65439,
+        "text": "food into"
+      },
+      {
+        "id": 1881,
+        "text": "the computer room"
+      },
+      {
+        "id": 17346,
+        "text": "not to bring"
+      },
+      {
+        "id": 10585,
+        "text": "to not bringing"
+      }
+    ],
+    "order": [
+      17346,
+      65439,
+      1881
+    ],
+    "explanation": "The negative infinitive is not to bring."
+  },
+  {
+    "id": "fd5fea12-a3b1-42ac-8c5b-26455382d2d1",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "A noisy practice space",
+    "context": "You reserved a room in the arts building to rehearse a small group presentation. Renovation noise made the room unusable. Write to the facilities coordinator, Ms. Chen.",
+    "requirements": [
+      "Describe when the problem occurred and how it affected your group.",
+      "Ask for a suitable alternative room.",
+      "Suggest how students could be warned about future work."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "cdc03421-9cc6-477f-800e-7f88e3e24f85",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Volunteer induction conflict",
+    "context": "You have agreed to volunteer at a weekend science fair, but the required induction overlaps with a compulsory class. Write to the volunteer organizer, Mr. Lewis.",
+    "requirements": [
+      "Explain the scheduling conflict.",
+      "Reaffirm your interest in volunteering.",
+      "Propose a way to complete the induction."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "8865979e-a8e5-4dd9-8c50-d569156cf666",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "An incomplete equipment kit",
+    "context": "You borrowed a recording kit from the media desk and discovered that its charging cable was missing. You need the kit tomorrow. Write to the desk supervisor, Ms. Perez.",
+    "requirements": [
+      "Identify the borrowed kit and missing item.",
+      "Explain why the timing matters.",
+      "Request a practical solution."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "2266e5f3-d570-4983-80da-e4d98d98a829",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Welcoming an exchange partner",
+    "context": "Your department has paired you with a new exchange student, Jordan, who arrives next week. Write Jordan an email.",
+    "requirements": [
+      "Introduce yourself and your role.",
+      "Suggest a place and time for a first meeting.",
+      "Offer help with one specific aspect of campus life."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "99fa0988-7a14-42ce-886a-3fed1b52b401",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Clarifying a workshop fee",
+    "context": "A short design workshop was advertised as free, but your confirmation email requests payment. Write to the course administrator, Dr. Ahmed.",
+    "requirements": [
+      "Explain the conflicting information.",
+      "Ask what the fee covers and whether it applies to you.",
+      "State what information you need before confirming attendance."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "56c06847-adc2-4c3d-8dca-c74c53fea320",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Returning a borrowed display",
+    "context": "Your club borrowed a display board from another student group. One panel was damaged while you were packing it away. Write to the other group's representative, Alex.",
+    "requirements": [
+      "Explain what happened.",
+      "Apologize and take responsibility.",
+      "Offer a specific repair or replacement arrangement."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "5f24bb90-4be5-4d42-86f7-bbd0beb3942e",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Improving a campus map",
+    "context": "You noticed that the online campus map directs wheelchair users to an entrance with steps. Write to the accessibility office.",
+    "requirements": [
+      "Describe the incorrect direction.",
+      "Explain its likely effect on visitors.",
+      "Suggest a correction and offer useful details."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "e2bae46b-6b44-4920-8ea2-689cb21d394d",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Changing a tutoring appointment",
+    "context": "Your student tutoring appointment coincides with a rescheduled laboratory session. Write to your tutor, Sam.",
+    "requirements": [
+      "Explain why you need to change the appointment.",
+      "Suggest two alternative times.",
+      "Mention what you would like to work on in the session."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "aef36905-5781-4c29-87b4-883f7fcf1900",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "A community garden invitation",
+    "context": "Your student gardening group has spare planting space and wants a local school to participate. Write to the school's science teacher, Ms. Brooks.",
+    "requirements": [
+      "Explain the opportunity.",
+      "Describe one activity pupils could do.",
+      "Invite the teacher to discuss practical arrangements."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "6ad4d6ce-5392-4417-823c-5af6e5c695ea",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Feedback on a museum visit",
+    "context": "Your class visited a museum exhibition. The objects were interesting, but several labels were hard to read. Write to the visitor experience manager.",
+    "requirements": [
+      "Describe something your class appreciated.",
+      "Explain the difficulty with the labels.",
+      "Suggest a specific improvement."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "c8ac1133-6b28-4af7-8119-a7b5ec69ab7a",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "A missed delivery notice",
+    "context": "You ordered a textbook to your residence hall. The tracking page says it was delivered, but the reception desk has no record of it. Write to the bookseller's support team.",
+    "requirements": [
+      "Identify the order and the discrepancy.",
+      "Explain what you have already checked.",
+      "Ask for the next step in resolving the issue."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "91ee691b-73bc-4c81-8924-571110e18c4c",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Requesting permission to interview",
+    "context": "For a class project, you want to interview the manager of a neighborhood repair café. Write to the manager, Mr. Patel.",
+    "requirements": [
+      "Introduce the project and its purpose.",
+      "Explain what participation would involve.",
+      "Ask about a convenient time and offer flexibility."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "77812661-c57b-4cef-861e-7d09ea04e7ee",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Thanking a guest speaker",
+    "context": "A guest speaker gave your student society a useful talk about careers in conservation. Write to Dr. Morgan.",
+    "requirements": [
+      "Thank the speaker for a specific contribution.",
+      "Describe how the talk helped the audience.",
+      "Ask whether one follow-up resource could be shared."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "98758474-eab6-48d2-89c2-a0a76af17794",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "A team member leaving early",
+    "context": "You must leave your project team's presentation rehearsal early for a previously arranged appointment. Write to your teammates.",
+    "requirements": [
+      "Explain your availability.",
+      "Describe what work you will complete before leaving.",
+      "Propose how to receive feedback on the remaining rehearsal."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "db96bff3-d303-4904-8077-d4ed84c86043",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "email",
+    "title": "Suggesting a quiet lunch area",
+    "context": "The student center has very few quiet places to eat during the busiest hour. Write to the center's manager, Ms. Osei.",
+    "requirements": [
+      "Describe the problem from a student's perspective.",
+      "Suggest a feasible change to an existing space.",
+      "Explain who would benefit and why."
+    ],
+    "instructions": "Write an email in English. Address all three points and use an appropriate tone for the recipient."
+  },
+  {
+    "id": "0af9257a-0f0f-4c18-8ff6-866cf8ce6d27",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Repair or replace",
+    "context": "Professor: A university has aging furniture. Should it prioritize repairing existing furniture or buying new items? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Repair reduces waste and can support skilled local workers."
+      },
+      {
+        "name": "Omar",
+        "text": "New items may be safer and more comfortable for students."
+      }
+    ]
+  },
+  {
+    "id": "f56a544b-be0a-4765-86bf-07c45afc8444",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Flexible attendance",
+    "context": "Professor: Should university lecture attendance be optional when high-quality recordings are available? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Recordings let students study around work and other responsibilities."
+      },
+      {
+        "name": "Omar",
+        "text": "Attending together encourages questions and a sense of community."
+      }
+    ]
+  },
+  {
+    "id": "718d03e6-c296-4ce4-8e5d-dcc19e6d8608",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Public art choices",
+    "context": "Professor: Should residents vote directly on public art projects, or should a panel of specialists choose them? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Residents use the spaces, so their preferences should guide spending."
+      },
+      {
+        "name": "Omar",
+        "text": "Specialists can recognize artistic value that is not immediately popular."
+      }
+    ]
+  },
+  {
+    "id": "6f2a969d-1685-43af-8700-650fecab2119",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Library tool lending",
+    "context": "Professor: Should public libraries lend practical tools as well as books and digital materials? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Sharing tools helps residents complete occasional tasks without buying equipment."
+      },
+      {
+        "name": "Omar",
+        "text": "Libraries should concentrate limited staff time on information services."
+      }
+    ]
+  },
+  {
+    "id": "b19b01ff-9441-4a0e-86ce-3b32f6eb49f4",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "A four-day study week",
+    "context": "Professor: Would scheduling university classes on four days rather than five benefit students? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "An open weekday would allow longer independent study or work shifts."
+      },
+      {
+        "name": "Omar",
+        "text": "Longer teaching days could reduce attention and leave students exhausted."
+      }
+    ]
+  },
+  {
+    "id": "83bb6b42-34ff-47ee-89a5-d961da598131",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Anonymous peer review",
+    "context": "Professor: Should students review classmates' work anonymously? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Anonymity may make criticism more honest and reduce social pressure."
+      },
+      {
+        "name": "Omar",
+        "text": "Named feedback encourages accountability and allows follow-up discussion."
+      }
+    ]
+  },
+  {
+    "id": "37537ac0-6963-4acd-8cd0-a2e2e3efdcd6",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Community science",
+    "context": "Professor: Should cities fund projects in which residents collect environmental data? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Residents can gather observations across places researchers rarely visit."
+      },
+      {
+        "name": "Omar",
+        "text": "Public funding should prioritize measurements made by trained specialists."
+      }
+    ]
+  },
+  {
+    "id": "20aea2bc-baf0-4684-8fc8-6ba7b7969e78",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Campus navigation",
+    "context": "Professor: Should a university invest more in a navigation app or in improved physical signs? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "An app can provide personalized routes and quick updates."
+      },
+      {
+        "name": "Omar",
+        "text": "Clear signs assist every visitor without requiring a phone or account."
+      }
+    ]
+  },
+  {
+    "id": "38565a8b-d806-4d7e-8ac1-6dfb4efeedd9",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Student-run events",
+    "context": "Professor: Should most campus cultural events be organized by students or professional staff? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Student leadership builds practical skills and reflects current interests."
+      },
+      {
+        "name": "Omar",
+        "text": "Professional organizers can provide continuity and dependable arrangements."
+      }
+    ]
+  },
+  {
+    "id": "26f81fcd-b000-4213-8694-cb6b6f287f9a",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Recognizing improvement",
+    "context": "Professor: Should a course grade reflect how much a student improves as well as final achievement? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Recognizing progress rewards effort and encourages struggling learners."
+      },
+      {
+        "name": "Omar",
+        "text": "A grade should communicate the same final standard for every student."
+      }
+    ]
+  },
+  {
+    "id": "43337a41-e165-4616-8a84-afbfaac4c9ea",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Longer equipment life",
+    "context": "Professor: Should manufacturers be required to provide spare parts for electronic devices for several years? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Available parts can reduce waste and make ownership more affordable."
+      },
+      {
+        "name": "Omar",
+        "text": "Maintaining parts for older devices could raise prices for all customers."
+      }
+    ]
+  },
+  {
+    "id": "f8f9a565-bba7-4f61-85bf-c9ea7e9927c0",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Learning across generations",
+    "context": "Professor: Should community centers prioritize activities that mix age groups or programs designed for one age group? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Mixed groups allow people to exchange different experiences."
+      },
+      {
+        "name": "Omar",
+        "text": "Age-specific programs can better match participants' needs and schedules."
+      }
+    ]
+  },
+  {
+    "id": "14349705-1c8d-4203-89f9-7b165a540107",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Quiet transport spaces",
+    "context": "Professor: Should busy commuter trains include a quiet carriage? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "A quiet area helps passengers rest or concentrate during a long journey."
+      },
+      {
+        "name": "Omar",
+        "text": "Dividing limited space may cause confusion and disagreements when trains are full."
+      }
+    ]
+  },
+  {
+    "id": "022f9acf-d328-4fe8-8460-89795685767c",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "Research communication",
+    "context": "Professor: Should all research students receive training in explaining their work to the general public? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Public communication builds understanding of why research matters."
+      },
+      {
+        "name": "Omar",
+        "text": "Students already have demanding specialist training and should choose such courses."
+      }
+    ]
+  },
+  {
+    "id": "3e2a0e60-ff90-4aa8-8b34-ac888c37ca48",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "writing",
+    "kind": "academic-discussion",
+    "title": "A campus borrowing culture",
+    "context": "Professor: Should universities promote borrowing everyday items through a shared service rather than encourage individual ownership? Explain and support your view.",
+    "instructions": "Write a contribution in your own words. An effective response will contain at least 100 words; length alone does not determine the score.",
+    "requirements": [
+      "State your position.",
+      "Support it with reasoning or an example.",
+      "Contribute a new idea to the discussion."
+    ],
+    "posts": [
+      {
+        "name": "Nina",
+        "text": "Sharing can save money and reduce unused possessions in small rooms."
+      },
+      {
+        "name": "Omar",
+        "text": "Convenient access and responsibility for damage may be difficult to manage."
+      }
+    ]
+  },
+  {
+    "id": "1b265f3f-0191-4cf1-807d-b2135226bf51",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "Community observatory tour · 1",
+    "context": "Community observatory tour",
+    "prompt": "Welcome to our observatory.",
+    "scenePosition": 1,
+    "responseSeconds": 8,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "1b265f3f01914cf1807db2135226bf51.wav"
+  },
+  {
+    "id": "1e5706ec-7584-4ff5-858b-c5a4651ac1c8",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "Community observatory tour · 2",
+    "context": "Community observatory tour",
+    "prompt": "The ticket counter is beside the entrance.",
+    "scenePosition": 2,
+    "responseSeconds": 8,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "1e5706ec75844ff5858bc5a4651ac1c8.wav"
+  },
+  {
+    "id": "d25a7734-867f-4da1-8523-b9c452b751f8",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "Community observatory tour · 3",
+    "context": "Community observatory tour",
+    "prompt": "You can leave your bags in the lockers downstairs.",
+    "scenePosition": 3,
+    "responseSeconds": 10,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "d25a7734867f4da18523b9c452b751f8.wav"
+  },
+  {
+    "id": "f0066524-7b26-455e-84fa-850fd4f87599",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "Community observatory tour · 4",
+    "context": "Community observatory tour",
+    "prompt": "Please switch off bright screens before entering the viewing room.",
+    "scenePosition": 4,
+    "responseSeconds": 10,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "f00665247b26455e84fa850fd4f87599.wav"
+  },
+  {
+    "id": "921f2da1-bf28-476e-81de-d222c587cc1d",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "Community observatory tour · 5",
+    "context": "Community observatory tour",
+    "prompt": "The evening presentation explains how astronomers study distant planets.",
+    "scenePosition": 5,
+    "responseSeconds": 10,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "921f2da1bf28476e81ded222c587cc1d.wav"
+  },
+  {
+    "id": "6b83046e-639e-468a-83f6-21b9c04eeeb4",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "Community observatory tour · 6",
+    "context": "Community observatory tour",
+    "prompt": "If clouds cover the sky, our guide will demonstrate the telescope using recorded images.",
+    "scenePosition": 6,
+    "responseSeconds": 12,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "6b83046e639e468a83f621b9c04eeeb4.wav"
+  },
+  {
+    "id": "31415c3e-708d-4c7a-8bfc-5b5f7b267141",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "Community observatory tour · 7",
+    "context": "Community observatory tour",
+    "prompt": "Before joining the outdoor session, collect a warm jacket and check the meeting point on your ticket.",
+    "scenePosition": 7,
+    "responseSeconds": 12,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "31415c3e708d4c7a8bfc5b5f7b267141.wav"
+  },
+  {
+    "id": "e8d7e69f-24a1-4509-8d0f-475b73988d26",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "At the community food workshop · 1",
+    "context": "At the community food workshop",
+    "prompt": "Our cooking workshop starts here.",
+    "scenePosition": 1,
+    "responseSeconds": 8,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "e8d7e69f24a145098d0f475b73988d26.wav"
+  },
+  {
+    "id": "a4914573-6e99-43c6-8d73-61c00a617249",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "At the community food workshop · 2",
+    "context": "At the community food workshop",
+    "prompt": "Clean aprons are hanging beside the door.",
+    "scenePosition": 2,
+    "responseSeconds": 8,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "a49145736e9943c68d7361c00a617249.wav"
+  },
+  {
+    "id": "8e35e896-722b-4183-8e79-f1c3e7a884ff",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "At the community food workshop · 3",
+    "context": "At the community food workshop",
+    "prompt": "Please wash your hands before touching the fresh ingredients.",
+    "scenePosition": 3,
+    "responseSeconds": 10,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "8e35e896722b41838e79f1c3e7a884ff.wav"
+  },
+  {
+    "id": "241a943a-22b6-44c4-8288-33cd83f71ee2",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "At the community food workshop · 4",
+    "context": "At the community food workshop",
+    "prompt": "The instructor will show you how to hold each tool safely.",
+    "scenePosition": 4,
+    "responseSeconds": 10,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "241a943a22b644c4828833cd83f71ee2.wav"
+  },
+  {
+    "id": "3cbfab6d-2f47-4cce-8b3d-0dc3ecc204f4",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "At the community food workshop · 5",
+    "context": "At the community food workshop",
+    "prompt": "Everyone should label their container before placing it in the refrigerator.",
+    "scenePosition": 5,
+    "responseSeconds": 10,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "3cbfab6d2f474cce8b3d0dc3ecc204f4.wav"
+  },
+  {
+    "id": "079acc4c-f77d-42e0-8ec0-e86a661ecb03",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "At the community food workshop · 6",
+    "context": "At the community food workshop",
+    "prompt": "If you have a food allergy, speak to the instructor before your group begins preparing anything.",
+    "scenePosition": 6,
+    "responseSeconds": 12,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "079acc4cf77d42e08ec0e86a661ecb03.wav"
+  },
+  {
+    "id": "e94ddd4f-2cbb-4066-89d8-fea178185234",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "listen-repeat",
+    "title": "At the community food workshop · 7",
+    "context": "At the community food workshop",
+    "prompt": "When the workshop ends, return the equipment to its shelf and wipe your table with a clean cloth.",
+    "scenePosition": 7,
+    "responseSeconds": 12,
+    "instructions": "You are following a guided visit. Listen once and repeat exactly what you hear. Start speaking when recording begins.",
+    "audioFile": "e94ddd4f2cbb406689d8fea178185234.wav"
+  },
+  {
+    "id": "f3adc826-7d50-406a-893c-2537c6205aac",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Finding your way · 1",
+    "context": "You are taking part in a research interview about finding your way.",
+    "prompt": "Tell me about a place you visited for the first time. How did you find your way around?",
+    "responseSeconds": 45,
+    "scenePosition": 1,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "f3adc8267d50406a893c2537c6205aac.wav"
+  },
+  {
+    "id": "60c6cfee-5ab2-4357-8f4e-c7631586d16d",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Finding your way · 2",
+    "context": "You are taking part in a research interview about finding your way.",
+    "prompt": "When you need directions, do you prefer asking a person or using a map? Explain your preference.",
+    "responseSeconds": 45,
+    "scenePosition": 2,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "60c6cfee5ab243578f4ec7631586d16d.wav"
+  },
+  {
+    "id": "c2b212df-4d51-4c10-82d5-0e5b82231e69",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Finding your way · 3",
+    "context": "You are taking part in a research interview about finding your way.",
+    "prompt": "What could a university do to help new students feel confident finding unfamiliar buildings?",
+    "responseSeconds": 45,
+    "scenePosition": 3,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "c2b212df4d514c1082d50e5b82231e69.wav"
+  },
+  {
+    "id": "5abe4382-0c71-4103-8426-e2afb0a1e5cc",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Finding your way · 4",
+    "context": "You are taking part in a research interview about finding your way.",
+    "prompt": "Some people believe relying on navigation apps weakens our ability to understand places. Do you agree? Why?",
+    "responseSeconds": 45,
+    "scenePosition": 4,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "5abe43820c7141038426e2afb0a1e5cc.wav"
+  },
+  {
+    "id": "b2e7e4c0-fa31-4c86-87e5-b7f89b1f996d",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Sharing everyday objects · 1",
+    "context": "You are taking part in a research interview about sharing everyday objects.",
+    "prompt": "Describe an object you have borrowed from someone. Why did you need it?",
+    "responseSeconds": 45,
+    "scenePosition": 1,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "b2e7e4c0fa314c8687e5b7f89b1f996d.wav"
+  },
+  {
+    "id": "d67bf1fb-ac58-4e8f-865c-27d4e58e092a",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Sharing everyday objects · 2",
+    "context": "You are taking part in a research interview about sharing everyday objects.",
+    "prompt": "Would you rather borrow something you rarely use or buy your own? Explain your answer.",
+    "responseSeconds": 45,
+    "scenePosition": 2,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "d67bf1fbac584e8f865c27d4e58e092a.wav"
+  },
+  {
+    "id": "77ad51c5-8aa3-4cc7-8b2c-4147be73cdbf",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Sharing everyday objects · 3",
+    "context": "You are taking part in a research interview about sharing everyday objects.",
+    "prompt": "What rules would make a shared equipment service work well for a neighborhood?",
+    "responseSeconds": 45,
+    "scenePosition": 3,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "77ad51c58aa34cc78b2c4147be73cdbf.wav"
+  },
+  {
+    "id": "c7a68ba0-30e5-416d-881d-2afee75a9bfa",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Sharing everyday objects · 4",
+    "context": "You are taking part in a research interview about sharing everyday objects.",
+    "prompt": "Do you think schools should teach children how to share responsibility for common resources? Why or why not?",
+    "responseSeconds": 45,
+    "scenePosition": 4,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "c7a68ba030e5416d881d2afee75a9bfa.wav"
+  },
+  {
+    "id": "b1179f82-2785-4d86-8c4c-4e59397ab99e",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Explaining an idea · 1",
+    "context": "You are taking part in a research interview about explaining an idea.",
+    "prompt": "Think of a time you explained something to another person. What were you explaining?",
+    "responseSeconds": 45,
+    "scenePosition": 1,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "b1179f8227854d868c4c4e59397ab99e.wav"
+  },
+  {
+    "id": "58f586cf-91cd-4183-8717-e0240df93dc8",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Explaining an idea · 2",
+    "context": "You are taking part in a research interview about explaining an idea.",
+    "prompt": "Do you find an example or a diagram more helpful when learning a difficult idea? Why?",
+    "responseSeconds": 45,
+    "scenePosition": 2,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "58f586cf91cd41838717e0240df93dc8.wav"
+  },
+  {
+    "id": "261f834c-de24-4014-8e4d-fd9939336dcd",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Explaining an idea · 3",
+    "context": "You are taking part in a research interview about explaining an idea.",
+    "prompt": "How should someone adapt an explanation when the listener has no background in the topic?",
+    "responseSeconds": 45,
+    "scenePosition": 3,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "261f834cde2440148e4dfd9939336dcd.wav"
+  },
+  {
+    "id": "4440b52d-14a8-4a7a-8de4-b71b34783810",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Explaining an idea · 4",
+    "context": "You are taking part in a research interview about explaining an idea.",
+    "prompt": "Should researchers spend more time explaining their work to people outside their field? Support your view.",
+    "responseSeconds": 45,
+    "scenePosition": 4,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "4440b52d14a84a7a8de4b71b34783810.wav"
+  },
+  {
+    "id": "ebb86a1d-4dcb-4b53-8907-d3876a941074",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Using public spaces · 1",
+    "context": "You are taking part in a research interview about using public spaces.",
+    "prompt": "Describe a public place where you enjoy spending time. What do you usually do there?",
+    "responseSeconds": 45,
+    "scenePosition": 1,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "ebb86a1d4dcb4b538907d3876a941074.wav"
+  },
+  {
+    "id": "ba4008d7-46f9-45e2-8851-88e36a72698c",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Using public spaces · 2",
+    "context": "You are taking part in a research interview about using public spaces.",
+    "prompt": "Do you prefer a lively public space or a quiet one? Give reasons for your choice.",
+    "responseSeconds": 45,
+    "scenePosition": 2,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "ba4008d746f945e2885188e36a72698c.wav"
+  },
+  {
+    "id": "a901d2d5-9b30-48cb-8aa6-acb4a04f2a21",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Using public spaces · 3",
+    "context": "You are taking part in a research interview about using public spaces.",
+    "prompt": "What change could make a public space in your area more welcoming to different people?",
+    "responseSeconds": 45,
+    "scenePosition": 3,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "a901d2d59b3048cb8aa6acb4a04f2a21.wav"
+  },
+  {
+    "id": "05fd242e-f508-45bb-84aa-4c02ca6275fa",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Using public spaces · 4",
+    "context": "You are taking part in a research interview about using public spaces.",
+    "prompt": "When cities have limited money, should they improve existing public spaces or build new ones? Explain your opinion.",
+    "responseSeconds": 45,
+    "scenePosition": 4,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "05fd242ef50845bb84aa4c02ca6275fa.wav"
+  },
+  {
+    "id": "e0bb8346-fb1b-4128-8b8d-131ee5d45585",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Managing a group task · 1",
+    "context": "You are taking part in a research interview about managing a group task.",
+    "prompt": "Tell me about a task you completed with other people. What was your role?",
+    "responseSeconds": 45,
+    "scenePosition": 1,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "e0bb8346fb1b41288b8d131ee5d45585.wav"
+  },
+  {
+    "id": "2bb6b50d-ffd2-47e1-825c-4912448d7182",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Managing a group task · 2",
+    "context": "You are taking part in a research interview about managing a group task.",
+    "prompt": "Do you prefer having a clear leader or sharing leadership in a group? Why?",
+    "responseSeconds": 45,
+    "scenePosition": 2,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "2bb6b50dffd247e1825c4912448d7182.wav"
+  },
+  {
+    "id": "e83fc864-1514-4481-8e43-13f54f93274d",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Managing a group task · 3",
+    "context": "You are taking part in a research interview about managing a group task.",
+    "prompt": "If group members disagree about how to proceed, what is a useful way to reach a decision?",
+    "responseSeconds": 45,
+    "scenePosition": 3,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "e83fc864151444818e4313f54f93274d.wav"
+  },
+  {
+    "id": "e2c54095-ec53-4796-8062-255779dc4dc3",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Managing a group task · 4",
+    "context": "You are taking part in a research interview about managing a group task.",
+    "prompt": "Should universities assess teamwork skills separately from the final product of a group project? Why or why not?",
+    "responseSeconds": 45,
+    "scenePosition": 4,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "e2c54095ec5347968062255779dc4dc3.wav"
+  },
+  {
+    "id": "829ade93-d830-48e2-8b41-7cb9b2d9373d",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Making things last · 1",
+    "context": "You are taking part in a research interview about making things last.",
+    "prompt": "Describe something you own that you have used for a long time. Why have you kept it?",
+    "responseSeconds": 45,
+    "scenePosition": 1,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "829ade93d83048e28b417cb9b2d9373d.wav"
+  },
+  {
+    "id": "644b77a7-850b-4ff1-857f-5ae3a8fff58a",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Making things last · 2",
+    "context": "You are taking part in a research interview about making things last.",
+    "prompt": "When an item stops working, do you usually try to repair it or replace it? Explain.",
+    "responseSeconds": 45,
+    "scenePosition": 2,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "644b77a7850b4ff1857f5ae3a8fff58a.wav"
+  },
+  {
+    "id": "d0acef2a-7453-43eb-8fa2-09ed3691ac44",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Making things last · 3",
+    "context": "You are taking part in a research interview about making things last.",
+    "prompt": "What would encourage more people to learn basic repair skills?",
+    "responseSeconds": 45,
+    "scenePosition": 3,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "d0acef2a745343eb8fa209ed3691ac44.wav"
+  },
+  {
+    "id": "a2d40b68-797b-4f8f-8e7c-1305b383f2ac",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Making things last · 4",
+    "context": "You are taking part in a research interview about making things last.",
+    "prompt": "Should companies have greater responsibility for helping customers repair old products? Support your answer.",
+    "responseSeconds": 45,
+    "scenePosition": 4,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "a2d40b68797b4f8f8e7c1305b383f2ac.wav"
+  },
+  {
+    "id": "ba3d676b-22c7-4b6a-8dfd-a862f1f2d376",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Choosing information · 1",
+    "context": "You are taking part in a research interview about choosing information.",
+    "prompt": "Where do you usually look when you want to learn about a topic that interests you?",
+    "responseSeconds": 45,
+    "scenePosition": 1,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "ba3d676b22c74b6a8dfda862f1f2d376.wav"
+  },
+  {
+    "id": "7827c6e4-6fa8-4a55-8f2d-a69e06e5c178",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Choosing information · 2",
+    "context": "You are taking part in a research interview about choosing information.",
+    "prompt": "Do you prefer a short overview or a detailed explanation when approaching something new? Why?",
+    "responseSeconds": 45,
+    "scenePosition": 2,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "7827c6e46fa84a558f2da69e06e5c178.wav"
+  },
+  {
+    "id": "c11f8dde-dd90-4624-8268-3307544d6940",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Choosing information · 3",
+    "context": "You are taking part in a research interview about choosing information.",
+    "prompt": "What would you do if two sources gave conflicting explanations of the same issue?",
+    "responseSeconds": 45,
+    "scenePosition": 3,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "c11f8ddedd90462482683307544d6940.wav"
+  },
+  {
+    "id": "e22afd93-b5bb-4bc9-85c0-bde08c4be4d2",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Choosing information · 4",
+    "context": "You are taking part in a research interview about choosing information.",
+    "prompt": "Should evaluating online information be a required part of every university degree? Explain your view.",
+    "responseSeconds": 45,
+    "scenePosition": 4,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "e22afd93b5bb4bc985c0bde08c4be4d2.wav"
+  },
+  {
+    "id": "fd9669ef-4fac-445b-864f-b17ef5579ee5",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Changing routines · 1",
+    "context": "You are taking part in a research interview about changing routines.",
+    "prompt": "Tell me about a small change you have made to your daily routine. What prompted it?",
+    "responseSeconds": 45,
+    "scenePosition": 1,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "fd9669ef4fac445b864fb17ef5579ee5.wav"
+  },
+  {
+    "id": "34c57b4b-4064-416c-8523-0104b5c4fedc",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Changing routines · 2",
+    "context": "You are taking part in a research interview about changing routines.",
+    "prompt": "Do you prefer making changes gradually or starting a completely new routine at once? Why?",
+    "responseSeconds": 45,
+    "scenePosition": 2,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "34c57b4b4064416c85230104b5c4fedc.wav"
+  },
+  {
+    "id": "17fb0a30-2243-4a2e-86eb-bcaee88308fe",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Changing routines · 3",
+    "context": "You are taking part in a research interview about changing routines.",
+    "prompt": "What can help someone maintain a useful habit when their schedule becomes busy?",
+    "responseSeconds": 45,
+    "scenePosition": 3,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "17fb0a3022434a2e86ebbcaee88308fe.wav"
+  },
+  {
+    "id": "53ad6fc7-045d-4b1c-8f47-3266e9dff387",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Changing routines · 4",
+    "context": "You are taking part in a research interview about changing routines.",
+    "prompt": "Some people think workplaces should allow employees to design their own daily schedules. Do you agree? Explain.",
+    "responseSeconds": 45,
+    "scenePosition": 4,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "53ad6fc7045d4b1c8f473266e9dff387.wav"
+  },
+  {
+    "id": "897c4aaf-bef1-402d-88b2-b793ed2d28c9",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Learning from feedback · 1",
+    "context": "You are taking part in a research interview about learning from feedback.",
+    "prompt": "Describe a time someone gave you useful feedback. How did it help?",
+    "responseSeconds": 45,
+    "scenePosition": 1,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "897c4aafbef1402d88b2b793ed2d28c9.wav"
+  },
+  {
+    "id": "fffef1c6-950a-436b-8e59-c00628e680b8",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Learning from feedback · 2",
+    "context": "You are taking part in a research interview about learning from feedback.",
+    "prompt": "Do you prefer receiving feedback in writing or through a conversation? Why?",
+    "responseSeconds": 45,
+    "scenePosition": 2,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "fffef1c6950a436b8e59c00628e680b8.wav"
+  },
+  {
+    "id": "097ce250-8b6e-4e18-87ed-7777a4060146",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Learning from feedback · 3",
+    "context": "You are taking part in a research interview about learning from feedback.",
+    "prompt": "How can a teacher give critical feedback without discouraging a learner?",
+    "responseSeconds": 45,
+    "scenePosition": 3,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "097ce2508b6e4e1887ed7777a4060146.wav"
+  },
+  {
+    "id": "01128461-1fa4-4ba0-8b22-99d35ea75767",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "speaking",
+    "kind": "interview",
+    "title": "Learning from feedback · 4",
+    "context": "You are taking part in a research interview about learning from feedback.",
+    "prompt": "Should students have more opportunities to revise work after receiving feedback? Explain your reasons.",
+    "responseSeconds": 45,
+    "scenePosition": 4,
+    "instructions": "Listen to the interviewer. Respond in English with relevant details and examples. There is no preparation time.",
+    "audioFile": "011284611fa44ba08b2299d35ea75767.wav"
+  },
+  {
+    "id": "e1497995-1086-4a06-8237-de179fa6f5a2",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 1",
+    "text": "Could you hold the door while I carry these boxes?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "I usually take the bus."
+          },
+          {
+            "id": "B",
+            "text": "The room has two windows."
+          },
+          {
+            "id": "C",
+            "text": "Of course. I will keep it open."
+          },
+          {
+            "id": "D",
+            "text": "The boxes were delivered yesterday."
+          }
+        ],
+        "answer": "C",
+        "explanation": "The speaker requests help holding a door."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "e149799510864a068237de179fa6f5a2.wav"
+  },
+  {
+    "id": "862f914d-e512-46b6-83fb-098f1640b6aa",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 2",
+    "text": "Do you happen to know when the next shuttle leaves?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "I left my coat on it."
+          },
+          {
+            "id": "B",
+            "text": "The shuttle is painted blue."
+          },
+          {
+            "id": "C",
+            "text": "I prefer walking when it is sunny."
+          },
+          {
+            "id": "D",
+            "text": "There should be one in about ten minutes."
+          }
+        ],
+        "answer": "D",
+        "explanation": "The question asks for a departure time."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "862f914de51246b683fb098f1640b6aa.wav"
+  },
+  {
+    "id": "f4e752f7-4b61-4e88-89a9-e6e29e8aada9",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 3",
+    "text": "I cannot get this projector to connect to my laptop.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Have you tried using the other cable?"
+          },
+          {
+            "id": "B",
+            "text": "The lecture was quite interesting."
+          },
+          {
+            "id": "C",
+            "text": "I connected with an old friend."
+          },
+          {
+            "id": "D",
+            "text": "My laptop is in a smaller bag."
+          }
+        ],
+        "answer": "A",
+        "explanation": "A troubleshooting suggestion responds to the connection problem."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "f4e752f74b614e8889a9e6e29e8aada9.wav"
+  },
+  {
+    "id": "bcf926eb-295b-4380-89c7-8de9a33d2300",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 4",
+    "text": "Would you mind swapping presentation slots with me?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "I have never bought a projector."
+          },
+          {
+            "id": "B",
+            "text": "That should be fine; which time is yours?"
+          },
+          {
+            "id": "C",
+            "text": "Your slides have a clear title."
+          },
+          {
+            "id": "D",
+            "text": "The audience was very quiet."
+          }
+        ],
+        "answer": "B",
+        "explanation": "The response accepts the proposed exchange and asks for the relevant time."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "bcf926eb295b438089c78de9a33d2300.wav"
+  },
+  {
+    "id": "5b8f58ae-a1d1-40d5-815f-f51601d8f340",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 5",
+    "text": "The workshop has been moved to the annex.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "I moved here three years ago."
+          },
+          {
+            "id": "B",
+            "text": "I have already read that novel."
+          },
+          {
+            "id": "C",
+            "text": "Thanks for letting me know; I was heading to the old room."
+          },
+          {
+            "id": "D",
+            "text": "The workshop sold all its tools."
+          }
+        ],
+        "answer": "C",
+        "explanation": "The statement informs someone of a location change."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "5b8f58aea1d140d5815ff51601d8f340.wav"
+  },
+  {
+    "id": "bc08b591-3bd9-46c7-82a8-01af7bbd4911",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 6",
+    "text": "How did your meeting with the adviser go?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "It starts next Thursday."
+          },
+          {
+            "id": "B",
+            "text": "Her office is opposite the stairs."
+          },
+          {
+            "id": "C",
+            "text": "Please leave the door unlocked."
+          },
+          {
+            "id": "D",
+            "text": "She helped me narrow down my research question."
+          }
+        ],
+        "answer": "D",
+        "explanation": "The question asks about the outcome of a past meeting."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "bc08b5913bd946c782a801af7bbd4911.wav"
+  },
+  {
+    "id": "83e0903a-2133-4ba1-8ba9-48d83560bca0",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 7",
+    "text": "We are nearly out of paper for the printer.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "I can pick up another pack from the supply room."
+          },
+          {
+            "id": "B",
+            "text": "The printer is on the second floor."
+          },
+          {
+            "id": "C",
+            "text": "I prefer reading outside."
+          },
+          {
+            "id": "D",
+            "text": "My assignment has five pages."
+          }
+        ],
+        "answer": "A",
+        "explanation": "The response offers a solution to the shortage."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "83e0903a21334ba18ba948d83560bca0.wav"
+  },
+  {
+    "id": "4beb503d-ec7a-4ff3-8087-56e94f5c2afe",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 8",
+    "text": "Is this seat taken?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "It is made from recycled wood."
+          },
+          {
+            "id": "B",
+            "text": "No, please feel free to sit down."
+          },
+          {
+            "id": "C",
+            "text": "I took the first bus this morning."
+          },
+          {
+            "id": "D",
+            "text": "The tickets were inexpensive."
+          }
+        ],
+        "answer": "B",
+        "explanation": "The speaker asks whether the seat is available."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "4beb503dec7a4ff3808756e94f5c2afe.wav"
+  },
+  {
+    "id": "656e4df2-2f46-422c-87d2-f6f9afdd4969",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 9",
+    "text": "I thought the deadline was Friday, not Wednesday.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "I finished my lunch early."
+          },
+          {
+            "id": "B",
+            "text": "The calendar is hanging straight."
+          },
+          {
+            "id": "C",
+            "text": "The lecturer brought it forward in yesterday's announcement."
+          },
+          {
+            "id": "D",
+            "text": "Friday usually follows Thursday."
+          }
+        ],
+        "answer": "C",
+        "explanation": "The response explains why the deadline is earlier than expected."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "656e4df22f46422c87d2f6f9afdd4969.wav"
+  },
+  {
+    "id": "704a8803-bbc4-4cbe-8902-1943f514f823",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 10",
+    "text": "Could I have a little more time to return the camera?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The camera takes very sharp pictures."
+          },
+          {
+            "id": "B",
+            "text": "I enjoy photographs of buildings."
+          },
+          {
+            "id": "C",
+            "text": "The return journey was comfortable."
+          },
+          {
+            "id": "D",
+            "text": "Let me check whether someone has reserved it next."
+          }
+        ],
+        "answer": "D",
+        "explanation": "Availability for the next borrower determines whether an extension is possible."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "704a8803bbc44cbe89021943f514f823.wav"
+  },
+  {
+    "id": "4c3e8321-5c2f-4ede-8dc9-5c8becf2c8d1",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 11",
+    "text": "That was a longer walk than I expected.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Yes, next time we should take the path through the garden."
+          },
+          {
+            "id": "B",
+            "text": "I expected a written explanation."
+          },
+          {
+            "id": "C",
+            "text": "The garden opens every spring."
+          },
+          {
+            "id": "D",
+            "text": "Walking shoes come in several colors."
+          }
+        ],
+        "answer": "A",
+        "explanation": "The response acknowledges the long walk and suggests a shorter alternative."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "4c3e83215c2f4ede8dc95c8becf2c8d1.wav"
+  },
+  {
+    "id": "0f6cb092-9dd5-4829-8769-bfd735f68f44",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 12",
+    "text": "Who should I contact about a lost student card?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Most students arrive in September."
+          },
+          {
+            "id": "B",
+            "text": "The reception desk handles replacements."
+          },
+          {
+            "id": "C",
+            "text": "I contacted my family last night."
+          },
+          {
+            "id": "D",
+            "text": "The card is a pale green color."
+          }
+        ],
+        "answer": "B",
+        "explanation": "The question requests the appropriate person or office."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "0f6cb0929dd548298769bfd735f68f44.wav"
+  },
+  {
+    "id": "661a6dd1-9e15-4f07-8c23-e6c6fb1760fc",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 13",
+    "text": "I am not sure this explanation is clear enough.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The classroom has been cleaned."
+          },
+          {
+            "id": "B",
+            "text": "There are enough chairs for everyone."
+          },
+          {
+            "id": "C",
+            "text": "Why not add a concrete example?"
+          },
+          {
+            "id": "D",
+            "text": "I am sure the weather will improve."
+          }
+        ],
+        "answer": "C",
+        "explanation": "An example is a relevant way to improve an explanation."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "661a6dd19e154f078c23e6c6fb1760fc.wav"
+  },
+  {
+    "id": "74c7d70a-f16d-446d-86df-292a87ac5fc6",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 14",
+    "text": "Do we need to book ahead for the exhibition?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The book was on the top shelf."
+          },
+          {
+            "id": "B",
+            "text": "The exhibition includes old maps."
+          },
+          {
+            "id": "C",
+            "text": "We had a large lunch earlier."
+          },
+          {
+            "id": "D",
+            "text": "Only if you are coming with a large group."
+          }
+        ],
+        "answer": "D",
+        "explanation": "The response specifies the condition under which advance booking is required."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "74c7d70af16d446d86df292a87ac5fc6.wav"
+  },
+  {
+    "id": "dacd166a-e61a-4769-8043-cd6699f4bfed",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 15",
+    "text": "I really appreciate your help with the survey.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "You are welcome. I am glad it was useful."
+          },
+          {
+            "id": "B",
+            "text": "The survey closes at noon."
+          },
+          {
+            "id": "C",
+            "text": "I usually appreciate modern art."
+          },
+          {
+            "id": "D",
+            "text": "You should turn left at the crossing."
+          }
+        ],
+        "answer": "A",
+        "explanation": "The response appropriately acknowledges thanks."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "dacd166ae61a47698043cd6699f4bfed.wav"
+  },
+  {
+    "id": "e0df825b-1711-4e68-825d-bc86f8e88641",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 16",
+    "text": "Would it be possible to meet somewhere quieter?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "I have already written the meeting minutes."
+          },
+          {
+            "id": "B",
+            "text": "There is an empty study room just upstairs."
+          },
+          {
+            "id": "C",
+            "text": "We met at the station last week."
+          },
+          {
+            "id": "D",
+            "text": "The stairs were built recently."
+          }
+        ],
+        "answer": "B",
+        "explanation": "The response proposes a quiet meeting location."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "e0df825b17114e68825dbc86f8e88641.wav"
+  },
+  {
+    "id": "b9f6c5b7-a229-4060-897b-48baad902e91",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 17",
+    "text": "I accidentally sent the wrong attachment.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "That is the right bus stop."
+          },
+          {
+            "id": "B",
+            "text": "I accidentally missed the first train."
+          },
+          {
+            "id": "C",
+            "text": "Just send the correct version and explain the mistake."
+          },
+          {
+            "id": "D",
+            "text": "The attachment has three tables."
+          }
+        ],
+        "answer": "C",
+        "explanation": "The response suggests a practical remedy for the email error."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "b9f6c5b7a2294060897b48baad902e91.wav"
+  },
+  {
+    "id": "4e690658-b059-49a9-8918-7fb9004aa6d8",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 18",
+    "text": "Are you still planning to join the field trip?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The plan has several useful diagrams."
+          },
+          {
+            "id": "B",
+            "text": "The field is behind the building."
+          },
+          {
+            "id": "C",
+            "text": "I joined the club two years ago."
+          },
+          {
+            "id": "D",
+            "text": "Yes, I handed in my permission form this morning."
+          }
+        ],
+        "answer": "D",
+        "explanation": "The completed form supports the answer that the person still intends to attend."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "4e690658b05949a989187fb9004aa6d8.wav"
+  },
+  {
+    "id": "c4b39a5d-76cd-42a1-84e2-aad77311115d",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 19",
+    "text": "The café is closed for maintenance today.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Then let us get lunch at the student center."
+          },
+          {
+            "id": "B",
+            "text": "I maintain a list of useful websites."
+          },
+          {
+            "id": "C",
+            "text": "Today is warmer than yesterday."
+          },
+          {
+            "id": "D",
+            "text": "The café has a new logo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "The response adjusts the lunch plan to the closure."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "c4b39a5d76cd42a184e2aad77311115d.wav"
+  },
+  {
+    "id": "98f1bf68-20c1-46f0-8093-80391050032a",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "choose-response",
+    "title": "Everyday exchange 20",
+    "text": "Could you speak a little more slowly?",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Choose the most appropriate response.",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The last train leaves at eleven."
+          },
+          {
+            "id": "B",
+            "text": "Certainly. I will go through the last point again."
+          },
+          {
+            "id": "C",
+            "text": "The speech was printed on white paper."
+          },
+          {
+            "id": "D",
+            "text": "I arrived a little early."
+          }
+        ],
+        "answer": "B",
+        "explanation": "The response agrees to adapt the delivery and repeat the information."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "98f1bf6820c146f0809380391050032a.wav"
+  },
+  {
+    "id": "d52320f5-4eef-4984-8d56-70ced4b6a4c1",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "conversation",
+    "title": "An exhibition without photographs",
+    "text": "A: Have you chosen photographs for our neighborhood exhibition?\nB: That is the problem. Several residents want to contribute stories but have no old photographs.\nA: We could record their stories and let visitors listen through headphones.\nB: I like that, but the room has only two audio players.\nA: Then let us create short written extracts too, with permission from each speaker.\nB: Good idea. I will ask the residents which parts they are comfortable sharing before we design the panels.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What difficulty does the group face?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Residents refuse to discuss the neighborhood"
+          },
+          {
+            "id": "B",
+            "text": "The group has lost every recording"
+          },
+          {
+            "id": "C",
+            "text": "Some contributors have no photographs"
+          },
+          {
+            "id": "D",
+            "text": "The exhibition room has been cancelled"
+          }
+        ],
+        "answer": "C",
+        "explanation": "The contributor stories lack accompanying old photographs."
+      },
+      {
+        "id": 2,
+        "prompt": "What will the second speaker do next?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Buy many new audio players"
+          },
+          {
+            "id": "B",
+            "text": "Cancel the exhibition"
+          },
+          {
+            "id": "C",
+            "text": "Print all the stories immediately"
+          },
+          {
+            "id": "D",
+            "text": "Ask permission to share selected extracts"
+          }
+        ],
+        "answer": "D",
+        "explanation": "The speaker will check which parts residents are comfortable sharing before panel design."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "d52320f54eef49848d5670ced4b6a4c1.wav"
+  },
+  {
+    "id": "8d667dc1-4f4a-4d3e-8838-bd6d3ed03622",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "conversation",
+    "title": "A change in the survey",
+    "text": "A: Only twelve people answered our online questionnaire.\nB: Perhaps we should send it to more people.\nA: I think the length is the problem. It takes nearly twenty minutes.\nB: Could we remove the questions that do not directly address our project?\nA: Yes. We can keep the sections about travel habits and drop the one about shopping.\nB: Let us ask two classmates to try the shorter version before we distribute it again.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Why does the first speaker think few people replied?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The questionnaire takes too long"
+          },
+          {
+            "id": "B",
+            "text": "The website charges a fee"
+          },
+          {
+            "id": "C",
+            "text": "The topic is prohibited"
+          },
+          {
+            "id": "D",
+            "text": "Participants lack travel experience"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The first speaker explicitly identifies the twenty-minute length as the likely problem."
+      },
+      {
+        "id": 2,
+        "prompt": "What do the speakers agree to do before redistribution?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Publish the existing results as final"
+          },
+          {
+            "id": "B",
+            "text": "Test a shorter version with classmates"
+          },
+          {
+            "id": "C",
+            "text": "Add a shopping section"
+          },
+          {
+            "id": "D",
+            "text": "Pay every participant"
+          }
+        ],
+        "answer": "B",
+        "explanation": "They plan a small trial after removing less relevant questions."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "8d667dc14f4a4d3e8838bd6d3ed03622.wav"
+  },
+  {
+    "id": "79fab734-24cf-46f6-88bf-bcae21452a14",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "conversation",
+    "title": "Borrowing a specimen",
+    "text": "A: Can our biology club borrow the large shell from the display case?\nB: For your event on Saturday? The curator allows loans, but that shell is too fragile to transport.\nA: We wanted visitors to see the spiral shape close up.\nB: There is a durable replica in the teaching collection. It shows the same features and people can handle it.\nA: That may actually work better. Who should I ask?\nB: Email the teaching collection manager. I will send you the address.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Why is the original shell unsuitable for the event?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "It has no spiral pattern"
+          },
+          {
+            "id": "B",
+            "text": "It is needed for an examination"
+          },
+          {
+            "id": "C",
+            "text": "It could be damaged during transport"
+          },
+          {
+            "id": "D",
+            "text": "It belongs to another university"
+          }
+        ],
+        "answer": "C",
+        "explanation": "The curator considers the shell too fragile to move."
+      },
+      {
+        "id": 2,
+        "prompt": "Why does the first speaker welcome the replica?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "It is more valuable than the original"
+          },
+          {
+            "id": "B",
+            "text": "It requires no permission to borrow"
+          },
+          {
+            "id": "C",
+            "text": "It is smaller than every real shell"
+          },
+          {
+            "id": "D",
+            "text": "Visitors will be able to handle it"
+          }
+        ],
+        "answer": "D",
+        "explanation": "The replica preserves the relevant features and permits hands-on viewing."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "79fab73424cf46f688bfbcae21452a14.wav"
+  },
+  {
+    "id": "0906677e-3512-43e6-8e5c-3e122ad8ca8c",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "conversation",
+    "title": "A rehearsal audience",
+    "text": "A: I know my presentation well, but I speak too quickly when I get nervous.\nB: Have you rehearsed it with an audience?\nA: Only alone in my room.\nB: Our study group meets tonight. You could present the first five minutes to us.\nA: Would that take time away from exam revision?\nB: We have planned a short break anyway. We can listen then and signal whenever you speed up.\nA: Thanks. I will bring the opening slides.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What does the first speaker want to improve?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Speaking pace during presentations"
+          },
+          {
+            "id": "B",
+            "text": "The accuracy of examination answers"
+          },
+          {
+            "id": "C",
+            "text": "The number of slides available"
+          },
+          {
+            "id": "D",
+            "text": "Knowledge of the room layout"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The speaker becomes too fast when nervous."
+      },
+      {
+        "id": 2,
+        "prompt": "When will the practice take place?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "After the examination next week"
+          },
+          {
+            "id": "B",
+            "text": "During a planned study break"
+          },
+          {
+            "id": "C",
+            "text": "Before the study group exists"
+          },
+          {
+            "id": "D",
+            "text": "In place of the entire revision session"
+          }
+        ],
+        "answer": "B",
+        "explanation": "They use an already planned break rather than replacing revision."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "0906677e351243e68e5c3e122ad8ca8c.wav"
+  },
+  {
+    "id": "78d4c97f-c6ea-49a3-8653-0df0232c2f11",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "conversation",
+    "title": "Keeping the garden watered",
+    "text": "A: The seedlings look dry. I thought the automatic timer was working.\nB: It was, but the supply was turned off while the path was repaired.\nA: Can we reconnect it now?\nB: The maintenance team needs until tomorrow. We should water by hand this evening.\nA: I can bring two watering cans after class.\nB: Great. I will ask whether anyone can help carry water from the tap by the greenhouse.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Why are the seedlings dry?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The plants received too much shade"
+          },
+          {
+            "id": "B",
+            "text": "The garden group stopped meeting"
+          },
+          {
+            "id": "C",
+            "text": "The water supply was temporarily turned off"
+          },
+          {
+            "id": "D",
+            "text": "The timer has never been installed"
+          }
+        ],
+        "answer": "C",
+        "explanation": "Path repairs required shutting off the supply even though the timer worked."
+      },
+      {
+        "id": 2,
+        "prompt": "What is the temporary solution?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Replace all the seedlings"
+          },
+          {
+            "id": "B",
+            "text": "Move the greenhouse"
+          },
+          {
+            "id": "C",
+            "text": "Wait several weeks for rain"
+          },
+          {
+            "id": "D",
+            "text": "Carry water and water the plants manually"
+          }
+        ],
+        "answer": "D",
+        "explanation": "They plan to use cans that evening until maintenance is complete."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "78d4c97fc6ea49a386530df0232c2f11.wav"
+  },
+  {
+    "id": "021110dd-05da-400c-8fce-b22d17decc67",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "announcement",
+    "title": "A quieter floor",
+    "text": "Attention library users. From next Monday, the third floor will be reserved for silent individual study. Group discussion rooms remain on the first floor and can be booked online. You may still use a laptop on the third floor, but please wear headphones if your work includes audio. Staff will help move existing group bookings to the first floor; you do not need to make a new reservation.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What is changing next Monday?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The third floor becomes a silent study area"
+          },
+          {
+            "id": "B",
+            "text": "All laptops are banned"
+          },
+          {
+            "id": "C",
+            "text": "Online reservations will stop"
+          },
+          {
+            "id": "D",
+            "text": "The library will close its first floor"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The announcement assigns silent individual study to the third floor."
+      },
+      {
+        "id": 2,
+        "prompt": "What should people with existing group bookings do?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Pay for a replacement reservation"
+          },
+          {
+            "id": "B",
+            "text": "Allow staff to transfer their reservations"
+          },
+          {
+            "id": "C",
+            "text": "Cancel and book again immediately"
+          },
+          {
+            "id": "D",
+            "text": "Move to an unreserved silent desk"
+          }
+        ],
+        "answer": "B",
+        "explanation": "Staff will move bookings without requiring a new reservation."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "021110dd05da400c8fceb22d17decc67.wav"
+  },
+  {
+    "id": "1e822a5a-3a0c-41ac-81fd-d9816f8702b9",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "announcement",
+    "title": "Pottery collection times",
+    "text": "This is a message for participants in last month's pottery workshop. Your finished pieces are ready to collect from the studio office between noon and four on weekdays. Please bring the numbered receipt you received at the workshop. If you have lost it, email a description of your piece before visiting so we can identify it. Items not collected by the end of the month will be moved to storage, where collection requires an appointment.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What is the main purpose of the message?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To announce a price increase"
+          },
+          {
+            "id": "B",
+            "text": "To cancel a workshop"
+          },
+          {
+            "id": "C",
+            "text": "To explain how to collect finished work"
+          },
+          {
+            "id": "D",
+            "text": "To recruit new pottery teachers"
+          }
+        ],
+        "answer": "C",
+        "explanation": "The message gives times, identification requirements and a collection deadline."
+      },
+      {
+        "id": 2,
+        "prompt": "What should someone without a receipt do?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Attend another workshop"
+          },
+          {
+            "id": "B",
+            "text": "Choose any unlabelled piece"
+          },
+          {
+            "id": "C",
+            "text": "Wait until the studio closes"
+          },
+          {
+            "id": "D",
+            "text": "Send a description before visiting"
+          }
+        ],
+        "answer": "D",
+        "explanation": "A prior email lets staff identify the correct piece."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "1e822a5a3a0c41ac81fdd9816f8702b9.wav"
+  },
+  {
+    "id": "cd8e7764-3382-41d6-82e8-6adc54cf2b69",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "announcement",
+    "title": "A field equipment demonstration",
+    "text": "Before tomorrow's geography fieldwork, we will demonstrate the new measuring equipment in Room 204 at three this afternoon. Attendance is recommended even if you used the previous model, because the storage and calibration procedures have changed. Students with a timetable conflict can watch the recording tonight, but everyone must complete the short safety checklist before collecting equipment tomorrow morning.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "Why should experienced users attend?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Some procedures differ from the previous model"
+          },
+          {
+            "id": "B",
+            "text": "Their previous results have been lost"
+          },
+          {
+            "id": "C",
+            "text": "The demonstration replaces all fieldwork"
+          },
+          {
+            "id": "D",
+            "text": "Room 204 will close permanently"
+          }
+        ],
+        "answer": "A",
+        "explanation": "Storage and calibration have changed with the new equipment."
+      },
+      {
+        "id": 2,
+        "prompt": "What must all students do before collecting equipment?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Submit a final fieldwork report"
+          },
+          {
+            "id": "B",
+            "text": "Complete the safety checklist"
+          },
+          {
+            "id": "C",
+            "text": "Attend in person without exception"
+          },
+          {
+            "id": "D",
+            "text": "Purchase their own measuring tools"
+          }
+        ],
+        "answer": "B",
+        "explanation": "The recording is an alternative to attendance, but the checklist is mandatory."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "cd8e7764338241d682e86adc54cf2b69.wav"
+  },
+  {
+    "id": "d833e26a-5144-4d1b-89b9-e140f39b2d83",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "announcement",
+    "title": "A temporary bus stop",
+    "text": "The campus shuttle will not stop outside the sports hall this week while road resurfacing takes place. Please use the temporary stop beside the east car park, about two minutes away on foot. Service frequency and fares are unchanged. Signs near the sports hall show a step-free route to the temporary stop. The original stop is expected to reopen on Monday, weather permitting.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What has changed for shuttle users?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The number of daily services"
+          },
+          {
+            "id": "B",
+            "text": "The destination of all buses"
+          },
+          {
+            "id": "C",
+            "text": "The location of one stop"
+          },
+          {
+            "id": "D",
+            "text": "The fare for every journey"
+          }
+        ],
+        "answer": "C",
+        "explanation": "The sports hall stop moves temporarily while frequency and fares stay the same."
+      },
+      {
+        "id": 2,
+        "prompt": "What might delay reopening the original stop?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "A change in student fares"
+          },
+          {
+            "id": "B",
+            "text": "A shortage of route maps"
+          },
+          {
+            "id": "C",
+            "text": "The distance to the car park"
+          },
+          {
+            "id": "D",
+            "text": "Unsuitable weather"
+          }
+        ],
+        "answer": "D",
+        "explanation": "Weather permitting qualifies the planned Monday reopening."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "d833e26a51444d1b89b9e140f39b2d83.wav"
+  },
+  {
+    "id": "5a005ee1-ba36-4f48-88ff-cc6468f11ded",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "academic-talk",
+    "title": "Why soap bubbles become round",
+    "text": "Today I want to explain why a free-floating soap bubble tends to become round. A bubble has a thin liquid film enclosing air. The molecules in that film attract one another, creating surface tension. You can think of the film as tending to reduce its area, although it is not a solid elastic sheet. For a given enclosed volume, a sphere has the smallest surface area. A round shape therefore allows the bubble to enclose air with less film area than an irregular shape would require.\nThis does not mean every bubble you see is perfectly spherical. A bubble touching a frame must fit that boundary, and nearby bubbles can share surfaces that look quite different from isolated ones. Air currents and gravity can also distort a bubble temporarily. These examples are useful because they distinguish the underlying tendency from the effects of surrounding conditions.\nIn a classroom demonstration, compare a bubble released into still air with one held on a wire loop. The different shapes do not require different kinds of soap. They show how the same physical tendency operates under different constraints. When interpreting a shape, we must consider both the material and the environment around it.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What does the speaker mainly explain?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "How surface tension and surroundings influence bubble shape"
+          },
+          {
+            "id": "B",
+            "text": "Why soap always forms solid sheets"
+          },
+          {
+            "id": "C",
+            "text": "How to calculate the age of a bubble"
+          },
+          {
+            "id": "D",
+            "text": "Why every liquid has the same surface tension"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The talk connects the area-minimizing tendency to environmental constraints."
+      },
+      {
+        "id": 2,
+        "prompt": "Why does a free bubble tend toward a sphere?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Only spheres can contain soap molecules"
+          },
+          {
+            "id": "B",
+            "text": "A sphere minimizes surface area for its enclosed volume"
+          },
+          {
+            "id": "C",
+            "text": "A sphere contains no air"
+          },
+          {
+            "id": "D",
+            "text": "Gravity disappears inside a sphere"
+          }
+        ],
+        "answer": "B",
+        "explanation": "The speaker gives the surface-area property as the explanation."
+      },
+      {
+        "id": 3,
+        "prompt": "Why mention a wire loop?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To show surface tension stops existing"
+          },
+          {
+            "id": "B",
+            "text": "To explain how soap is manufactured"
+          },
+          {
+            "id": "C",
+            "text": "To illustrate a boundary that changes the shape"
+          },
+          {
+            "id": "D",
+            "text": "To recommend using a different detergent"
+          }
+        ],
+        "answer": "C",
+        "explanation": "The loop constrains the film despite the same underlying tendency."
+      },
+      {
+        "id": 4,
+        "prompt": "What can be inferred about an irregular bubble?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "It must contain a different gas"
+          },
+          {
+            "id": "B",
+            "text": "It cannot have surface tension"
+          },
+          {
+            "id": "C",
+            "text": "It proves the sphere explanation is always false"
+          },
+          {
+            "id": "D",
+            "text": "Its surroundings may be affecting it"
+          }
+        ],
+        "answer": "D",
+        "explanation": "Contact, currents and other conditions can modify the observed shape."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "5a005ee1ba364f4888ffcc6468f11ded.wav"
+  },
+  {
+    "id": "a9692284-586e-4492-86ce-b3146024c6dd",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "academic-talk",
+    "title": "How a market creates a meeting place",
+    "text": "When historians study an old market, they often examine what people bought and sold. But the market can also reveal how a town created opportunities for communication. A regular market brought people from scattered settlements to the same place at predictable times. Someone arriving to sell vegetables might also hear news, arrange transport, or find work. These exchanges were not separate from economic life; they often helped make trade possible.\nConsider a seller who needed to know whether a road was passable after heavy rain. Another traveler could provide information that affected which route the seller used next week. Information moved through repeated personal encounters, not only through formal announcements. This made the reliability of particular contacts valuable.\nWe should nevertheless avoid assuming that every visitor had equal access to these networks. Language, occupation, and social position could influence whom a person met and trusted. Written accounts may also preserve the experiences of officials more clearly than those of occasional visitors. To investigate a market as a meeting place, historians therefore combine several kinds of evidence, such as travel accounts, local regulations, and the physical arrangement of stalls. Together, these sources can suggest how commercial spaces also shaped social connections.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What is the main focus of the talk?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "Markets as places for exchanging information and forming connections"
+          },
+          {
+            "id": "B",
+            "text": "Methods for growing vegetables near towns"
+          },
+          {
+            "id": "C",
+            "text": "Reasons all markets had identical regulations"
+          },
+          {
+            "id": "D",
+            "text": "The invention of written road maps"
+          }
+        ],
+        "answer": "A",
+        "explanation": "The speaker moves beyond buying and selling to communication networks."
+      },
+      {
+        "id": 2,
+        "prompt": "Why does the speaker mention a rain-damaged road?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To prove formal announcements were always false"
+          },
+          {
+            "id": "B",
+            "text": "To illustrate practical information exchanged at a market"
+          },
+          {
+            "id": "C",
+            "text": "To explain why markets never opened in winter"
+          },
+          {
+            "id": "D",
+            "text": "To describe a town without any travelers"
+          }
+        ],
+        "answer": "B",
+        "explanation": "A traveler's report helps a seller plan a future route."
+      },
+      {
+        "id": 3,
+        "prompt": "What limitation does the speaker identify in written accounts?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "They always describe stall positions accurately"
+          },
+          {
+            "id": "B",
+            "text": "They contain no information about trade"
+          },
+          {
+            "id": "C",
+            "text": "Some visitors' experiences may be poorly represented"
+          },
+          {
+            "id": "D",
+            "text": "They never include officials"
+          }
+        ],
+        "answer": "C",
+        "explanation": "Officials may be documented more clearly than occasional visitors."
+      },
+      {
+        "id": 4,
+        "prompt": "How is the talk organized?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "A list of prices followed by a calculation"
+          },
+          {
+            "id": "B",
+            "text": "A debate between two named historians"
+          },
+          {
+            "id": "C",
+            "text": "A travel itinerary followed by a weather forecast"
+          },
+          {
+            "id": "D",
+            "text": "A broader view of markets, an example, then cautions about evidence"
+          }
+        ],
+        "answer": "D",
+        "explanation": "The talk introduces communication, illustrates it, then qualifies how historians study it."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "a9692284586e449286ceb3146024c6dd.wav"
+  },
+  {
+    "id": "fe740e62-6daf-4b33-8fd0-96fd918780b5",
+    "pool": "practice",
+    "examId": "",
+    "stage": "linear",
+    "section": "listening",
+    "kind": "academic-talk",
+    "title": "Why an empty nest may still be useful",
+    "text": "We tend to think of a bird's nest as useful only while eggs or young birds occupy it. Yet an abandoned nest can continue to affect its surroundings. The materials collected by a bird may provide shelter for small invertebrates. Fibers and plant fragments can retain moisture, creating conditions that differ from the exposed branch nearby. In this way, a structure built for one purpose can later support other organisms.\nResearchers investigating this effect need an appropriate comparison. Simply counting insects in old nests is not enough to show that nests increase their numbers. Perhaps insects are common throughout the tree. A stronger study compares old nests with nearby places that have similar shade and height but no nest material. Researchers may also examine how the pattern changes as the material breaks down.\nThe results are likely to depend on the environment. A nest in a dry, exposed location may behave differently from one in a damp woodland. It would therefore be premature to draw a universal conclusion from a single tree. The broader lesson is that animal-built structures can have effects beyond their original use, and careful comparisons help us identify those effects rather than merely assuming that every observed association has the same explanation.",
+    "questions": [
+      {
+        "id": 1,
+        "prompt": "What is the talk mainly about?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "The possible ecological effects of abandoned nests"
+          },
+          {
+            "id": "B",
+            "text": "How every bird selects a mate"
+          },
+          {
+            "id": "C",
+            "text": "Why insects always damage young birds"
+          },
+          {
+            "id": "D",
+            "text": "Methods for removing nests from trees"
+          }
+        ],
+        "answer": "A",
+        "explanation": "It explains later uses of nest material and how to study them."
+      },
+      {
+        "id": 2,
+        "prompt": "What might nest material provide for invertebrates?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "A permanently dry surface"
+          },
+          {
+            "id": "B",
+            "text": "Shelter and a different moisture environment"
+          },
+          {
+            "id": "C",
+            "text": "A guaranteed supply of bird eggs"
+          },
+          {
+            "id": "D",
+            "text": "Protection from every predator"
+          }
+        ],
+        "answer": "B",
+        "explanation": "The fibers retain moisture and offer shelter."
+      },
+      {
+        "id": 3,
+        "prompt": "Why compare nests with similar nearby locations?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "To avoid counting any insects"
+          },
+          {
+            "id": "B",
+            "text": "To prove shade never influences organisms"
+          },
+          {
+            "id": "C",
+            "text": "To distinguish a nest effect from general conditions in the tree"
+          },
+          {
+            "id": "D",
+            "text": "To identify which bird sings most loudly"
+          }
+        ],
+        "answer": "C",
+        "explanation": "Without a comparison, high insect numbers might simply reflect the entire tree."
+      },
+      {
+        "id": 4,
+        "prompt": "What does the speaker imply about findings from one tree?",
+        "prefix": "",
+        "missingLetters": 0,
+        "options": [
+          {
+            "id": "A",
+            "text": "They are always useless"
+          },
+          {
+            "id": "B",
+            "text": "They eliminate the need for later observations"
+          },
+          {
+            "id": "C",
+            "text": "They prove every nest has the same effect"
+          },
+          {
+            "id": "D",
+            "text": "They may not apply to all environments"
+          }
+        ],
+        "answer": "D",
+        "explanation": "The speaker cautions that environmental differences limit generalization."
+      }
+    ],
+    "instructions": "Listen to the recording, then answer the questions. The transcript is available after submission.",
+    "audioFile": "fe740e626daf4b338fd096fd918780b5.wav"
+  }
+]

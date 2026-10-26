@@ -1,0 +1,61 @@
+@ToeflExam.Api_HostAddress = https://localhost:7077
+@email = learner@example.test
+@username = learner_demo
+@password = REPLACE_WITH_YOUR_PASSWORD
+@accessToken = REPLACE_WITH_LOGIN_ACCESS_TOKEN
+@runId = REPLACE_WITH_RUN_ID
+@position = 1
+@submissionId = 160a1dd1-c7d1-45ef-8309-b80eb3804da2
+
+GET {{ToeflExam.Api_HostAddress}}/health/live
+Accept: text/plain
+
+###
+
+GET {{ToeflExam.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+### Register once with your own credentials.
+POST {{ToeflExam.Api_HostAddress}}/api/auth/register
+Content-Type: application/json
+
+{"username":"{{username}}", "displayName":"Learner", "email":"{{email}}", "password":"{{password}}"}
+
+### Copy accessToken from the response into the variable above.
+POST {{ToeflExam.Api_HostAddress}}/api/auth/login?useCookies=false
+Content-Type: application/json
+
+{"email":"{{email}}", "password":"{{password}}"}
+
+### Current published path
+GET {{ToeflExam.Api_HostAddress}}/api/practice/build-sentence/path
+Authorization: Bearer {{accessToken}}
+
+### Start/resume. Copy id from the response into runId above.
+POST {{ToeflExam.Api_HostAddress}}/api/practice/build-sentence/runs
+Authorization: Bearer {{accessToken}}
+
+### Current progress
+GET {{ToeflExam.Api_HostAddress}}/api/practice/build-sentence/runs/{{runId}}
+Authorization: Bearer {{accessToken}}
+
+### Get the available step. Set position from nextPosition.
+GET {{ToeflExam.Api_HostAddress}}/api/practice/build-sentence/runs/{{runId}}/steps/{{position}}
+Authorization: Bearer {{accessToken}}
+
+### Submit: these tile IDs solve starter question 1 only.
+# Use a NEW UUID for each new submission, reuse it only for network retries.
+# Use tile IDs from that question in slot order. [] submits a blank answer.
+POST {{ToeflExam.Api_HostAddress}}/api/practice/build-sentence/runs/{{runId}}/steps/{{position}}/submissions
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json
+
+{"submissionId":"{{submissionId}}", "tileIds":[42,87,16]}
+
+### Restart only after completion reaches 100%.
+POST {{ToeflExam.Api_HostAddress}}/api/practice/build-sentence/runs/{{runId}}/restart
+Authorization: Bearer {{accessToken}}
+
+### Your run history
+GET {{ToeflExam.Api_HostAddress}}/api/practice/build-sentence/runs?skip=0&take=20
+Authorization: Bearer {{accessToken}}

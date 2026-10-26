@@ -1,0 +1,79 @@
+{
+  "type": "object",
+  "properties": {
+    "score": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "rationale": {
+      "type": "string",
+      "description": "Concise Turkish holistic justification and what prevents a higher band, not arithmetic deductions."
+    },
+    "strengths": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 5
+    },
+    "issues": {
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "properties": {
+          "category": {
+            "type": "string",
+            "enum": [
+              "task",
+              "organization",
+              "grammar",
+              "vocabulary",
+              "register",
+              "mechanics"
+            ]
+          },
+          "evidence": {
+            "type": "string",
+            "description": "Exact short substring from the student's answer. Empty only for a missing element."
+          },
+          "explanation": {
+            "type": "string"
+          },
+          "suggestion": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "category",
+          "evidence",
+          "explanation",
+          "suggestion"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "nextSteps": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 5,
+      "items": {
+        "type": "string"
+      }
+    },
+    "improvedResponse": {
+      "type": "string",
+      "description": "English revision preserving the student's intended position; for empty/off-topic answers may be empty."
+    }
+  },
+  "required": [
+    "score",
+    "rationale",
+    "strengths",
+    "issues",
+    "nextSteps",
+    "improvedResponse"
+  ],
+  "additionalProperties": false
+}

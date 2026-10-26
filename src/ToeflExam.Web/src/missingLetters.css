@@ -1,0 +1,39 @@
+/* Identical, count-sized letter slots in studio and exam paragraphs. */
+.missing-letters {
+    position: relative;
+    display: inline-block;
+    font-family: ui-monospace, Consolas, monospace;
+    vertical-align: baseline;
+    line-height: 1.6;
+}
+.missing-letters .missing-letters-guide,
+.missing-letters.missing-letters input {
+    font: inherit;
+    letter-spacing: .35ch;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    white-space: pre;
+}
+.missing-letters .missing-letters-guide {
+    position: absolute;
+    inset: 0;
+    color: #48338a;
+    pointer-events: none;
+}
+.missing-letters.missing-letters input {
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: none;
+    min-width: 0;
+    min-height: 0;
+    border: 0;
+    border-radius: 3px;
+    background: transparent;
+    color: #312153;
+}
+.missing-letters input:focus-visible {
+    outline: 2px solid #7154eb;
+    outline-offset: 2px;
+}

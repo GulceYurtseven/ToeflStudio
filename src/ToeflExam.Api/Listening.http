@@ -1,0 +1,18 @@
+@host = https://localhost:7077
+@token = PASTE_ACCESS_TOKEN
+
+### Dört görev rehberi (sesli çalışma henüz yayımlanmadı)
+GET {{host}}/api/listening
+Authorization: Bearer {{token}}
+
+### Sürümlü Listening sınav referansı
+GET {{host}}/api/test-format/listening
+Authorization: Bearer {{token}}
+
+### Reading ve Writing karşılaştırma referansı
+GET {{host}}/api/test-format/reading
+Authorization: Bearer {{token}}
+
+###
+GET {{host}}/api/test-format/writing
+Authorization: Bearer {{token}}

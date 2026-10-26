@@ -1,0 +1,55 @@
+/* Keep secondary text legible on the warm paper palette. */
+:root {
+    --accent: #bd4828;
+    --accent-dark: #a63a1e;
+}
+.main:focus {
+    outline: none;
+}
+.eyebrow,
+.module-card > p,
+.page-heading p,
+.section-heading p,
+.module-stats,
+.learning-notes p,
+.task-instructions,
+.field-hint,
+.discussion-post p,
+.task-context,
+.feedback-section > p,
+.feedback-section li,
+.coach-note p,
+.privacy-note,
+.score-caption,
+.report-actions p,
+.answer-meta,
+.draft-label,
+.path-steps small,
+.history-name p,
+.history-progress span,
+.history-score span,
+.auth-fine,
+.breadcrumb,
+.auth-form-wrap > .muted {
+    color: #66725f;
+}
+.submit-row > span,
+.sidebar-label,
+.section-count,
+.module-tag,
+.sidebar-footer,
+.sidebar-footer small,
+.app-footer,
+.auth-bottom,
+.journey-copy p,
+.journey-copy .eyebrow,
+.journey-progress > span {
+    color: #6c745e;
+}
+.word-tile:disabled,
+.sentence-slot:disabled {
+    cursor: default;
+}
+.print-only {
+    display: none;
+}

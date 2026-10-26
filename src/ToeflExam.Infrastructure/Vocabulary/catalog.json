@@ -1,0 +1,4745 @@
+{
+  "version": "2026-10-13.2",
+  "words": [
+    {
+      "id": "abandon",
+      "word": "abandon",
+      "partOfSpeech": "verb",
+      "meaning": "To leave someone or something behind, or stop pursuing a plan.",
+      "exampleSentence": "The researchers had to abandon the outdoor experiment during the storm.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "accumulate",
+      "word": "accumulate",
+      "partOfSpeech": "verb",
+      "meaning": "To collect or increase gradually over time.",
+      "exampleSentence": "Dust can accumulate on equipment that is rarely used.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "accurate",
+      "word": "accurate",
+      "partOfSpeech": "adjective",
+      "meaning": "Correct and precise, with no important errors.",
+      "exampleSentence": "An accurate map helps visitors locate each building on campus.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "acquire",
+      "word": "acquire",
+      "partOfSpeech": "verb",
+      "meaning": "To obtain something or develop a new skill or quality.",
+      "exampleSentence": "Students acquire research skills by working on independent projects.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "acquisition",
+      "word": "acquisition",
+      "partOfSpeech": "noun",
+      "meaning": "The act of obtaining something, or a thing that has been obtained.",
+      "exampleSentence": "The library's latest acquisition is a collection of historical maps.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "adapt",
+      "word": "adapt",
+      "partOfSpeech": "verb",
+      "meaning": "To change or become accustomed to different conditions.",
+      "exampleSentence": "New students often need time to adapt to university life.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "addictive",
+      "word": "addictive",
+      "partOfSpeech": "adjective",
+      "meaning": "Causing a strong desire to keep using or doing something.",
+      "exampleSentence": "Some mobile games are designed to be addictive.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "address",
+      "word": "address",
+      "partOfSpeech": "verb",
+      "meaning": "To give attention to a problem or begin dealing with it.",
+      "exampleSentence": "The new policy aims to address the shortage of affordable housing.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "adequate",
+      "word": "adequate",
+      "partOfSpeech": "adjective",
+      "meaning": "Sufficient in amount or quality for a particular need.",
+      "exampleSentence": "The laboratory must have adequate ventilation.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "adjust",
+      "word": "adjust",
+      "partOfSpeech": "verb",
+      "meaning": "To make a small change so something works better or fits a situation.",
+      "exampleSentence": "You can adjust the microscope until the image becomes clear.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "administrative",
+      "word": "administrative",
+      "partOfSpeech": "adjective",
+      "meaning": "Related to organizing and managing the work of an institution or business.",
+      "exampleSentence": "The new assistant handles administrative tasks for the research center.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "adversely",
+      "word": "adversely",
+      "partOfSpeech": "adverb",
+      "meaning": "In a way that causes harm or an unfavorable result.",
+      "exampleSentence": "A lack of sleep can adversely affect concentration.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "advisor",
+      "word": "advisor",
+      "partOfSpeech": "noun",
+      "meaning": "A person who gives guidance, especially about academic choices or plans.",
+      "exampleSentence": "My academic advisor helped me choose courses that fit my goals.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": [
+        "adviser"
+      ]
+    },
+    {
+      "id": "advocate",
+      "word": "advocate",
+      "partOfSpeech": "verb",
+      "meaning": "To publicly support a policy, idea, or course of action.",
+      "exampleSentence": "Several student groups advocate extending library opening hours.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "affluent",
+      "word": "affluent",
+      "partOfSpeech": "adjective",
+      "meaning": "Having a large amount of money or material wealth.",
+      "exampleSentence": "The survey compared transport habits in affluent and low-income neighborhoods.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "aggregate",
+      "word": "aggregate",
+      "partOfSpeech": "adjective",
+      "meaning": "Calculated by combining several separate amounts into a total.",
+      "exampleSentence": "The report presents the aggregate energy use of all campus buildings.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "air-quality",
+      "word": "air quality",
+      "partOfSpeech": "noun phrase",
+      "meaning": "The condition of the air in relation to pollutants and their effects.",
+      "exampleSentence": "Sensors near the school provide daily information about air quality.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "allegedly",
+      "word": "allegedly",
+      "partOfSpeech": "adverb",
+      "meaning": "According to a claim that has not yet been proved.",
+      "exampleSentence": "The contractor allegedly used materials that did not meet the required standards.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "allocate",
+      "word": "allocate",
+      "partOfSpeech": "verb",
+      "meaning": "To assign money, time, or resources to a particular purpose.",
+      "exampleSentence": "The department will allocate more funding to field research.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "amend",
+      "word": "amend",
+      "partOfSpeech": "verb",
+      "meaning": "To change a document, rule, or statement in order to correct or improve it.",
+      "exampleSentence": "The committee voted to amend the scholarship requirements.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "ample",
+      "word": "ample",
+      "partOfSpeech": "adjective",
+      "meaning": "More than enough for a particular purpose.",
+      "exampleSentence": "The new reading room provides ample space for group study.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "analysis",
+      "word": "analysis",
+      "partOfSpeech": "noun",
+      "meaning": "A careful examination of something's parts or details in order to understand it.",
+      "exampleSentence": "The analysis revealed a relationship between sleep duration and concentration.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "anticipate",
+      "word": "anticipate",
+      "partOfSpeech": "verb",
+      "meaning": "To expect something and sometimes prepare for it in advance.",
+      "exampleSentence": "Organizers anticipate a large audience for the public lecture.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "apologize",
+      "word": "apologize",
+      "partOfSpeech": "verb",
+      "meaning": "To express regret for a mistake or for causing difficulty.",
+      "exampleSentence": "I apologize for submitting the wrong version of the report.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "apparent",
+      "word": "apparent",
+      "partOfSpeech": "adjective",
+      "meaning": "Easy to notice, or seeming to be true based on available evidence.",
+      "exampleSentence": "The apparent difference disappeared when the measurements were repeated.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "appreciate",
+      "word": "appreciate",
+      "partOfSpeech": "verb",
+      "meaning": "To recognize the value of something or feel thankful for it.",
+      "exampleSentence": "I appreciate the detailed comments you provided on my draft.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "approach",
+      "word": "approach",
+      "partOfSpeech": "noun / verb",
+      "meaning": "A way of dealing with a task; to move toward or begin dealing with something.",
+      "exampleSentence": "The team adopted a different approach to collecting interview data.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "arbitrary",
+      "word": "arbitrary",
+      "partOfSpeech": "adjective",
+      "meaning": "Chosen without a consistent reason, rule, or fair system.",
+      "exampleSentence": "An arbitrary deadline may not allow enough time for careful research.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "argue",
+      "word": "argue",
+      "partOfSpeech": "verb",
+      "meaning": "To present reasons for accepting a particular view or conclusion.",
+      "exampleSentence": "Some residents argue that the city should invest more in cycling infrastructure.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "argument",
+      "word": "argument",
+      "partOfSpeech": "noun",
+      "meaning": "A set of reasons offered to support or oppose a particular view.",
+      "exampleSentence": "The essay develops an argument for providing free public transport to students.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "as-a-result",
+      "word": "as a result",
+      "partOfSpeech": "transitional phrase",
+      "meaning": "Used to introduce an outcome caused by a preceding action or situation.",
+      "exampleSentence": "The city extended the bus service; as a result, more residents could reach the evening classes.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "assess",
+      "word": "assess",
+      "partOfSpeech": "verb",
+      "meaning": "To evaluate the quality, importance, or condition of something.",
+      "exampleSentence": "The team will assess the environmental effects of the proposed road.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "asset",
+      "word": "asset",
+      "partOfSpeech": "noun",
+      "meaning": "A valuable possession, resource, or useful quality.",
+      "exampleSentence": "Her ability to explain complex ideas is an asset to the research team.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "assets"
+      ]
+    },
+    {
+      "id": "assignment",
+      "word": "assignment",
+      "partOfSpeech": "noun",
+      "meaning": "A specific task given to someone as part of a course or job.",
+      "exampleSentence": "The assignment asks us to compare two explanations of the same event.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "assimilate",
+      "word": "assimilate",
+      "partOfSpeech": "verb",
+      "meaning": "To absorb information or become integrated into a group or culture.",
+      "exampleSentence": "Students need time to assimilate the unfamiliar concepts.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "augment",
+      "word": "augment",
+      "partOfSpeech": "verb",
+      "meaning": "To increase the size, amount, or effectiveness of something.",
+      "exampleSentence": "The museum will augment its collection with several donated paintings.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "balance",
+      "word": "balance",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To give suitable attention to competing needs; a state in which different parts are in a suitable relationship.",
+      "exampleSentence": "Students often need to balance paid work with their studies.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "base",
+      "word": "base",
+      "partOfSpeech": "noun",
+      "meaning": "The lowest supporting part of something or a starting foundation.",
+      "exampleSentence": "Sediment collected at the base of the fence.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "beneficial",
+      "word": "beneficial",
+      "partOfSpeech": "adjective",
+      "meaning": "Producing a helpful or favorable effect.",
+      "exampleSentence": "Regular feedback is beneficial to students who are learning a new skill.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "benefit",
+      "word": "benefit",
+      "partOfSpeech": "noun",
+      "meaning": "An advantage or helpful effect produced by an action or situation.",
+      "exampleSentence": "One benefit of peer review is the opportunity to consider different perspectives.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "biased",
+      "word": "biased",
+      "partOfSpeech": "adjective",
+      "meaning": "Unfairly favoring one side because of personal views or an unbalanced approach.",
+      "exampleSentence": "A survey of only club members could produce biased results.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "biodiversity",
+      "word": "biodiversity",
+      "partOfSpeech": "noun",
+      "meaning": "The variety of life, including diversity within species, between species, and among ecosystems.",
+      "exampleSentence": "The survey measures biodiversity in urban parks.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "business-planning",
+      "word": "business planning",
+      "partOfSpeech": "noun phrase",
+      "meaning": "Deciding a business's goals and the steps and resources needed to reach them.",
+      "exampleSentence": "The workshop introduces business planning for small enterprises.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "capable-of",
+      "word": "capable of",
+      "partOfSpeech": "adjective phrase",
+      "meaning": "Having the ability or capacity to do something; followed by a noun or an -ing form.",
+      "exampleSentence": "The device is capable of measuring very small changes in pressure.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "capital",
+      "word": "capital",
+      "partOfSpeech": "noun",
+      "meaning": "Money or other resources used to establish or operate a business.",
+      "exampleSentence": "The founders raised enough capital to rent a workspace.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "carbon-footprint",
+      "word": "carbon footprint",
+      "partOfSpeech": "noun phrase",
+      "meaning": "The total greenhouse gas emissions associated with an activity, person, or product, usually expressed as carbon dioxide equivalents.",
+      "exampleSentence": "The university is measuring the carbon footprint of its annual conference.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "carry",
+      "word": "carry",
+      "partOfSpeech": "verb",
+      "meaning": "To communicate or hold a meaning, or move something from one place to another.",
+      "exampleSentence": "The design carried a symbolic meaning for the local community.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": [
+        "carried"
+      ]
+    },
+    {
+      "id": "cash",
+      "word": "cash",
+      "partOfSpeech": "noun",
+      "meaning": "Money immediately available for use, including notes, coins, and readily accessible funds.",
+      "exampleSentence": "The company kept enough cash to pay its monthly bills.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "cease",
+      "word": "cease",
+      "partOfSpeech": "verb",
+      "meaning": "To stop, or cause an activity to stop.",
+      "exampleSentence": "Construction must cease during the examination period.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "challenge",
+      "word": "challenge",
+      "partOfSpeech": "verb",
+      "meaning": "To question the truth, correctness, or acceptability of an idea.",
+      "exampleSentence": "The new findings challenge the assumption that all learners benefit from the same schedule.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "chronologically",
+      "word": "chronologically",
+      "partOfSpeech": "adverb",
+      "meaning": "In the order in which events happened.",
+      "exampleSentence": "The exhibition arranges the artist's paintings chronologically.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "circulate",
+      "word": "circulate",
+      "partOfSpeech": "verb",
+      "meaning": "To move repeatedly through a system or spread among people.",
+      "exampleSentence": "Fans help air circulate through the greenhouse.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "civil",
+      "word": "civil",
+      "partOfSpeech": "adjective",
+      "meaning": "Relating to citizens or noncriminal legal matters rather than the military.",
+      "exampleSentence": "The lecture examines the development of civil rights.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "claim",
+      "word": "claim",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To state that something is true, often before it has been proved; a statement that someone presents as true.",
+      "exampleSentence": "Several students claim that longer opening hours would help, but the committee needs evidence to assess that claim.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "clearly",
+      "word": "clearly",
+      "partOfSpeech": "adverb",
+      "meaning": "In a way that is easy to understand, see, or recognize.",
+      "exampleSentence": "The chart clearly shows a decline in household water consumption.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "climate-change",
+      "word": "climate change",
+      "partOfSpeech": "noun phrase",
+      "meaning": "Long-term changes in temperatures and other patterns of climate.",
+      "exampleSentence": "The course explores how climate change affects coastal communities.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "coherent",
+      "word": "coherent",
+      "partOfSpeech": "adjective",
+      "meaning": "Clear and logically connected so that the parts make sense together.",
+      "exampleSentence": "Each paragraph should contribute to a coherent argument.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "commodity",
+      "word": "commodity",
+      "partOfSpeech": "noun",
+      "meaning": "A basic product or raw material that is bought and sold, such as grain or metal.",
+      "exampleSentence": "Copper is an important commodity in international trade.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "communication",
+      "word": "communication",
+      "partOfSpeech": "noun",
+      "meaning": "The exchange of information, ideas, or feelings.",
+      "exampleSentence": "Clear communication helped the group avoid misunderstandings.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "compact",
+      "word": "compact",
+      "partOfSpeech": "verb / adjective",
+      "meaning": "To press material tightly together; closely packed or taking up little space.",
+      "exampleSentence": "Workers compacted the soil before laying the path.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": [
+        "compacted"
+      ]
+    },
+    {
+      "id": "compensate",
+      "word": "compensate",
+      "partOfSpeech": "verb",
+      "meaning": "To make up for a loss or disadvantage, or pay someone for work or harm.",
+      "exampleSentence": "The extra insulation helps compensate for the building's thin walls.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "compile",
+      "word": "compile",
+      "partOfSpeech": "verb",
+      "meaning": "To collect information from several places and arrange it together.",
+      "exampleSentence": "The librarian will compile a list of recommended articles.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "complement",
+      "word": "complement",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To add something that improves or completes another thing; such an addition.",
+      "exampleSentence": "The field trip will complement the material covered in lectures.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "complex",
+      "word": "complex",
+      "partOfSpeech": "adjective",
+      "meaning": "Made up of many connected parts and therefore not simple to understand.",
+      "exampleSentence": "The relationship between housing costs and migration is complex.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "complication",
+      "word": "complication",
+      "partOfSpeech": "noun",
+      "meaning": "A new difficulty that makes a situation harder to manage.",
+      "exampleSentence": "A shortage of equipment added another complication to the project.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "component",
+      "word": "component",
+      "partOfSpeech": "noun",
+      "meaning": "One part of a larger object, process, or system.",
+      "exampleSentence": "The battery is a key component of the monitoring device.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "comprehensive",
+      "word": "comprehensive",
+      "partOfSpeech": "adjective",
+      "meaning": "Covering all or almost all important parts of a subject.",
+      "exampleSentence": "The team conducted a comprehensive review of the available evidence.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "conceive",
+      "word": "conceive",
+      "partOfSpeech": "verb",
+      "meaning": "To form an idea or plan in the mind.",
+      "exampleSentence": "The architects hope to conceive a design that uses the narrow site efficiently.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "concept",
+      "word": "concept",
+      "partOfSpeech": "noun",
+      "meaning": "An idea or general principle.",
+      "exampleSentence": "The teacher used a simple experiment to explain the concept of pressure.",
+      "sourceIds": [
+        "video-13apqCGGD60",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": [
+        "concepts"
+      ]
+    },
+    {
+      "id": "conclusion",
+      "word": "conclusion",
+      "partOfSpeech": "noun",
+      "meaning": "A judgment reached after considering evidence, or the final part of a discussion.",
+      "exampleSentence": "The committee reached the conclusion that a larger study was needed.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "conduct",
+      "word": "conduct",
+      "partOfSpeech": "noun / verb",
+      "meaning": "A person's behavior; to organize or carry out an activity.",
+      "exampleSentence": "The university's code of conduct applies to all students.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "confined",
+      "word": "confined",
+      "partOfSpeech": "adjective",
+      "meaning": "Limited to a particular place, group, or range.",
+      "exampleSentence": "Access to the archive was once confined to university staff.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "conscious",
+      "word": "conscious",
+      "partOfSpeech": "adjective",
+      "meaning": "Aware of something, or involving deliberate thought.",
+      "exampleSentence": "Choosing a study method requires conscious attention to one's learning needs.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "consciously",
+      "word": "consciously",
+      "partOfSpeech": "adverb",
+      "meaning": "With deliberate awareness of what one is doing.",
+      "exampleSentence": "The speaker consciously slowed down when explaining the formula.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "consequence",
+      "word": "consequence",
+      "partOfSpeech": "noun",
+      "meaning": "A result or effect of an action or situation.",
+      "exampleSentence": "One consequence of the new timetable is a longer lunch break.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "consequently",
+      "word": "consequently",
+      "partOfSpeech": "adverb",
+      "meaning": "As a result of the situation just described.",
+      "exampleSentence": "The main hall is being repaired; consequently, lectures have moved online.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "conserve",
+      "word": "conserve",
+      "partOfSpeech": "verb",
+      "meaning": "To protect something from loss or damage, or use it carefully to avoid waste.",
+      "exampleSentence": "The new irrigation system helps conserve water.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "considerable",
+      "word": "considerable",
+      "partOfSpeech": "adjective",
+      "meaning": "Large enough in amount or degree to be important.",
+      "exampleSentence": "The researcher spent considerable time checking the historical records.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "consistently",
+      "word": "consistently",
+      "partOfSpeech": "adverb",
+      "meaning": "In a steady or similar way across different times or situations.",
+      "exampleSentence": "The students who reviewed their notes consistently performed well on the weekly quizzes.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "constrain",
+      "word": "constrain",
+      "partOfSpeech": "verb",
+      "meaning": "To limit what can happen or what someone is able to do.",
+      "exampleSentence": "A shortage of volunteers could constrain the project's reach.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "constraint",
+      "word": "constraint",
+      "partOfSpeech": "noun",
+      "meaning": "A limit or restriction on what can be done.",
+      "exampleSentence": "Time is the main constraint on our fieldwork.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "consume",
+      "word": "consume",
+      "partOfSpeech": "verb",
+      "meaning": "To use up a resource, or eat or drink something.",
+      "exampleSentence": "Older appliances often consume more electricity than newer models.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "contaminate",
+      "word": "contaminate",
+      "partOfSpeech": "verb",
+      "meaning": "To introduce a harmful or unwanted substance into something.",
+      "exampleSentence": "A leaking container could contaminate nearby soil.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "contamination",
+      "word": "contamination",
+      "partOfSpeech": "noun",
+      "meaning": "The presence or introduction of harmful or unwanted substances.",
+      "exampleSentence": "Regular testing helps detect contamination in drinking water.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "contemplate",
+      "word": "contemplate",
+      "partOfSpeech": "verb",
+      "meaning": "To think carefully about something or consider doing it.",
+      "exampleSentence": "The university may contemplate opening a second campus.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "contemporary",
+      "word": "contemporary",
+      "partOfSpeech": "adjective / noun",
+      "meaning": "Belonging to the present or the same historical period; a person living at the same time as another.",
+      "exampleSentence": "The course compares contemporary architecture with traditional building styles.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "contradict",
+      "word": "contradict",
+      "partOfSpeech": "verb",
+      "meaning": "To state or show the opposite of another statement, making the two incompatible.",
+      "exampleSentence": "The latest measurements contradict the prediction that the lake would continue to shrink.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "convert",
+      "word": "convert",
+      "partOfSpeech": "verb",
+      "meaning": "To change something into another form, use, or system.",
+      "exampleSentence": "The software can convert handwritten notes into searchable text.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "convey",
+      "word": "convey",
+      "partOfSpeech": "verb",
+      "meaning": "To communicate an idea, feeling, or piece of information.",
+      "exampleSentence": "A clear diagram can convey information more quickly than a long paragraph.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "convict",
+      "word": "convict",
+      "partOfSpeech": "verb / noun",
+      "meaning": "As a verb, to find someone guilty in court; as a noun, a person found guilty of a crime.",
+      "exampleSentence": "A court cannot convict a person merely on the basis of rumor.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "cooperate",
+      "word": "cooperate",
+      "partOfSpeech": "verb",
+      "meaning": "To work with others toward a shared goal.",
+      "exampleSentence": "The two departments will cooperate on the research project.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "coordinate",
+      "word": "coordinate",
+      "partOfSpeech": "verb",
+      "meaning": "To organize different people or activities so that they work well together.",
+      "exampleSentence": "A student volunteer will coordinate transport for the event.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "coursework",
+      "word": "coursework",
+      "partOfSpeech": "noun",
+      "meaning": "Work completed as part of a course, such as projects and assignments.",
+      "exampleSentence": "The laboratory reports make up half of the assessed coursework.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "cram",
+      "word": "cram",
+      "partOfSpeech": "verb",
+      "meaning": "To study a large amount of material intensively shortly before an exam.",
+      "exampleSentence": "It is difficult to learn an entire semester's content if you cram overnight.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "creativity",
+      "word": "creativity",
+      "partOfSpeech": "noun",
+      "meaning": "The ability to produce original ideas or useful new approaches.",
+      "exampleSentence": "The open-ended assignment encouraged creativity.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "criteria",
+      "word": "criteria",
+      "partOfSpeech": "plural noun",
+      "meaning": "Standards used to judge something or make a decision; the singular is criterion.",
+      "exampleSentence": "The committee published clear criteria for selecting scholarship recipients.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": [
+        "criterion"
+      ]
+    },
+    {
+      "id": "critical-thinking",
+      "word": "critical thinking",
+      "partOfSpeech": "noun phrase",
+      "meaning": "Careful evaluation of evidence and arguments to reach a reasoned judgment.",
+      "exampleSentence": "Debating alternative explanations can develop critical thinking.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "crucial",
+      "word": "crucial",
+      "partOfSpeech": "adjective",
+      "meaning": "Extremely important to a result or decision.",
+      "exampleSentence": "Accurate measurements are crucial to the success of this experiment.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "cue",
+      "word": "cue",
+      "partOfSpeech": "noun",
+      "meaning": "A signal or clue that prompts an action or helps someone understand what to do.",
+      "exampleSentence": "The change in background color acts as a visual cue for the next stage.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "cure",
+      "word": "cure",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To remove an illness or problem; a treatment or solution that removes it.",
+      "exampleSentence": "Researchers are investigating whether the new treatment could cure the infection.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "curriculum",
+      "word": "curriculum",
+      "partOfSpeech": "noun",
+      "meaning": "The subjects and content included in a course or educational program.",
+      "exampleSentence": "The new curriculum includes a course on digital literacy.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "cycle",
+      "word": "cycle",
+      "partOfSpeech": "noun",
+      "meaning": "A sequence of events or stages that happens repeatedly.",
+      "exampleSentence": "The diagram illustrates the life cycle of a butterfly.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "dance",
+      "word": "dance",
+      "partOfSpeech": "noun / verb",
+      "meaning": "Movement to music; figuratively, a coordinated or complex interaction between different forces.",
+      "exampleSentence": "The lecturer described the dance between wind and water that shapes the shoreline.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "deadline",
+      "word": "deadline",
+      "partOfSpeech": "noun",
+      "meaning": "The latest time or date by which something must be completed.",
+      "exampleSentence": "The application deadline falls before the winter break.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "decline",
+      "word": "decline",
+      "partOfSpeech": "verb",
+      "meaning": "To decrease in amount or strength, or politely refuse something.",
+      "exampleSentence": "Attendance may decline if lectures are scheduled too late.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "deduce",
+      "word": "deduce",
+      "partOfSpeech": "verb",
+      "meaning": "To reach a conclusion by reasoning from known facts.",
+      "exampleSentence": "Researchers can deduce past temperatures from chemical evidence in ice.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "deforestation",
+      "word": "deforestation",
+      "partOfSpeech": "noun",
+      "meaning": "The clearing or loss of forest over an area.",
+      "exampleSentence": "Satellite images reveal the extent of deforestation in the region.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "degrade",
+      "word": "degrade",
+      "partOfSpeech": "verb",
+      "meaning": "To damage something's quality or cause it to break down.",
+      "exampleSentence": "Sunlight can degrade certain types of plastic over time.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "demand",
+      "word": "demand",
+      "partOfSpeech": "noun",
+      "meaning": "The amount of a product or service that people are willing and able to buy.",
+      "exampleSentence": "Demand for evening classes increased after the new program was announced.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "demonstrate",
+      "word": "demonstrate",
+      "partOfSpeech": "verb",
+      "meaning": "To show clearly how something works or provide evidence that it is true.",
+      "exampleSentence": "The instructor will demonstrate the procedure before students try it.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "video-eITSW_5pYm8",
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "deplete",
+      "word": "deplete",
+      "partOfSpeech": "verb",
+      "meaning": "To use up or greatly reduce a supply or resource.",
+      "exampleSentence": "Repeated irrigation can deplete underground water reserves.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "derive",
+      "word": "derive",
+      "partOfSpeech": "verb",
+      "meaning": "To obtain something from a source or reach a conclusion from evidence.",
+      "exampleSentence": "Many technical terms derive from Latin or Greek.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "detect",
+      "word": "detect",
+      "partOfSpeech": "verb",
+      "meaning": "To discover or recognize that something is present.",
+      "exampleSentence": "The instrument can detect very small changes in temperature.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "determine",
+      "word": "determine",
+      "partOfSpeech": "verb",
+      "meaning": "To establish an answer, make a decision, or shape an outcome.",
+      "exampleSentence": "The researchers will determine which material retains heat best.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "detrimental",
+      "word": "detrimental",
+      "partOfSpeech": "adjective",
+      "meaning": "Causing harm or making a situation worse.",
+      "exampleSentence": "Constant interruptions can be detrimental to careful analytical work.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "deviate",
+      "word": "deviate",
+      "partOfSpeech": "verb",
+      "meaning": "To move away from an expected route, rule, or pattern.",
+      "exampleSentence": "The results began to deviate from the predicted trend.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "differentiate",
+      "word": "differentiate",
+      "partOfSpeech": "verb",
+      "meaning": "To recognize, explain, or create a difference between things.",
+      "exampleSentence": "The labels help visitors differentiate the two closely related species.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "dilution",
+      "word": "dilution",
+      "partOfSpeech": "noun",
+      "meaning": "A reduction in concentration or, in business, a reduction in an existing owner's percentage when new shares are issued.",
+      "exampleSentence": "The investors discussed the potential dilution of their ownership.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "diminish",
+      "word": "diminish",
+      "partOfSpeech": "verb",
+      "meaning": "To become smaller or weaker, or make something smaller or weaker.",
+      "exampleSentence": "The noise began to diminish as the audience left the hall.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "directly",
+      "word": "directly",
+      "partOfSpeech": "adverb",
+      "meaning": "Without an intervening step, person, or indirect connection.",
+      "exampleSentence": "The new bus route connects the campus directly to the railway station.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "discretely",
+      "word": "discretely",
+      "partOfSpeech": "adverb",
+      "meaning": "As separate, distinct units rather than as a continuous whole.",
+      "exampleSentence": "The sensors record each event discretely instead of combining all readings.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "display",
+      "word": "display",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To present something so that it can be seen; a presentation of objects or information.",
+      "exampleSentence": "The museum will display the restored instruments next spring.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "dispose-of",
+      "word": "dispose of",
+      "partOfSpeech": "phrasal verb",
+      "meaning": "To remove or get rid of something that is no longer needed.",
+      "exampleSentence": "Laboratories must dispose of chemical waste through approved services.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "distinct",
+      "word": "distinct",
+      "partOfSpeech": "adjective",
+      "meaning": "Clearly different or separate from something else.",
+      "exampleSentence": "The interviews revealed three distinct patterns of study behavior.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "distinctly",
+      "word": "distinctly",
+      "partOfSpeech": "adverb",
+      "meaning": "Clearly enough to be noticed, heard, or remembered.",
+      "exampleSentence": "I distinctly remember the professor explaining that exception.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "diverse",
+      "word": "diverse",
+      "partOfSpeech": "adjective",
+      "meaning": "Including many different kinds of people, things, or ideas.",
+      "exampleSentence": "The course introduces students to diverse approaches to urban design.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "dividend",
+      "word": "dividend",
+      "partOfSpeech": "noun",
+      "meaning": "A payment of part of a company's profits to its shareholders.",
+      "exampleSentence": "The company announced a smaller dividend after a difficult year.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "dividends"
+      ]
+    },
+    {
+      "id": "domain",
+      "word": "domain",
+      "partOfSpeech": "noun",
+      "meaning": "A particular area of knowledge, activity, or control.",
+      "exampleSentence": "Language development is the main domain of her research.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "domesticate",
+      "word": "domesticate",
+      "partOfSpeech": "verb",
+      "meaning": "To breed or train wild animals or plants for human use over generations.",
+      "exampleSentence": "Early farmers began to domesticate animals for food and transport.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "dominate",
+      "word": "dominate",
+      "partOfSpeech": "verb",
+      "meaning": "To have the greatest influence or control over something.",
+      "exampleSentence": "One large firm began to dominate the local market.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "drop-a-course",
+      "word": "drop a course",
+      "partOfSpeech": "verb phrase",
+      "meaning": "To officially withdraw from a course after signing up for it.",
+      "exampleSentence": "The adviser explained the deadline to drop a course without a penalty.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "drought",
+      "word": "drought",
+      "partOfSpeech": "noun",
+      "meaning": "A long period with unusually little rainfall that creates a shortage of water.",
+      "exampleSentence": "The drought forced farmers to change their planting schedule.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "durability",
+      "word": "durability",
+      "partOfSpeech": "noun",
+      "meaning": "The ability to remain useful and resist damage or wear over time.",
+      "exampleSentence": "Engineers tested the durability of the new road surface.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "duration",
+      "word": "duration",
+      "partOfSpeech": "noun",
+      "meaning": "The length of time that something continues.",
+      "exampleSentence": "The duration of each interview was recorded in the study notes.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "dynamic",
+      "word": "dynamic",
+      "partOfSpeech": "adjective",
+      "meaning": "Changing, developing, or involving active forces.",
+      "exampleSentence": "A coastal ecosystem is a dynamic environment that changes with the tides.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "ecosystem",
+      "word": "ecosystem",
+      "partOfSpeech": "noun",
+      "meaning": "Living organisms and their physical environment interacting as a system.",
+      "exampleSentence": "Removing one species can affect the balance of an ecosystem.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "effective",
+      "word": "effective",
+      "partOfSpeech": "adjective",
+      "meaning": "Successful in producing the intended result.",
+      "exampleSentence": "Regular practice with feedback is an effective way to improve writing.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "effectively",
+      "word": "effectively",
+      "partOfSpeech": "adverb",
+      "meaning": "In a way that achieves the intended result.",
+      "exampleSentence": "Small groups allow students to practice conversation effectively.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "elaborate",
+      "word": "elaborate",
+      "partOfSpeech": "verb",
+      "meaning": "To explain an idea in greater detail.",
+      "exampleSentence": "Could you elaborate on the evidence supporting your conclusion?",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "emission",
+      "word": "emission",
+      "partOfSpeech": "noun",
+      "meaning": "The release of a substance or energy, such as gas, heat, or light.",
+      "exampleSentence": "The device measures the emission of light from the sample.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "emphasize",
+      "word": "emphasize",
+      "partOfSpeech": "verb",
+      "meaning": "To give special importance or attention to something.",
+      "exampleSentence": "The instructor emphasizes that every conclusion should be supported by evidence.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "enable",
+      "word": "enable",
+      "partOfSpeech": "verb",
+      "meaning": "To make an action possible or give someone the means to do it.",
+      "exampleSentence": "The grant will enable the team to purchase new equipment.",
+      "sourceIds": [
+        "video-13apqCGGD60",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": [
+        "enabled"
+      ]
+    },
+    {
+      "id": "encounter",
+      "word": "encounter",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To meet or experience something, often unexpectedly; such a meeting or experience.",
+      "exampleSentence": "Students may encounter unfamiliar terminology in the first chapter.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "endangered-species",
+      "word": "endangered species",
+      "partOfSpeech": "noun phrase",
+      "meaning": "A type of organism facing a serious risk of extinction.",
+      "exampleSentence": "The reserve was established to protect an endangered species of turtle.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "enforce",
+      "word": "enforce",
+      "partOfSpeech": "verb",
+      "meaning": "To make sure a rule or law is followed.",
+      "exampleSentence": "The laboratory must enforce strict safety rules.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "enhance",
+      "word": "enhance",
+      "partOfSpeech": "verb",
+      "meaning": "To improve the quality, value, or effectiveness of something.",
+      "exampleSentence": "Clear illustrations can enhance a reader's understanding of the process.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "enroll",
+      "word": "enroll",
+      "partOfSpeech": "verb",
+      "meaning": "To officially join a course, school, or program.",
+      "exampleSentence": "Students can enroll in the summer language program online.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": [
+        "enrol"
+      ]
+    },
+    {
+      "id": "enterprise",
+      "word": "enterprise",
+      "partOfSpeech": "noun",
+      "meaning": "A business or organization, or a project requiring effort and initiative.",
+      "exampleSentence": "The small enterprise produces laboratory equipment for local schools.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "entrepreneur",
+      "word": "entrepreneur",
+      "partOfSpeech": "noun",
+      "meaning": "A person who starts and manages a business while taking on its risks.",
+      "exampleSentence": "The entrepreneur developed an affordable tool for local farmers.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "entrepreneurs"
+      ]
+    },
+    {
+      "id": "entrepreneurship",
+      "word": "entrepreneurship",
+      "partOfSpeech": "noun",
+      "meaning": "The activity of starting and managing a business, or the skills needed to do so.",
+      "exampleSentence": "The course teaches entrepreneurship through a student-run project.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "equipment",
+      "word": "equipment",
+      "partOfSpeech": "noun",
+      "meaning": "The tools or devices needed for a particular activity.",
+      "exampleSentence": "The laboratory purchased equipment for measuring soil moisture.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "equity",
+      "word": "equity",
+      "partOfSpeech": "noun",
+      "meaning": "An ownership interest or the value of that interest after related debts are considered.",
+      "exampleSentence": "The founders retained a majority of the equity in the company.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "erode",
+      "word": "erode",
+      "partOfSpeech": "verb",
+      "meaning": "To wear away gradually through natural forces, or weaken something over time.",
+      "exampleSentence": "Heavy rain can erode soil on steep slopes.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "evidence",
+      "word": "evidence",
+      "partOfSpeech": "uncountable noun",
+      "meaning": "Facts, observations, or information used to judge whether a statement is true.",
+      "exampleSentence": "The researchers collected evidence that the new filter removes harmful particles.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "evolve",
+      "word": "evolve",
+      "partOfSpeech": "verb",
+      "meaning": "To develop or change gradually over time.",
+      "exampleSentence": "Teaching methods evolve as researchers learn more about memory.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "example",
+      "word": "example",
+      "partOfSpeech": "noun",
+      "meaning": "A particular case used to explain an idea or show what something is like.",
+      "exampleSentence": "The restoration of the wetland provides an example of successful community cooperation.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "execute",
+      "word": "execute",
+      "partOfSpeech": "verb",
+      "meaning": "To carry out a plan, instruction, or task.",
+      "exampleSentence": "The team rehearsed the procedure before trying to execute it in the field.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "executing"
+      ]
+    },
+    {
+      "id": "expenditure",
+      "word": "expenditure",
+      "partOfSpeech": "noun",
+      "meaning": "Money spent on an activity or purchase, or the act of spending it.",
+      "exampleSentence": "The proposal includes a detailed estimate of annual expenditure.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "expenses",
+      "word": "expenses",
+      "partOfSpeech": "plural noun",
+      "meaning": "Costs incurred in carrying out an activity or running a business.",
+      "exampleSentence": "The budget includes travel expenses for the research team.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "expense"
+      ]
+    },
+    {
+      "id": "explain",
+      "word": "explain",
+      "partOfSpeech": "verb",
+      "meaning": "To make something understandable by giving reasons, details, or relevant information.",
+      "exampleSentence": "The author explains why the original experiment produced inconsistent results.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "explicit",
+      "word": "explicit",
+      "partOfSpeech": "adjective",
+      "meaning": "Expressed clearly and directly, with little room for doubt.",
+      "exampleSentence": "The assignment includes explicit instructions about citing sources.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "exploit",
+      "word": "exploit",
+      "partOfSpeech": "verb",
+      "meaning": "To use a resource for an advantage, or unfairly take advantage of someone.",
+      "exampleSentence": "The company was criticized for trying to exploit workers with few employment options.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "exponentially",
+      "word": "exponentially",
+      "partOfSpeech": "adverb",
+      "meaning": "At a rate proportional to the current amount, producing increasingly rapid growth or decline.",
+      "exampleSentence": "Under ideal conditions, a bacterial population can grow exponentially.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "facilitate",
+      "word": "facilitate",
+      "partOfSpeech": "verb",
+      "meaning": "To make an activity or process easier.",
+      "exampleSentence": "Shared online notes can facilitate collaboration between students.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": [
+        "facilitated"
+      ]
+    },
+    {
+      "id": "fall-behind",
+      "word": "fall behind",
+      "partOfSpeech": "phrasal verb",
+      "meaning": "To make less progress than required or than other people.",
+      "exampleSentence": "Missing several seminars can cause a student to fall behind.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "famine",
+      "word": "famine",
+      "partOfSpeech": "noun",
+      "meaning": "An extreme, widespread shortage of food.",
+      "exampleSentence": "A prolonged crop failure can contribute to famine.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "feasible",
+      "word": "feasible",
+      "partOfSpeech": "adjective",
+      "meaning": "Possible to carry out successfully with the resources available.",
+      "exampleSentence": "The committee will decide whether the proposed schedule is feasible.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "feedback",
+      "word": "feedback",
+      "partOfSpeech": "noun",
+      "meaning": "Comments or information about performance that can guide improvement.",
+      "exampleSentence": "The tutor's feedback helped me organize my argument more clearly.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "fixed",
+      "word": "fixed",
+      "partOfSpeech": "adjective",
+      "meaning": "Set in place or not changing over a particular period.",
+      "exampleSentence": "The laboratory uses a fixed schedule for equipment inspections.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "flooding",
+      "word": "flooding",
+      "partOfSpeech": "noun",
+      "meaning": "Water spreading over land that is normally dry.",
+      "exampleSentence": "The town restored wetlands to reduce the risk of flooding.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "for-example",
+      "word": "for example",
+      "partOfSpeech": "transitional phrase",
+      "meaning": "Used to introduce a specific case that helps explain a broader statement.",
+      "exampleSentence": "Several activities build communication skills; for example, group debates require careful listening.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "for-instance",
+      "word": "for instance",
+      "partOfSpeech": "transitional phrase",
+      "meaning": "Used to introduce a particular example of the point being made.",
+      "exampleSentence": "Some materials retain heat well; for instance, brick walls can release stored warmth after sunset.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "format",
+      "word": "format",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To arrange information in a particular structure; the structure used.",
+      "exampleSentence": "Please format the references according to the course guidelines.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "fossil-fuels",
+      "word": "fossil fuels",
+      "partOfSpeech": "plural noun phrase",
+      "meaning": "Coal, oil, and natural gas formed from ancient organic material and used for energy.",
+      "exampleSentence": "The research team compared fossil fuels with alternative energy sources.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": [
+        "fossil fuel"
+      ]
+    },
+    {
+      "id": "framework",
+      "word": "framework",
+      "partOfSpeech": "noun",
+      "meaning": "A basic structure of ideas, rules, or parts that supports something more detailed.",
+      "exampleSentence": "The theory provides a framework for interpreting the survey results.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "freeze",
+      "word": "freeze",
+      "partOfSpeech": "verb",
+      "meaning": "To stop a process or hold an amount at its current level; also to become solid through cooling.",
+      "exampleSentence": "The department decided to freeze spending on new furniture.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "fundamental",
+      "word": "fundamental",
+      "partOfSpeech": "adjective",
+      "meaning": "Basic and essential to the nature or operation of something.",
+      "exampleSentence": "Observation is a fundamental part of scientific research.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "furniture",
+      "word": "furniture",
+      "partOfSpeech": "noun",
+      "meaning": "Movable objects such as chairs, tables, and cabinets used in a building.",
+      "exampleSentence": "The student center reused furniture from the old library.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "furthermore",
+      "word": "furthermore",
+      "partOfSpeech": "adverb",
+      "meaning": "Used to add another supporting point.",
+      "exampleSentence": "The method saves water; furthermore, it requires less energy.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "gap",
+      "word": "gap",
+      "partOfSpeech": "noun",
+      "meaning": "A space, missing part, or difference between two things.",
+      "exampleSentence": "The study addresses a gap in our understanding of early language development.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "generally",
+      "word": "generally",
+      "partOfSpeech": "adverb",
+      "meaning": "In most cases or when considering the overall situation.",
+      "exampleSentence": "Smaller classes generally allow more opportunities for individual feedback.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "global-warming",
+      "word": "global warming",
+      "partOfSpeech": "noun phrase",
+      "meaning": "The long-term increase in Earth's average surface temperature.",
+      "exampleSentence": "The lecture explains the relationship between greenhouse gases and global warming.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "good",
+      "word": "good",
+      "partOfSpeech": "noun / adjective",
+      "meaning": "As a noun, a product that can be bought or sold, usually used as goods; as an adjective, of satisfactory quality.",
+      "exampleSentence": "A good produced locally may have lower transport costs than an imported one.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "goods"
+      ]
+    },
+    {
+      "id": "grasp",
+      "word": "grasp",
+      "partOfSpeech": "verb",
+      "meaning": "To understand an idea clearly, or take hold of something.",
+      "exampleSentence": "A diagram helped the class grasp the relationship between the variables.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "grateful",
+      "word": "grateful",
+      "partOfSpeech": "adjective",
+      "meaning": "Feeling thankful for help or a benefit received.",
+      "exampleSentence": "The students were grateful for the extra revision session.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "greenhouse-gases",
+      "word": "greenhouse gases",
+      "partOfSpeech": "plural noun phrase",
+      "meaning": "Gases that absorb and emit infrared radiation and contribute to warming the atmosphere.",
+      "exampleSentence": "The city is measuring the greenhouse gases released by public transport.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": [
+        "greenhouse gas"
+      ]
+    },
+    {
+      "id": "grotesque",
+      "word": "grotesque",
+      "partOfSpeech": "adjective",
+      "meaning": "Extremely strange, distorted, or unpleasant.",
+      "exampleSentence": "The sculpture's grotesque features were intended to unsettle viewers.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "growing-concern",
+      "word": "growing concern",
+      "partOfSpeech": "noun phrase",
+      "meaning": "An issue that is becoming more worrying or receiving increasing attention.",
+      "exampleSentence": "Food waste is a growing concern for the campus sustainability team.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "gut",
+      "word": "gut",
+      "partOfSpeech": "verb",
+      "meaning": "To destroy or remove the inside of a building or object.",
+      "exampleSentence": "The renovation will gut the old warehouse while preserving its outer walls.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "habitat",
+      "word": "habitat",
+      "partOfSpeech": "noun",
+      "meaning": "The natural place and conditions in which an organism lives.",
+      "exampleSentence": "The wetland provides a habitat for several migratory birds.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "hands-on",
+      "word": "hands-on",
+      "partOfSpeech": "adjective",
+      "meaning": "Involving direct participation and practical experience.",
+      "exampleSentence": "The museum offers hands-on workshops for students.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "harmful-to-the-environment",
+      "word": "harmful to the environment",
+      "partOfSpeech": "adjective phrase",
+      "meaning": "Causing damage to natural systems or living organisms.",
+      "exampleSentence": "The study examines whether the cleaning products are harmful to the environment.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "hazardous",
+      "word": "hazardous",
+      "partOfSpeech": "adjective",
+      "meaning": "Likely to cause danger or harm.",
+      "exampleSentence": "Students must receive training before handling hazardous chemicals.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "heatwave",
+      "word": "heatwave",
+      "partOfSpeech": "noun",
+      "meaning": "A period of unusually hot weather for a particular place and season.",
+      "exampleSentence": "The library extended its opening hours during the heatwave.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": [
+        "heat wave"
+      ]
+    },
+    {
+      "id": "highlight",
+      "word": "highlight",
+      "partOfSpeech": "verb",
+      "meaning": "To draw particular attention to an important feature or point.",
+      "exampleSentence": "The report highlights the need for accessible study spaces.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "highly",
+      "word": "highly",
+      "partOfSpeech": "adverb",
+      "meaning": "To a very great degree, especially before an adjective or participle.",
+      "exampleSentence": "The laboratory uses a highly sensitive instrument to detect small temperature changes.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "however",
+      "word": "however",
+      "partOfSpeech": "adverb",
+      "meaning": "Used to introduce a contrast or qualification to what was just said.",
+      "exampleSentence": "The route is shorter; however, it is closed during winter.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "ideology",
+      "word": "ideology",
+      "partOfSpeech": "noun",
+      "meaning": "A system of ideas and beliefs, especially about society or politics.",
+      "exampleSentence": "The historian studies how political ideology influenced public education.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "illustrate",
+      "word": "illustrate",
+      "partOfSpeech": "verb",
+      "meaning": "To make an idea clearer by using an example, comparison, or visual representation.",
+      "exampleSentence": "The case study illustrates how a small change in scheduling can reduce delays.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "impact",
+      "word": "impact",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To influence something strongly; a significant effect or influence.",
+      "exampleSentence": "The study examines the impact of street lighting on nocturnal wildlife.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "implement",
+      "word": "implement",
+      "partOfSpeech": "verb",
+      "meaning": "To put a plan, policy, or system into operation.",
+      "exampleSentence": "The library will implement a new reservation system next month.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-MmIm_pXGuac",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "implicit",
+      "word": "implicit",
+      "partOfSpeech": "adjective",
+      "meaning": "Understood or suggested without being stated directly.",
+      "exampleSentence": "The invitation carried an implicit expectation that participants would prepare questions.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "in-addition",
+      "word": "in addition",
+      "partOfSpeech": "transitional phrase",
+      "meaning": "Used to introduce another related point or piece of information.",
+      "exampleSentence": "The new library provides quiet study rooms; in addition, it offers free research workshops.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "in-contrast",
+      "word": "in contrast",
+      "partOfSpeech": "transitional phrase",
+      "meaning": "Used to introduce a clear difference between two things or situations.",
+      "exampleSentence": "The northern site receives heavy rainfall; in contrast, the southern site is relatively dry.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "incentive",
+      "word": "incentive",
+      "partOfSpeech": "noun",
+      "meaning": "Something that encourages a person to take a particular action.",
+      "exampleSentence": "A reduced transport fare provides an incentive to use public buses.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "inclined-to",
+      "word": "inclined to",
+      "partOfSpeech": "expression",
+      "meaning": "Likely or willing to do something because of a preference or tendency.",
+      "exampleSentence": "Students are more inclined to participate when the topic interests them.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "include",
+      "word": "include",
+      "partOfSpeech": "verb",
+      "meaning": "To contain something as one part of a larger group or whole.",
+      "exampleSentence": "The registration fee includes access to the online library.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "includes",
+        "included"
+      ]
+    },
+    {
+      "id": "income",
+      "word": "income",
+      "partOfSpeech": "noun",
+      "meaning": "Money received from work, investments, or business activities.",
+      "exampleSentence": "The students used income from the event to support the science club.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "increasingly",
+      "word": "increasingly",
+      "partOfSpeech": "adverb",
+      "meaning": "To a growing degree as time passes.",
+      "exampleSentence": "Students are increasingly interested in interdisciplinary courses.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "indicate",
+      "word": "indicate",
+      "partOfSpeech": "verb",
+      "meaning": "To point to something or show that it exists or is likely.",
+      "exampleSentence": "The darker areas on the map indicate greater rainfall.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "indisputable",
+      "word": "indisputable",
+      "partOfSpeech": "adjective",
+      "meaning": "So clear or certain that it cannot reasonably be questioned.",
+      "exampleSentence": "The repeated measurements provided indisputable evidence of an error.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "induce",
+      "word": "induce",
+      "partOfSpeech": "verb",
+      "meaning": "To cause a state, event, or response.",
+      "exampleSentence": "A change in light can induce flowering in some plants.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "inflation",
+      "word": "inflation",
+      "partOfSpeech": "noun",
+      "meaning": "A general rise in prices that reduces what a unit of money can buy.",
+      "exampleSentence": "The grant was increased to account for inflation.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "inherent",
+      "word": "inherent",
+      "partOfSpeech": "adjective",
+      "meaning": "Existing as a natural or essential part of something.",
+      "exampleSentence": "There is an inherent uncertainty in predicting future weather patterns.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "inhibit",
+      "word": "inhibit",
+      "partOfSpeech": "verb",
+      "meaning": "To slow down, limit, or prevent an activity or process.",
+      "exampleSentence": "Very low temperatures can inhibit seed germination.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "inhospitable",
+      "word": "inhospitable",
+      "partOfSpeech": "adjective",
+      "meaning": "Unwelcoming or difficult to live in because of harsh conditions.",
+      "exampleSentence": "Few plants can survive in the island's inhospitable interior.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "initiate",
+      "word": "initiate",
+      "partOfSpeech": "verb",
+      "meaning": "To cause a process or activity to begin.",
+      "exampleSentence": "The council will initiate a review of the transport plan.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "inquire",
+      "word": "inquire",
+      "partOfSpeech": "verb",
+      "meaning": "To ask for information.",
+      "exampleSentence": "I would like to inquire about the availability of evening classes.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "integral",
+      "word": "integral",
+      "partOfSpeech": "adjective",
+      "meaning": "Essential to the completeness or functioning of a whole.",
+      "exampleSentence": "Peer review is an integral part of the publication process.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "integrally",
+      "word": "integrally",
+      "partOfSpeech": "adverb",
+      "meaning": "As an essential part of a complete system or whole.",
+      "exampleSentence": "Water management is integrally connected to the city's development plan.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "integrity",
+      "word": "integrity",
+      "partOfSpeech": "noun",
+      "meaning": "Honesty and adherence to ethical principles, or the condition of being whole and sound.",
+      "exampleSentence": "Reporting all results, including unexpected ones, demonstrates scientific integrity.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "intended",
+      "word": "intended",
+      "partOfSpeech": "adjective",
+      "meaning": "Planned, meant, or designed for a particular person or purpose.",
+      "exampleSentence": "The message did not reach its intended recipient.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "intensify",
+      "word": "intensify",
+      "partOfSpeech": "verb",
+      "meaning": "To become stronger or more extreme, or make something stronger.",
+      "exampleSentence": "Competition for research funding may intensify next year.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "interval",
+      "word": "interval",
+      "partOfSpeech": "noun",
+      "meaning": "The space or time between two events, objects, or points.",
+      "exampleSentence": "The sensors take a measurement at each ten-minute interval.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "intervene",
+      "word": "intervene",
+      "partOfSpeech": "verb",
+      "meaning": "To become involved in a situation in order to change or improve it.",
+      "exampleSentence": "The adviser had to intervene when the group could not agree on a topic.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "inventory",
+      "word": "inventory",
+      "partOfSpeech": "noun",
+      "meaning": "Goods or materials a business holds, or a detailed list of possessions.",
+      "exampleSentence": "The manager checked the inventory before placing another order.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "invoke",
+      "word": "invoke",
+      "partOfSpeech": "verb",
+      "meaning": "To refer to a rule, right, or authority in order to support an action.",
+      "exampleSentence": "The committee may invoke the emergency procedure if the deadline cannot be met.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "isolate",
+      "word": "isolate",
+      "partOfSpeech": "verb",
+      "meaning": "To separate something from other things so it can be examined or kept apart.",
+      "exampleSentence": "The experiment aims to isolate the effect of temperature.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "issue",
+      "word": "issue",
+      "partOfSpeech": "noun",
+      "meaning": "An important subject, question, or problem that requires consideration.",
+      "exampleSentence": "Access to reliable internet is a key issue for students taking online courses.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "keep-up-with",
+      "word": "keep up with",
+      "partOfSpeech": "phrasal verb",
+      "meaning": "To progress at the required pace or remain informed about something.",
+      "exampleSentence": "Weekly reading sessions help me keep up with the course material.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "leadership",
+      "word": "leadership",
+      "partOfSpeech": "noun",
+      "meaning": "The ability or activity of guiding people toward a shared goal.",
+      "exampleSentence": "The volunteer project gave students an opportunity to develop leadership.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "lecture",
+      "word": "lecture",
+      "partOfSpeech": "noun",
+      "meaning": "A structured talk that explains a subject to an audience, often students.",
+      "exampleSentence": "The guest lecture introduced recent developments in marine biology.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "liability",
+      "word": "liability",
+      "partOfSpeech": "noun",
+      "meaning": "A legal obligation, a debt, or a person or thing that creates a disadvantage.",
+      "exampleSentence": "The outdated software became a liability when the team needed to share data.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "liabilities"
+      ]
+    },
+    {
+      "id": "limited",
+      "word": "limited",
+      "partOfSpeech": "adjective",
+      "meaning": "Restricted in amount, size, range, or availability.",
+      "exampleSentence": "The team could draw only tentative conclusions from the limited data.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "loan",
+      "word": "loan",
+      "partOfSpeech": "noun",
+      "meaning": "Money or another item lent with an agreement that it will be returned.",
+      "exampleSentence": "The business used a loan to purchase its first delivery vehicle.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "loans"
+      ]
+    },
+    {
+      "id": "logical",
+      "word": "logical",
+      "partOfSpeech": "adjective",
+      "meaning": "Based on clear reasoning in which ideas fit together sensibly.",
+      "exampleSentence": "The essay presents a logical explanation for the increase in public transport use.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "maintain",
+      "word": "maintain",
+      "partOfSpeech": "verb",
+      "meaning": "To keep something in a particular condition or continue an activity.",
+      "exampleSentence": "The greenhouse must maintain a constant temperature overnight.",
+      "sourceIds": [
+        "video-eITSW_5pYm8",
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "maintenance",
+      "word": "maintenance",
+      "partOfSpeech": "noun",
+      "meaning": "Work done to keep something in good condition or working order.",
+      "exampleSentence": "Routine maintenance prevents many equipment failures.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "major",
+      "word": "major",
+      "partOfSpeech": "adjective",
+      "meaning": "Especially important, large, or serious compared with others.",
+      "exampleSentence": "A major obstacle to the project is the lack of laboratory space.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "manage",
+      "word": "manage",
+      "partOfSpeech": "verb",
+      "meaning": "To organize and direct an activity, business, or resource.",
+      "exampleSentence": "A small team manages the university's equipment rental service.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "managing"
+      ]
+    },
+    {
+      "id": "management",
+      "word": "management",
+      "partOfSpeech": "noun",
+      "meaning": "The activity of organizing and directing resources, or the people who do this work.",
+      "exampleSentence": "The museum's management approved the new exhibition plan.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mandatory",
+      "word": "mandatory",
+      "partOfSpeech": "adjective",
+      "meaning": "Required by a rule or authority.",
+      "exampleSentence": "Attendance at the laboratory safety session is mandatory.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "marketing",
+      "word": "marketing",
+      "partOfSpeech": "noun",
+      "meaning": "Activities used to understand customers and promote or sell products or services.",
+      "exampleSentence": "The students designed a marketing campaign for the campus bookshop.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mechanism",
+      "word": "mechanism",
+      "partOfSpeech": "noun",
+      "meaning": "A process or system through which something happens.",
+      "exampleSentence": "The study investigates the mechanism that allows the plant to conserve water.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "merit",
+      "word": "merit",
+      "partOfSpeech": "noun",
+      "meaning": "A quality that makes something valuable or deserving of praise.",
+      "exampleSentence": "The committee considered each proposal on its own merit.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "model",
+      "word": "model",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To demonstrate a behavior or represent how something works; a representation or example.",
+      "exampleSentence": "The instructor modeled the correct technique before the students practiced.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": [
+        "modeled",
+        "modelled"
+      ]
+    },
+    {
+      "id": "modify",
+      "word": "modify",
+      "partOfSpeech": "verb",
+      "meaning": "To change part of something to improve it or meet a different need.",
+      "exampleSentence": "The team will modify the questionnaire after the pilot study.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "monitor",
+      "word": "monitor",
+      "partOfSpeech": "verb",
+      "meaning": "To observe or check something repeatedly over time.",
+      "exampleSentence": "Researchers will monitor the birds throughout the breeding season.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "moreover",
+      "word": "moreover",
+      "partOfSpeech": "adverb",
+      "meaning": "Used to add information that strengthens the previous point.",
+      "exampleSentence": "The apartment is affordable; moreover, it is close to campus.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "mutual",
+      "word": "mutual",
+      "partOfSpeech": "adjective",
+      "meaning": "Shared or experienced by two or more people or groups.",
+      "exampleSentence": "The partnership was based on mutual trust.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "net",
+      "word": "net",
+      "partOfSpeech": "adjective / noun",
+      "meaning": "Remaining after expenses, losses, or other deductions have been removed from a total.",
+      "exampleSentence": "The festival's net revenue will fund student scholarships.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "net-income",
+      "word": "net income",
+      "partOfSpeech": "noun phrase",
+      "meaning": "The profit remaining after all relevant expenses and taxes have been deducted from revenue.",
+      "exampleSentence": "The report shows that net income increased despite higher energy costs.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "nevertheless",
+      "word": "nevertheless",
+      "partOfSpeech": "adverb",
+      "meaning": "Despite the fact or difficulty just mentioned.",
+      "exampleSentence": "The sample was small; nevertheless, it revealed a useful pattern.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "notion",
+      "word": "notion",
+      "partOfSpeech": "noun",
+      "meaning": "An idea, belief, or understanding of something.",
+      "exampleSentence": "The experiment challenges the notion that all learners benefit from the same method.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "numerous",
+      "word": "numerous",
+      "partOfSpeech": "adjective",
+      "meaning": "Existing in large numbers.",
+      "exampleSentence": "Numerous studies have examined the relationship between sleep and memory.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "obtain",
+      "word": "obtain",
+      "partOfSpeech": "verb",
+      "meaning": "To get something, often through effort or a formal process.",
+      "exampleSentence": "Students must obtain permission before accessing the restricted collection.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "occupy",
+      "word": "occupy",
+      "partOfSpeech": "verb",
+      "meaning": "To fill or use a space, position, or period of time.",
+      "exampleSentence": "The archives occupy the entire lower floor of the building.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "occur",
+      "word": "occur",
+      "partOfSpeech": "verb",
+      "meaning": "To happen or exist in a particular place or situation.",
+      "exampleSentence": "Most equipment faults occur during the first few weeks of use.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "office-hours",
+      "word": "office hours",
+      "partOfSpeech": "plural noun phrase",
+      "meaning": "Scheduled times when an instructor is available to meet students.",
+      "exampleSentence": "I plan to attend office hours to discuss my research proposal.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "offset",
+      "word": "offset",
+      "partOfSpeech": "verb",
+      "meaning": "To counterbalance a cost, effect, or disadvantage.",
+      "exampleSentence": "The energy savings may offset the cost of installing new windows.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "on-the-other-hand",
+      "word": "on the other hand",
+      "partOfSpeech": "transitional phrase",
+      "meaning": "Used to introduce a different or opposing consideration about the same subject.",
+      "exampleSentence": "Online courses offer flexibility; on the other hand, they require strong time-management skills.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "ongoing",
+      "word": "ongoing",
+      "partOfSpeech": "adjective",
+      "meaning": "Continuing and not yet finished.",
+      "exampleSentence": "The exhibition presents findings from an ongoing archaeological study.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "output",
+      "word": "output",
+      "partOfSpeech": "noun",
+      "meaning": "The amount produced by a person, machine, or process.",
+      "exampleSentence": "The factory increased its output without hiring additional workers.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "overall",
+      "word": "overall",
+      "partOfSpeech": "adverb / transition",
+      "meaning": "When all the relevant parts or aspects are considered together.",
+      "exampleSentence": "Overall, the revised course offers a better balance between theory and practical work.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "overlap",
+      "word": "overlap",
+      "partOfSpeech": "verb",
+      "meaning": "To cover part of the same area, time, or subject as something else.",
+      "exampleSentence": "The two courses overlap in their coverage of statistics.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "paradigm",
+      "word": "paradigm",
+      "partOfSpeech": "noun",
+      "meaning": "A model or framework that guides how a subject is understood.",
+      "exampleSentence": "The discovery introduced a new paradigm for studying cell behavior.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "parameter",
+      "word": "parameter",
+      "partOfSpeech": "noun",
+      "meaning": "A factor or limit that helps define a system or how an activity operates.",
+      "exampleSentence": "Temperature is an important parameter in the experiment.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "particular",
+      "word": "particular",
+      "partOfSpeech": "adjective",
+      "meaning": "Referring to one specific person, thing, or situation rather than all of them.",
+      "exampleSentence": "The workshop focuses on the needs of one particular industry.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "particularly",
+      "word": "particularly",
+      "partOfSpeech": "adverb",
+      "meaning": "Especially, or more than usual in a particular case.",
+      "exampleSentence": "The workshop is particularly useful for students beginning their dissertations.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "per-capita",
+      "word": "per capita",
+      "partOfSpeech": "adverb / adjective",
+      "meaning": "For each person in a population, usually as an average.",
+      "exampleSentence": "The report compares annual water consumption per capita in several cities.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "perishable",
+      "word": "perishable",
+      "partOfSpeech": "adjective",
+      "meaning": "Likely to spoil or become unusable after a short time.",
+      "exampleSentence": "The delivery system keeps perishable food cool during transport.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "permanent",
+      "word": "permanent",
+      "partOfSpeech": "adjective",
+      "meaning": "Intended or expected to last indefinitely rather than temporarily.",
+      "exampleSentence": "The museum added a permanent display about the region's geology.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "permeate",
+      "word": "permeate",
+      "partOfSpeech": "verb",
+      "meaning": "To spread throughout a substance, place, or group.",
+      "exampleSentence": "The smell of fresh bread began to permeate the building.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "persevere",
+      "word": "persevere",
+      "partOfSpeech": "verb",
+      "meaning": "To continue trying despite difficulties or delays.",
+      "exampleSentence": "Successful researchers often persevere through many unsuccessful experiments.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "phenomenon",
+      "word": "phenomenon",
+      "partOfSpeech": "noun",
+      "meaning": "An observable event or fact; the plural is phenomena.",
+      "exampleSentence": "The northern lights are a natural phenomenon caused by interactions in the atmosphere.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": [
+        "phenomena"
+      ]
+    },
+    {
+      "id": "pollution",
+      "word": "pollution",
+      "partOfSpeech": "noun",
+      "meaning": "Harmful substances or energy introduced into the environment.",
+      "exampleSentence": "The students collected water samples to investigate pollution in the stream.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "practical",
+      "word": "practical",
+      "partOfSpeech": "adjective",
+      "meaning": "Related to real situations and effective action rather than theory alone.",
+      "exampleSentence": "The guide offers practical advice for organizing fieldwork.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "practical-skills",
+      "word": "practical skills",
+      "partOfSpeech": "plural noun phrase",
+      "meaning": "Abilities that can be applied directly to real tasks or situations.",
+      "exampleSentence": "The internship helped students develop practical skills in data analysis.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "precede",
+      "word": "precede",
+      "partOfSpeech": "verb",
+      "meaning": "To happen or come before something else.",
+      "exampleSentence": "A short introduction will precede the main lecture.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "precise",
+      "word": "precise",
+      "partOfSpeech": "adjective",
+      "meaning": "Exact, carefully defined, or expressed with close attention to detail.",
+      "exampleSentence": "The instructions give precise measurements for each ingredient.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "predicament",
+      "word": "predicament",
+      "partOfSpeech": "noun",
+      "meaning": "A difficult or unpleasant situation that is hard to resolve.",
+      "exampleSentence": "Losing the only copy of the data left the team in a predicament.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "predominant",
+      "word": "predominant",
+      "partOfSpeech": "adjective",
+      "meaning": "The most common, strongest, or most influential.",
+      "exampleSentence": "Walking is the predominant mode of travel within the small campus.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "prejudiced",
+      "word": "prejudiced",
+      "partOfSpeech": "adjective",
+      "meaning": "Holding an unfair judgment about someone or something without sufficient evidence.",
+      "exampleSentence": "A prejudiced evaluation can prevent qualified applicants from receiving fair consideration.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "preliminary",
+      "word": "preliminary",
+      "partOfSpeech": "adjective",
+      "meaning": "Coming before a more complete or final stage.",
+      "exampleSentence": "The team will present preliminary findings at the conference.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "prerequisite",
+      "word": "prerequisite",
+      "partOfSpeech": "noun",
+      "meaning": "Something required before another activity can begin, often an earlier course.",
+      "exampleSentence": "Introductory chemistry is a prerequisite for the advanced laboratory course.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "prevailing",
+      "word": "prevailing",
+      "partOfSpeech": "adjective",
+      "meaning": "Most common, widespread, or influential at a particular time or place.",
+      "exampleSentence": "The design takes advantage of the region's prevailing winds.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "previously",
+      "word": "previously",
+      "partOfSpeech": "adverb",
+      "meaning": "At an earlier time or before the event being discussed.",
+      "exampleSentence": "The building previously served as a railway station.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "primarily",
+      "word": "primarily",
+      "partOfSpeech": "adverb",
+      "meaning": "Mainly or more than anything else.",
+      "exampleSentence": "The discussion focuses primarily on the cost of maintaining public parks.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "privileged",
+      "word": "privileged",
+      "partOfSpeech": "adjective",
+      "meaning": "Having special rights, opportunities, or advantages that others lack.",
+      "exampleSentence": "The program aims to widen access beyond a privileged minority.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "process",
+      "word": "process",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To deal with information in order to understand it; a series of actions used to achieve a result.",
+      "exampleSentence": "The review process gives students time to process unfamiliar ideas.",
+      "sourceIds": [
+        "video-13apqCGGD60",
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "procession",
+      "word": "procession",
+      "partOfSpeech": "noun",
+      "meaning": "A group of people or vehicles moving together in an organized line, often ceremonially.",
+      "exampleSentence": "A procession of musicians led the annual celebration.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": [
+        "processions"
+      ]
+    },
+    {
+      "id": "profit",
+      "word": "profit",
+      "partOfSpeech": "noun",
+      "meaning": "Money remaining after the costs of an activity are subtracted from the money it earns.",
+      "exampleSentence": "The bookstore uses part of its profit to fund reading events.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "promote",
+      "word": "promote",
+      "partOfSpeech": "verb",
+      "meaning": "To support the growth of something or move someone to a higher position.",
+      "exampleSentence": "The campaign aims to promote sustainable travel on campus.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "proportion",
+      "word": "proportion",
+      "partOfSpeech": "noun",
+      "meaning": "A part or share considered in relation to the whole.",
+      "exampleSentence": "A large proportion of the respondents used public transport.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "prosper",
+      "word": "prosper",
+      "partOfSpeech": "verb",
+      "meaning": "To develop successfully or become financially successful.",
+      "exampleSentence": "Local businesses can prosper when the town attracts more visitors.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "qualitative",
+      "word": "qualitative",
+      "partOfSpeech": "adjective",
+      "meaning": "Describing characteristics or experiences rather than expressing them mainly as numbers.",
+      "exampleSentence": "The interviews provided qualitative data about students' experiences.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "raise",
+      "word": "raise",
+      "partOfSpeech": "verb",
+      "meaning": "To bring up an issue, increase something, or lift it to a higher position.",
+      "exampleSentence": "The findings raised questions about the original explanation.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": [
+        "raised"
+      ]
+    },
+    {
+      "id": "raise-awareness",
+      "word": "raise awareness",
+      "partOfSpeech": "verb phrase",
+      "meaning": "To help more people understand or notice an issue.",
+      "exampleSentence": "The exhibition aims to raise awareness of the importance of wetlands.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "rarely",
+      "word": "rarely",
+      "partOfSpeech": "adverb",
+      "meaning": "Not often or on very few occasions.",
+      "exampleSentence": "The species is rarely observed outside its coastal habitat.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "reason",
+      "word": "reason",
+      "partOfSpeech": "noun",
+      "meaning": "A cause or explanation for an event, action, or belief.",
+      "exampleSentence": "One reason for the decline in attendance was the change in the bus timetable.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "recent",
+      "word": "recent",
+      "partOfSpeech": "adjective",
+      "meaning": "Having happened or appeared a short time ago.",
+      "exampleSentence": "Recent research has examined how green spaces affect concentration.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "recycle",
+      "word": "recycle",
+      "partOfSpeech": "verb",
+      "meaning": "To process used materials so they can be made into new products.",
+      "exampleSentence": "The residence halls provide separate bins to help students recycle paper.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "reduce-emissions",
+      "word": "reduce emissions",
+      "partOfSpeech": "verb phrase",
+      "meaning": "To decrease the amount of gases or other substances released into the environment.",
+      "exampleSentence": "The factory installed new equipment to reduce emissions.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "refine",
+      "word": "refine",
+      "partOfSpeech": "verb",
+      "meaning": "To improve something through small changes, or remove unwanted substances.",
+      "exampleSentence": "The pilot study helped the team refine its research questions.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "refute",
+      "word": "refute",
+      "partOfSpeech": "verb",
+      "meaning": "To show through evidence or reasoning that a statement or argument is false.",
+      "exampleSentence": "The newly discovered records refute the claim that the site was abandoned in the eighteenth century.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "register-for",
+      "word": "register for",
+      "partOfSpeech": "verb phrase",
+      "meaning": "To officially sign up for a class, event, or service.",
+      "exampleSentence": "You must register for the workshop before places run out.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "regulate",
+      "word": "regulate",
+      "partOfSpeech": "verb",
+      "meaning": "To control an activity or process through rules or adjustments.",
+      "exampleSentence": "The device helps regulate the temperature inside the chamber.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "relevant",
+      "word": "relevant",
+      "partOfSpeech": "adjective",
+      "meaning": "Closely connected to the subject or situation being considered.",
+      "exampleSentence": "Include only evidence that is relevant to your argument.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "reliable",
+      "word": "reliable",
+      "partOfSpeech": "adjective",
+      "meaning": "Able to be trusted to work well or provide accurate information.",
+      "exampleSentence": "Researchers need reliable measurements before comparing the two materials.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "renewable-energy",
+      "word": "renewable energy",
+      "partOfSpeech": "noun phrase",
+      "meaning": "Energy obtained from sources that are naturally replenished, such as sunlight or wind.",
+      "exampleSentence": "The campus plans to obtain more electricity from renewable energy.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "request",
+      "word": "request",
+      "partOfSpeech": "verb / noun",
+      "meaning": "To ask for something, often formally; an act of asking.",
+      "exampleSentence": "You may request an appointment through the student portal.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "require",
+      "word": "require",
+      "partOfSpeech": "verb",
+      "meaning": "To need something or make it necessary by a rule.",
+      "exampleSentence": "Some laboratory courses require prior training in safety procedures.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "resource",
+      "word": "resource",
+      "partOfSpeech": "noun",
+      "meaning": "A supply, tool, or source of support that can be used to meet a need.",
+      "exampleSentence": "The online archive is a valuable resource for local historians.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "restrict",
+      "word": "restrict",
+      "partOfSpeech": "verb",
+      "meaning": "To limit the amount, range, or freedom of something.",
+      "exampleSentence": "The library may restrict access to fragile manuscripts.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "result",
+      "word": "result",
+      "partOfSpeech": "noun",
+      "meaning": "An outcome or effect produced by an action, process, or event.",
+      "exampleSentence": "The unexpected result led the team to repeat the experiment.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "retain",
+      "word": "retain",
+      "partOfSpeech": "verb",
+      "meaning": "To keep something, including information in memory.",
+      "exampleSentence": "Short review sessions help learners retain new vocabulary.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "retrieve",
+      "word": "retrieve",
+      "partOfSpeech": "verb",
+      "meaning": "To find and bring back something or recover stored information.",
+      "exampleSentence": "Students can retrieve archived articles through the library website.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "revenue",
+      "word": "revenue",
+      "partOfSpeech": "noun",
+      "meaning": "Money a business receives from its ordinary activities before expenses are deducted.",
+      "exampleSentence": "The cafe's revenue rose after it introduced a delivery service.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "rigid",
+      "word": "rigid",
+      "partOfSpeech": "adjective",
+      "meaning": "Stiff and difficult to bend, or unwilling to change.",
+      "exampleSentence": "A rigid timetable leaves little room for unexpected delays.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "rising-sea-levels",
+      "word": "rising sea levels",
+      "partOfSpeech": "noun phrase",
+      "meaning": "An increase over time in the average height of the sea.",
+      "exampleSentence": "The coastal plan considers the effects of rising sea levels on roads.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "risk-management",
+      "word": "risk management",
+      "partOfSpeech": "noun phrase",
+      "meaning": "Identifying possible problems and taking steps to reduce their likelihood or effects.",
+      "exampleSentence": "Risk management is essential when planning an expedition.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "rote-memorization",
+      "word": "rote memorization",
+      "partOfSpeech": "noun phrase",
+      "meaning": "Learning information through repeated practice without necessarily understanding it.",
+      "exampleSentence": "The teacher combines rote memorization of symbols with problem-solving activities.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "scenario",
+      "word": "scenario",
+      "partOfSpeech": "noun",
+      "meaning": "A possible or imagined situation and the events associated with it.",
+      "exampleSentence": "The exercise asks students to plan for a scenario involving a power failure.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "scholarship",
+      "word": "scholarship",
+      "partOfSpeech": "noun",
+      "meaning": "Money awarded to support a student's education.",
+      "exampleSentence": "She received a scholarship for her work in environmental science.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "scope",
+      "word": "scope",
+      "partOfSpeech": "noun",
+      "meaning": "The range of subjects, activities, or effects that something covers.",
+      "exampleSentence": "The scope of the project is limited to first-year students.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "self-discipline",
+      "word": "self-discipline",
+      "partOfSpeech": "noun",
+      "meaning": "The ability to control one's actions and continue working without external pressure.",
+      "exampleSentence": "Independent study requires self-discipline and a realistic schedule.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "seminar",
+      "word": "seminar",
+      "partOfSpeech": "noun",
+      "meaning": "A class or meeting in which a smaller group discusses a subject.",
+      "exampleSentence": "Each student will lead one discussion during the seminar.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "serve",
+      "word": "serve",
+      "partOfSpeech": "verb",
+      "meaning": "To perform a role, provide a function, or help someone.",
+      "exampleSentence": "The old school served as a community center during the renovation.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": [
+        "served"
+      ]
+    },
+    {
+      "id": "service",
+      "word": "service",
+      "partOfSpeech": "noun",
+      "meaning": "Work or assistance provided for someone, rather than a physical product.",
+      "exampleSentence": "The company offers a repair service for laboratory instruments.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "share",
+      "word": "share",
+      "partOfSpeech": "noun",
+      "meaning": "A unit of ownership in a company, or a part of something divided among people.",
+      "exampleSentence": "Each share gives its owner a small ownership interest in the company.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "shares"
+      ]
+    },
+    {
+      "id": "shareholder",
+      "word": "shareholder",
+      "partOfSpeech": "noun",
+      "meaning": "A person or organization that owns shares in a company.",
+      "exampleSentence": "Each shareholder received a copy of the annual report.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": [
+        "shareholders"
+      ]
+    },
+    {
+      "id": "significant",
+      "word": "significant",
+      "partOfSpeech": "adjective",
+      "meaning": "Important or large enough to deserve attention.",
+      "exampleSentence": "The archive contains a significant collection of early photographs.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "video-eITSW_5pYm8",
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "simulate",
+      "word": "simulate",
+      "partOfSpeech": "verb",
+      "meaning": "To imitate conditions or behavior for study, practice, or testing.",
+      "exampleSentence": "The model can simulate how water moves through the valley.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "single-use-plastic",
+      "word": "single-use plastic",
+      "partOfSpeech": "noun phrase",
+      "meaning": "Plastic designed to be used once before disposal.",
+      "exampleSentence": "The cafeteria replaced single-use plastic cups with reusable mugs.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "slightly",
+      "word": "slightly",
+      "partOfSpeech": "adverb",
+      "meaning": "To a small degree or by a small amount.",
+      "exampleSentence": "The revised schedule gives students slightly more time between classes.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "specific",
+      "word": "specific",
+      "partOfSpeech": "adjective",
+      "meaning": "Clearly identified or described in detail rather than in general terms.",
+      "exampleSentence": "The tutor asked for specific examples to support the student's opinion.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "specifically",
+      "word": "specifically",
+      "partOfSpeech": "adverb",
+      "meaning": "In an exact or particular way, rather than generally.",
+      "exampleSentence": "The project focuses specifically on the experiences of first-year students.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "stimulate",
+      "word": "stimulate",
+      "partOfSpeech": "verb",
+      "meaning": "To encourage greater activity, growth, or interest.",
+      "exampleSentence": "The new exhibition stimulated public interest in local history.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": [
+        "stimulated"
+      ]
+    },
+    {
+      "id": "stockholder",
+      "word": "stockholder",
+      "partOfSpeech": "noun",
+      "meaning": "A person or organization that owns shares in a company; another word for shareholder.",
+      "exampleSentence": "The stockholder voted at the company's annual meeting.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "strongly",
+      "word": "strongly",
+      "partOfSpeech": "adverb",
+      "meaning": "With considerable force, confidence, or intensity.",
+      "exampleSentence": "The survey findings strongly support the proposal for longer library hours.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "subsidy",
+      "word": "subsidy",
+      "partOfSpeech": "noun",
+      "meaning": "Financial support from a government or organization for a particular activity.",
+      "exampleSentence": "A transport subsidy lowered the cost of commuting for students.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "substantial",
+      "word": "substantial",
+      "partOfSpeech": "adjective",
+      "meaning": "Large or important in amount, size, or effect.",
+      "exampleSentence": "The renovation will require a substantial investment.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "sufficient",
+      "word": "sufficient",
+      "partOfSpeech": "adjective",
+      "meaning": "Enough to meet a particular need.",
+      "exampleSentence": "The room has sufficient space for a small study group.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "suggest",
+      "word": "suggest",
+      "partOfSpeech": "verb",
+      "meaning": "To propose an idea or indicate that something may be true without proving it.",
+      "exampleSentence": "The results suggest that short breaks may improve attention.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "supplier",
+      "word": "supplier",
+      "partOfSpeech": "noun",
+      "meaning": "A person or business that provides goods, materials, or services.",
+      "exampleSentence": "The school chose a supplier that could deliver materials every week.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "supply",
+      "word": "supply",
+      "partOfSpeech": "noun",
+      "meaning": "An available quantity of something, or the amount producers are willing and able to sell.",
+      "exampleSentence": "The drought reduced the supply of fresh vegetables.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "support",
+      "word": "support",
+      "partOfSpeech": "verb",
+      "meaning": "To provide evidence, reasons, or assistance that strengthens an idea or helps someone.",
+      "exampleSentence": "The field observations support the researchers' explanation of the animals' behavior.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "surveillance",
+      "word": "surveillance",
+      "partOfSpeech": "noun",
+      "meaning": "Careful observation of people, places, or activities over time.",
+      "exampleSentence": "The study discusses public attitudes toward electronic surveillance.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "suspend",
+      "word": "suspend",
+      "partOfSpeech": "verb",
+      "meaning": "To stop an activity temporarily or temporarily remove someone from a role.",
+      "exampleSentence": "The team decided to suspend fieldwork until the weather improved.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "sustain",
+      "word": "sustain",
+      "partOfSpeech": "verb",
+      "meaning": "To keep something going or support it over time.",
+      "exampleSentence": "The organization needs regular donations to sustain its outreach program.",
+      "sourceIds": [
+        "video-13apqCGGD60",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": [
+        "sustained"
+      ]
+    },
+    {
+      "id": "sustainable",
+      "word": "sustainable",
+      "partOfSpeech": "adjective",
+      "meaning": "Able to continue over time without exhausting resources or causing unacceptable harm.",
+      "exampleSentence": "The design team proposed a more sustainable method of collecting rainwater.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "switch-to-renewables",
+      "word": "switch to renewables",
+      "partOfSpeech": "verb phrase",
+      "meaning": "To replace other energy sources with naturally replenished ones.",
+      "exampleSentence": "The community hopes to switch to renewables over the next decade.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "tackle-climate-change",
+      "word": "tackle climate change",
+      "partOfSpeech": "verb phrase",
+      "meaning": "To take action to limit climate change or deal with its causes and effects.",
+      "exampleSentence": "The students discussed how cities could tackle climate change through transport policy.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "tangible",
+      "word": "tangible",
+      "partOfSpeech": "adjective",
+      "meaning": "Real and measurable, or capable of being physically touched.",
+      "exampleSentence": "The project produced tangible benefits for the local community.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "teamwork",
+      "word": "teamwork",
+      "partOfSpeech": "noun",
+      "meaning": "Cooperative effort by people working toward a common goal.",
+      "exampleSentence": "Successful field research often depends on careful teamwork.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "therefore",
+      "word": "therefore",
+      "partOfSpeech": "adverb / transition",
+      "meaning": "For that reason or as a logical consequence of what has just been stated.",
+      "exampleSentence": "The sample was too small; therefore, the findings cannot represent the whole population.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "time-management",
+      "word": "time management",
+      "partOfSpeech": "noun phrase",
+      "meaning": "Planning and organizing how time is used to complete tasks.",
+      "exampleSentence": "Effective time management leaves space for both revision and rest.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "tolerate",
+      "word": "tolerate",
+      "partOfSpeech": "verb",
+      "meaning": "To accept, allow, or endure something unpleasant or different from one's preferences.",
+      "exampleSentence": "Some plants can tolerate long periods without rain.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "toxic",
+      "word": "toxic",
+      "partOfSpeech": "adjective",
+      "meaning": "Poisonous or capable of harming living organisms.",
+      "exampleSentence": "The laboratory stores toxic substances in a locked cabinet.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "transcript",
+      "word": "transcript",
+      "partOfSpeech": "noun",
+      "meaning": "An official record of courses and grades; also a written version of spoken words.",
+      "exampleSentence": "The admissions office requested a transcript from my previous university.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "transmission",
+      "word": "transmission",
+      "partOfSpeech": "noun",
+      "meaning": "The sending or passing of information, energy, or another thing.",
+      "exampleSentence": "The device improves the transmission of data from remote sensors.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "transmit",
+      "word": "transmit",
+      "partOfSpeech": "verb",
+      "meaning": "To send or pass something from one place or person to another.",
+      "exampleSentence": "The device can transmit measurements to a computer.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "trigger",
+      "word": "trigger",
+      "partOfSpeech": "verb",
+      "meaning": "To cause an event or process to begin.",
+      "exampleSentence": "A sudden temperature change can trigger the sensor's alarm.",
+      "sourceIds": [
+        "pdf-academic-100",
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "tuition",
+      "word": "tuition",
+      "partOfSpeech": "noun",
+      "meaning": "The fees charged for teaching at a school or university; also instruction itself.",
+      "exampleSentence": "The scholarship covers tuition but does not cover accommodation.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "typically",
+      "word": "typically",
+      "partOfSpeech": "adverb",
+      "meaning": "In the way that is usual or characteristic of a person, thing, or situation.",
+      "exampleSentence": "Students typically revise their first drafts after receiving feedback.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "ultimately",
+      "word": "ultimately",
+      "partOfSpeech": "adverb",
+      "meaning": "In the end, after other events or considerations have had their effect.",
+      "exampleSentence": "The success of the policy ultimately depends on public participation.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "undergo",
+      "word": "undergo",
+      "partOfSpeech": "verb",
+      "meaning": "To experience a process, change, or treatment.",
+      "exampleSentence": "All new staff undergo safety training before entering the laboratory.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "unleash",
+      "word": "unleash",
+      "partOfSpeech": "verb",
+      "meaning": "To release something powerful or allow it to act without restraint.",
+      "exampleSentence": "Access to the new tools could unleash students' creativity.",
+      "sourceIds": [
+        "pdf-academic-100"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "utilize",
+      "word": "utilize",
+      "partOfSpeech": "verb",
+      "meaning": "To put something to practical use.",
+      "exampleSentence": "Researchers utilize satellite images to track changes in vegetation.",
+      "sourceIds": [
+        "video-MmIm_pXGuac",
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "valid",
+      "word": "valid",
+      "partOfSpeech": "adjective",
+      "meaning": "Well-founded or acceptable because it follows sound reasoning or meets relevant requirements.",
+      "exampleSentence": "The conclusion is valid only if the measurements were collected consistently.",
+      "sourceIds": [
+        "image-toefl-writing-word-set"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "various",
+      "word": "various",
+      "partOfSpeech": "adjective",
+      "meaning": "Including several different types or examples.",
+      "exampleSentence": "The exhibition features objects from various regions.",
+      "sourceIds": [
+        "video-MmIm_pXGuac"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "welfare",
+      "word": "welfare",
+      "partOfSpeech": "noun",
+      "meaning": "The health, happiness, and well-being of people or animals.",
+      "exampleSentence": "The committee is responsible for student welfare.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "well-rounded",
+      "word": "well-rounded",
+      "partOfSpeech": "adjective",
+      "meaning": "Developed across a broad range of subjects, abilities, or experiences.",
+      "exampleSentence": "A well-rounded education includes both scientific and artistic subjects.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "widespread",
+      "word": "widespread",
+      "partOfSpeech": "adjective",
+      "meaning": "Present or occurring over a large area or among many people.",
+      "exampleSentence": "The proposal received widespread support from local residents.",
+      "sourceIds": [
+        "video-eITSW_5pYm8"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "wildfires",
+      "word": "wildfires",
+      "partOfSpeech": "plural noun",
+      "meaning": "Uncontrolled fires spreading through natural vegetation.",
+      "exampleSentence": "The researchers examined how wildfires alter soil conditions.",
+      "sourceIds": [
+        "video-E_novWUjwjM"
+      ],
+      "aliases": [
+        "wildfire"
+      ]
+    },
+    {
+      "id": "workload",
+      "word": "workload",
+      "partOfSpeech": "noun",
+      "meaning": "The amount of work someone is expected to complete.",
+      "exampleSentence": "She reduced her work hours to manage a heavier academic workload.",
+      "sourceIds": [
+        "video-tieTCsaDip4"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "workshop",
+      "word": "workshop",
+      "partOfSpeech": "noun",
+      "meaning": "A place where things are made or repaired; also a practical training session.",
+      "exampleSentence": "The carpentry students built their models in the workshop.",
+      "sourceIds": [
+        "video-J5cvD8MHIXE"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "yield",
+      "word": "yield",
+      "partOfSpeech": "verb",
+      "meaning": "To produce a result or crop; in other contexts, to give way or surrender.",
+      "exampleSentence": "The new method may yield more accurate measurements.",
+      "sourceIds": [
+        "video-13apqCGGD60"
+      ],
+      "aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "pdf-academic-100",
+      "title": "Top 100 Academic Words for TOEFL You Need (supplied PDF)",
+      "url": null,
+      "coverage": "complete",
+      "note": "All 100 numbered entries across pages 2-20. Definitions and example sentences were rewritten for this studio.",
+      "wordIds": [
+        "abandon",
+        "accumulate",
+        "acquire",
+        "acquisition",
+        "adapt",
+        "addictive",
+        "adequate",
+        "adjust",
+        "adversely",
+        "advocate",
+        "affluent",
+        "aggregate",
+        "allegedly",
+        "allocate",
+        "amend",
+        "anticipate",
+        "arbitrary",
+        "assess",
+        "asset",
+        "assimilate",
+        "augment",
+        "inclined-to",
+        "biased",
+        "cease",
+        "chronologically",
+        "circulate",
+        "civil",
+        "commodity",
+        "compensate",
+        "consciously",
+        "consequence",
+        "constraint",
+        "contamination",
+        "contemplate",
+        "complication",
+        "convey",
+        "convict",
+        "cure",
+        "curriculum",
+        "decline",
+        "degrade",
+        "deplete",
+        "determine",
+        "diminish",
+        "discretely",
+        "dispose-of",
+        "distinctly",
+        "diverse",
+        "domesticate",
+        "elaborate",
+        "emission",
+        "equity",
+        "evolve",
+        "explicit",
+        "exploit",
+        "exponentially",
+        "famine",
+        "feasible",
+        "gap",
+        "grotesque",
+        "gut",
+        "hazardous",
+        "impact",
+        "implement",
+        "implicit",
+        "incentive",
+        "increasingly",
+        "indisputable",
+        "inflation",
+        "inherent",
+        "integrally",
+        "integrity",
+        "intensify",
+        "intervene",
+        "liability",
+        "maintenance",
+        "merit",
+        "net",
+        "notion",
+        "occur",
+        "overlap",
+        "paradigm",
+        "per-capita",
+        "permeate",
+        "persevere",
+        "predicament",
+        "prejudiced",
+        "prevailing",
+        "privileged",
+        "promote",
+        "prosper",
+        "regulate",
+        "retrieve",
+        "subsidy",
+        "surveillance",
+        "suspend",
+        "tangible",
+        "tolerate",
+        "trigger",
+        "unleash"
+      ]
+    },
+    {
+      "id": "video-13apqCGGD60",
+      "title": "TOEFL Vocabulary Practice (2026) – 30 Questions to Boost Your Score",
+      "url": "https://www.youtube.com/watch?v=13apqCGGD60",
+      "coverage": "complete",
+      "note": "All explicitly taught target words and expressions; inflected forms normalized to their dictionary headwords. Includes 30 numbered question targets verified from passage frames and the introductory word yield.",
+      "wordIds": [
+        "yield",
+        "serve",
+        "procession",
+        "inhospitable",
+        "fixed",
+        "ample",
+        "erode",
+        "concept",
+        "process",
+        "model",
+        "perishable",
+        "enable",
+        "sustain",
+        "confined",
+        "administrative",
+        "transmission",
+        "conscious",
+        "cue",
+        "trigger",
+        "facilitate",
+        "durability",
+        "compact",
+        "intended",
+        "practical",
+        "carry",
+        "circulate",
+        "stimulate",
+        "raise",
+        "dance",
+        "base",
+        "permanent"
+      ]
+    },
+    {
+      "id": "video-MmIm_pXGuac",
+      "title": "30 TOEFL Vocabulary Synonyms You NEED for 5+",
+      "url": "https://www.youtube.com/watch?v=MmIm_pXGuac",
+      "coverage": "complete",
+      "note": "All explicitly taught target words and expressions; inflected forms normalized to their dictionary headwords.",
+      "wordIds": [
+        "demonstrate",
+        "significant",
+        "crucial",
+        "beneficial",
+        "detrimental",
+        "utilize",
+        "obtain",
+        "initiate",
+        "modify",
+        "require",
+        "nevertheless",
+        "however",
+        "consequently",
+        "furthermore",
+        "moreover",
+        "specifically",
+        "particularly",
+        "appreciate",
+        "request",
+        "inquire",
+        "apologize",
+        "grateful",
+        "implement",
+        "enhance",
+        "address",
+        "substantial",
+        "considerable",
+        "numerous",
+        "various",
+        "effectively"
+      ]
+    },
+    {
+      "id": "video-eITSW_5pYm8",
+      "title": "TOEFL Reading Vocabulary Practice - 87 Words You Need to Know",
+      "url": "https://www.youtube.com/watch?v=eITSW_5pYm8",
+      "coverage": "complete",
+      "note": "All explicitly taught target words and expressions; inflected forms normalized to their dictionary headwords.",
+      "wordIds": [
+        "adapt",
+        "allocate",
+        "apparent",
+        "approach",
+        "coherent",
+        "compile",
+        "complement",
+        "component",
+        "comprehensive",
+        "conceive",
+        "concept",
+        "conduct",
+        "considerable",
+        "constrain",
+        "consume",
+        "contemporary",
+        "convert",
+        "cooperate",
+        "coordinate",
+        "criteria",
+        "cycle",
+        "deduce",
+        "demonstrate",
+        "derive",
+        "detect",
+        "deviate",
+        "differentiate",
+        "diminish",
+        "display",
+        "distinct",
+        "domain",
+        "dominate",
+        "duration",
+        "dynamic",
+        "enable",
+        "encounter",
+        "enforce",
+        "enhance",
+        "format",
+        "framework",
+        "fundamental",
+        "ideology",
+        "implement",
+        "implicit",
+        "indicate",
+        "induce",
+        "inherent",
+        "inhibit",
+        "initiate",
+        "integral",
+        "interval",
+        "invoke",
+        "isolate",
+        "maintain",
+        "mechanism",
+        "monitor",
+        "mutual",
+        "notion",
+        "obtain",
+        "occupy",
+        "offset",
+        "ongoing",
+        "output",
+        "parameter",
+        "phenomenon",
+        "precede",
+        "precise",
+        "predominant",
+        "preliminary",
+        "proportion",
+        "qualitative",
+        "refine",
+        "relevant",
+        "resource",
+        "restrict",
+        "rigid",
+        "scenario",
+        "scope",
+        "significant",
+        "simulate",
+        "sufficient",
+        "sustain",
+        "transmit",
+        "undergo",
+        "utilize",
+        "welfare",
+        "widespread"
+      ]
+    },
+    {
+      "id": "video-J5cvD8MHIXE",
+      "title": "Complete the Words | TOEFL Reading 2026: Structure, Tips, and Practice",
+      "url": "https://www.youtube.com/watch?v=J5cvD8MHIXE",
+      "coverage": "complete",
+      "note": "All explicitly taught target words and expressions; inflected forms normalized to their dictionary headwords. Includes the business vocabulary explanations and content-word answers; repeats are merged.",
+      "wordIds": [
+        "entrepreneurship",
+        "entrepreneur",
+        "time-management",
+        "creativity",
+        "communication",
+        "leadership",
+        "teamwork",
+        "business-planning",
+        "risk-management",
+        "capable-of",
+        "execute",
+        "marketing",
+        "enterprise",
+        "capital",
+        "shareholder",
+        "stockholder",
+        "share",
+        "dividend",
+        "dilution",
+        "equipment",
+        "workshop",
+        "demand",
+        "furniture",
+        "supplier",
+        "maintain",
+        "supply",
+        "revenue",
+        "expenses",
+        "income",
+        "net-income",
+        "cash",
+        "management",
+        "freeze",
+        "expenditure",
+        "asset",
+        "inventory",
+        "liability",
+        "loan",
+        "good",
+        "service",
+        "profit",
+        "net",
+        "include",
+        "manage",
+        "particular"
+      ]
+    },
+    {
+      "id": "video-E_novWUjwjM",
+      "title": "30 TOEFL Environment & Climate Vocabulary Words (2026 Format)",
+      "url": "https://www.youtube.com/watch?v=E_novWUjwjM",
+      "coverage": "complete",
+      "note": "All explicitly taught target words and expressions; inflected forms normalized to their dictionary headwords.",
+      "wordIds": [
+        "climate-change",
+        "global-warming",
+        "greenhouse-gases",
+        "fossil-fuels",
+        "carbon-footprint",
+        "pollution",
+        "air-quality",
+        "contaminate",
+        "single-use-plastic",
+        "toxic",
+        "ecosystem",
+        "biodiversity",
+        "habitat",
+        "endangered-species",
+        "deforestation",
+        "renewable-energy",
+        "sustainable",
+        "recycle",
+        "reduce-emissions",
+        "conserve",
+        "drought",
+        "flooding",
+        "wildfires",
+        "heatwave",
+        "rising-sea-levels",
+        "tackle-climate-change",
+        "raise-awareness",
+        "growing-concern",
+        "harmful-to-the-environment",
+        "switch-to-renewables"
+      ]
+    },
+    {
+      "id": "video-tieTCsaDip4",
+      "title": "30 TOEFL Education & University Vocabulary Words (2026 Format)",
+      "url": "https://www.youtube.com/watch?v=tieTCsaDip4",
+      "coverage": "complete",
+      "note": "All explicitly taught target words and expressions; inflected forms normalized to their dictionary headwords.",
+      "wordIds": [
+        "coursework",
+        "workload",
+        "keep-up-with",
+        "fall-behind",
+        "grasp",
+        "retain",
+        "cram",
+        "balance",
+        "lecture",
+        "seminar",
+        "assignment",
+        "deadline",
+        "feedback",
+        "curriculum",
+        "office-hours",
+        "enroll",
+        "register-for",
+        "prerequisite",
+        "drop-a-course",
+        "advisor",
+        "transcript",
+        "tuition",
+        "scholarship",
+        "hands-on",
+        "rote-memorization",
+        "critical-thinking",
+        "well-rounded",
+        "mandatory",
+        "self-discipline",
+        "practical-skills"
+      ]
+    },
+    {
+      "id": "image-toefl-writing-word-set",
+      "title": "TOEFL Writing Word Set (supplied mind map)",
+      "url": null,
+      "coverage": "complete",
+      "note": "All 59 visible entries across the five branches: 58 distinct words and expressions because claim appears as both verb and noun. The nouns branch is labeled 12 but displays 11 entries. Original definitions and example sentences are used.",
+      "wordIds": [
+        "significant",
+        "reliable",
+        "accurate",
+        "logical",
+        "major",
+        "specific",
+        "valid",
+        "recent",
+        "limited",
+        "complex",
+        "beneficial",
+        "effective",
+        "clearly",
+        "strongly",
+        "directly",
+        "highly",
+        "typically",
+        "primarily",
+        "ultimately",
+        "slightly",
+        "generally",
+        "rarely",
+        "previously",
+        "consistently",
+        "argue",
+        "suggest",
+        "refute",
+        "support",
+        "highlight",
+        "challenge",
+        "demonstrate",
+        "explain",
+        "claim",
+        "emphasize",
+        "illustrate",
+        "contradict",
+        "evidence",
+        "argument",
+        "analysis",
+        "issue",
+        "benefit",
+        "result",
+        "process",
+        "example",
+        "reason",
+        "conclusion",
+        "however",
+        "in-contrast",
+        "on-the-other-hand",
+        "moreover",
+        "furthermore",
+        "in-addition",
+        "therefore",
+        "as-a-result",
+        "consequently",
+        "for-example",
+        "for-instance",
+        "overall"
+      ]
+    }
+  ]
+}

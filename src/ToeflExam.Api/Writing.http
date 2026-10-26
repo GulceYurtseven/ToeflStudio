@@ -1,0 +1,53 @@
+@host = https://localhost:7077
+@accessToken = REPLACE_WITH_LOGIN_ACCESS_TOKEN
+@module = email
+@runId = REPLACE_WITH_RUN_ID
+@position = 1
+@submissionId = 280e2b2b-6880-4c22-9146-54d571a389bc
+
+### Sign in using ToeflExam.Api.http first, then paste accessToken above.
+GET {{host}}/api/writing/configuration
+Authorization: Bearer {{accessToken}}
+
+### Overview of all three Writing modules
+GET {{host}}/api/writing
+Authorization: Bearer {{accessToken}}
+
+### Ordered path. To practice discussion, set module = academic-discussion.
+GET {{host}}/api/practice/writing/{{module}}/path
+Authorization: Bearer {{accessToken}}
+
+### Start or resume. Copy response id into runId.
+POST {{host}}/api/practice/writing/{{module}}/runs
+Authorization: Bearer {{accessToken}}
+
+### Read current activity before writing your response.
+GET {{host}}/api/practice/writing/{{module}}/runs/{{runId}}/steps/{{position}}
+Authorization: Bearer {{accessToken}}
+
+### Enter YOUR response. New activity = new UUID; network retry = same UUID.
+# A non-empty response calls Gemini and can consume API quota.
+POST {{host}}/api/practice/writing/{{module}}/runs/{{runId}}/steps/{{position}}/submissions
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json
+
+{
+  "submissionId": "{{submissionId}}",
+  "answer": "REPLACE_WITH_YOUR_ENGLISH_RESPONSE"
+}
+
+### Read temporary report data (no attachment); available for at most 30 minutes.
+GET {{host}}/api/practice/writing/{{module}}/runs/{{runId}}/steps/{{position}}/report
+Authorization: Bearer {{accessToken}}
+
+### Progress and nextPosition
+GET {{host}}/api/practice/writing/{{module}}/runs/{{runId}}
+Authorization: Bearer {{accessToken}}
+
+### Only available after 100% completion
+POST {{host}}/api/practice/writing/{{module}}/runs/{{runId}}/restart
+Authorization: Bearer {{accessToken}}
+
+### History
+GET {{host}}/api/practice/writing/{{module}}/runs?skip=0&take=20
+Authorization: Bearer {{accessToken}}

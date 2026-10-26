@@ -1,0 +1,62 @@
+@host = https://localhost:7077
+@accessToken = REPLACE_WITH_LOGIN_ACCESS_TOKEN
+@module = listen-repeat
+@runId = REPLACE_WITH_RUN_ID
+@position = 1
+@submissionId = 8a03dcda-cb3a-47c0-8b13-9c3d84520937
+
+### Sign in first using ToeflExam.Api.http. Module can also be interview.
+GET {{host}}/api/speaking
+Authorization: Bearer {{accessToken}}
+
+### Start or resume; copy id into runId.
+POST {{host}}/api/practice/speaking/{{module}}/runs
+Authorization: Bearer {{accessToken}}
+
+### Current task metadata; reference text is withheld until submission.
+GET {{host}}/api/practice/speaking/{{module}}/runs/{{runId}}/steps/{{position}}
+Authorization: Bearer {{accessToken}}
+
+### Authorized question audio (not the student's recording).
+GET {{host}}/api/practice/speaking/{{module}}/runs/{{runId}}/steps/{{position}}/audio
+Authorization: Bearer {{accessToken}}
+
+### Canonical 16 kHz mono PCM16 WAV, base64 without data URL prefix.
+# Easiest to record/submit from /#/speaking. This call uses Gemini quota.
+# New task = new UUID; network retry = same UUID and original recording.
+POST {{host}}/api/practice/speaking/{{module}}/runs/{{runId}}/steps/{{position}}/submissions
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json
+
+{
+  "submissionId": "{{submissionId}}",
+  "audioBase64": "REPLACE_WITH_WAV_BASE64",
+  "skip": false
+}
+
+### Alternative: intentionally leave this task unanswered (0, no Gemini call).
+POST {{host}}/api/practice/speaking/{{module}}/runs/{{runId}}/steps/{{position}}/submissions
+Authorization: Bearer {{accessToken}}
+Content-Type: application/json
+
+{
+  "submissionId": "{{submissionId}}",
+  "audioBase64": "",
+  "skip": true
+}
+
+### Read temporary report data (no attachment); available for at most 30 minutes.
+GET {{host}}/api/practice/speaking/{{module}}/runs/{{runId}}/steps/{{position}}/report
+Authorization: Bearer {{accessToken}}
+
+### Progress
+GET {{host}}/api/practice/speaking/{{module}}/runs/{{runId}}
+Authorization: Bearer {{accessToken}}
+
+### History
+GET {{host}}/api/practice/speaking/{{module}}/runs?skip=0&take=20
+Authorization: Bearer {{accessToken}}
+
+### New run after 100% completion
+POST {{host}}/api/practice/speaking/{{module}}/runs/{{runId}}/restart
+Authorization: Bearer {{accessToken}}

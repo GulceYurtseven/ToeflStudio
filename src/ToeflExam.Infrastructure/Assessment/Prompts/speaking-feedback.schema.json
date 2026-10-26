@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "assessable": { "type": "boolean" },
+    "score": { "type": "integer", "minimum": 0, "maximum": 5 },
+    "rationale": { "type": "string" },
+    "strengths": { "type": "array", "items": { "type": "string" }, "maxItems": 5 },
+    "issues": { "type": "array", "maxItems": 8, "items": {
+      "type": "object", "properties": {
+        "category": { "type": "string", "enum": ["repetition", "language", "development"] },
+        "explanation": { "type": "string" }, "suggestion": { "type": "string" }
+      }, "required": ["category", "explanation", "suggestion"], "additionalProperties": false
+    } },
+    "nextSteps": { "type": "array", "items": { "type": "string" }, "minItems": 1, "maxItems": 5 }
+  },
+  "required": ["assessable", "score", "rationale", "strengths", "issues", "nextSteps"],
+  "additionalProperties": false
+}

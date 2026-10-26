@@ -1,0 +1,34 @@
+@baseUrl = https://localhost:7077
+@token = PASTE_ACCESS_TOKEN
+@module = daily-life
+@runId = PASTE_RUN_ID
+
+### Reading overview
+GET {{baseUrl}}/api/reading
+Authorization: Bearer {{token}}
+
+### Start or resume a module (complete-words / daily-life / academic-passage)
+POST {{baseUrl}}/api/reading/{{module}}/runs
+Authorization: Bearer {{token}}
+
+### Next accessible activity; answer keys are not returned before submission
+GET {{baseUrl}}/api/reading/{{module}}/runs/{{runId}}/steps/1
+Authorization: Bearer {{token}}
+
+### Submit once; keep this UUID for retries of this submission
+POST {{baseUrl}}/api/reading/{{module}}/runs/{{runId}}/steps/1/submissions
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "submissionId": "40000000-0000-4000-8000-000000000001",
+  "answers": { "1": "A", "2": "C" }
+}
+
+### History
+GET {{baseUrl}}/api/reading/{{module}}/runs?skip=0&take=10
+Authorization: Bearer {{token}}
+
+### Restart only after 100% completion
+POST {{baseUrl}}/api/reading/{{module}}/runs/{{runId}}/restart
+Authorization: Bearer {{token}}

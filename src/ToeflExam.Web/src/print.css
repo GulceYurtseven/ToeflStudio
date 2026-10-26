@@ -1,0 +1,105 @@
+.print-only {
+    display: none;
+}
+@media print {
+    @page {
+        size: A4;
+        margin: 18mm;
+    }
+    .no-print,
+    .sidebar,
+    .topbar,
+    .app-footer,
+    .practice-top,
+    .practice-aside,
+    .answer-card,
+    .next-step,
+    .error-box,
+    .modal {
+        display: none !important;
+    }
+    html,
+    body,
+    #root,
+    .app-shell,
+    .app-body,
+    .main,
+    .practice-layout,
+    .practice-content {
+        display: block !important;
+        width: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        background: white !important;
+        color: #111 !important;
+        max-width: none !important;
+    }
+    .practice-heading {
+        margin: 0 0 20px !important;
+    }
+    .practice-heading h1 {
+        font-size: 25px !important;
+    }
+    .task-card,
+    .feedback-card {
+        box-shadow: none !important;
+        border: 0 !important;
+        padding: 0 !important;
+        margin: 0 0 25px !important;
+    }
+    .task-card h2 {
+        font-size: 19px !important;
+    }
+    .task-context,
+    .requirements li,
+    .feedback-section > p,
+    .issue p {
+        font-size: 11px !important;
+        color: #222 !important;
+    }
+    .requirements,
+    .discussion-post,
+    .correct-answer,
+    .strengths,
+    .issue {
+        background: white !important;
+        border: 1px solid #ddd !important;
+        break-inside: avoid;
+    }
+    .feedback-title,
+    .issue,
+    .feedback-section h3 {
+        break-inside: avoid;
+    }
+    .response-details {
+        border: 0 !important;
+    }
+    .response-details > div {
+        display: block !important;
+        border: 0 !important;
+        padding: 10px 0 !important;
+        font-size: 12px !important;
+    }
+    .response-details::details-content {
+        content-visibility: visible !important;
+        display: block !important;
+    }
+    .response-details summary {
+        padding: 10px 0 !important;
+        font-weight: bold;
+    }
+    .score-box strong {
+        color: #111 !important;
+    }
+    .print-only {
+        display: block !important;
+        font-size: 10px;
+        border-top: 1px solid #ccc;
+        margin-top: 20px;
+        padding-top: 10px;
+    }
+    a {
+        text-decoration: none !important;
+        color: #111 !important;
+    }
+}

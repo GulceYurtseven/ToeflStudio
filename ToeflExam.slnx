@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ToeflExam.Api/ToeflExam.Api.csproj" />
+    <Project Path="src/ToeflExam.Application/ToeflExam.Application.csproj" />
+    <Project Path="src/ToeflExam.Domain/ToeflExam.Domain.csproj" />
+    <Project Path="src/ToeflExam.Infrastructure/ToeflExam.Infrastructure.csproj" />
+    <Project Path="src/ToeflExam.Worker/ToeflExam.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ToeflExam.Application.Tests/ToeflExam.Application.Tests.csproj" />
+    <Project Path="tests/ToeflExam.Domain.Tests/ToeflExam.Domain.Tests.csproj" />
+    <Project Path="tests/ToeflExam.IntegrationTests/ToeflExam.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
